@@ -1,0 +1,420 @@
+- {atomic_weight: '1,00794 (7)', density: "0,084 \u0433/\u043B \u0433/\u0441\u043C\
+    ^3", english_name: Hydrogenium, group: '1', name: "\u0412\u043E\u0434\u043E\u0440\
+    \u043E\u0434", num: 1, period: '1', source: 'https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D0%B4',
+  sym: H}
+- {atomic_weight: '4,002602 (2)', density: "0,17 \u0433/\u043B \u0433/\u0441\u043C\
+    ^3", english_name: Helium, group: '18', name: "\u0413\u0435\u043B\u0438\u0439",
+  num: 2, period: '1', source: 'https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D0%BB%D0%B8%D0%B9',
+  sym: He}
+- {atomic_weight: '6,941 (2)', density: "0,53 \u0433/\u0441\u043C^3", english_name: Lithium,
+  group: '1', name: "\u041B\u0438\u0442\u0438\u0439", num: 3, period: '2', source: 'https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D1%82%D0%B8%D0%B9',
+  sym: Li}
+- {atomic_weight: '9,012182 (3)', density: "1,85 \u0433/\u0441\u043C^3", english_name: Beryllium,
+  group: '2', name: "\u0411\u0435\u0440\u0438\u043B\u043B\u0438\u0439", num: 4, period: '2',
+  source: 'https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D0%B8%D0%BB%D0%BB%D0%B8%D0%B9',
+  sym: Be}
+- {atomic_weight: '10,811 (7)', density: "2,46 \u0433/\u0441\u043C^3", english_name: Borum,
+  group: '13', name: "\u0411\u043E\u0440", num: 5, period: '2', source: 'https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D1%80_(%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82)',
+  sym: B}
+- {atomic_weight: '12,0107 (8)', density: "3,51 \u0433/\u0441\u043C^3", english_name: Carboneum,
+  group: '14', name: "\u0423\u0433\u043B\u0435\u0440\u043E\u0434", num: 6, period: '2',
+  source: 'https://ru.wikipedia.org/wiki/%D0%A3%D0%B3%D0%BB%D0%B5%D1%80%D0%BE%D0%B4',
+  sym: C}
+- {atomic_weight: '14,0067 (2)', density: "1,17 \u0433/\u043B \u0433/\u0441\u043C\
+    ^3", english_name: Nitrogenium, group: '15', name: "\u0410\u0437\u043E\u0442",
+  num: 7, period: '2', source: 'https://ru.wikipedia.org/wiki/%D0%90%D0%B7%D0%BE%D1%82',
+  sym: N}
+- {atomic_weight: '15,9994 (3)', density: "1,33 \u0433/\u043B \u0433/\u0441\u043C\
+    ^3", english_name: Oxygenium, group: '16', name: "\u041A\u0438\u0441\u043B\u043E\
+    \u0440\u043E\u0434", num: 8, period: '2', source: 'https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D1%81%D0%BB%D0%BE%D1%80%D0%BE%D0%B4',
+  sym: O}
+- {atomic_weight: '18,9984032 (5)', density: "1,58 \u0433/\u043B \u0433/\u0441\u043C\
+    ^3", english_name: Fluorum, group: '17', name: "\u0424\u0442\u043E\u0440", num: 9,
+  period: '2', source: 'https://ru.wikipedia.org/wiki/%D0%A4%D1%82%D0%BE%D1%80', sym: F}
+- {atomic_weight: '20,1797 (6)', density: "0,84 \u0433/\u043B \u0433/\u0441\u043C\
+    ^3", english_name: Neon, group: '18', name: "\u041D\u0435\u043E\u043D", num: 10,
+  period: '2', source: 'https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D0%BE%D0%BD', sym: Ne}
+- {atomic_weight: '22,98976928 (2)', density: "0,97 \u0433/\u0441\u043C^3", english_name: Natrium,
+  group: '1', name: "\u041D\u0430\u0442\u0440\u0438\u0439", num: 11, period: '3',
+  source: 'https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D1%82%D1%80%D0%B8%D0%B9', sym: Na}
+- {atomic_weight: '24,3050 (6)', density: "1,74 \u0433/\u0441\u043C^3", english_name: Magnesium,
+  group: '2', name: "\u041C\u0430\u0433\u043D\u0438\u0439", num: 12, period: '3',
+  source: 'https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B3%D0%BD%D0%B8%D0%B9', sym: Mg}
+- {atomic_weight: '26,9815386 (8)', density: "2,70 \u0433/\u0441\u043C^3", english_name: Aluminium,
+  group: '13', name: "\u0410\u043B\u044E\u043C\u0438\u043D\u0438\u0439", num: 13,
+  period: '3', source: 'https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D1%8E%D0%BC%D0%B8%D0%BD%D0%B8%D0%B9',
+  sym: Al}
+- {atomic_weight: '28,0855 (3)', density: "2,33 \u0433/\u0441\u043C^3", english_name: Silicium,
+  group: '14', name: "\u041A\u0440\u0435\u043C\u043D\u0438\u0439", num: 14, period: '3',
+  source: 'https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B5%D0%BC%D0%BD%D0%B8%D0%B9',
+  sym: Si}
+- {atomic_weight: '30,973762 (2)', density: "1,82 \u0433/\u0441\u043C^3", english_name: Phosphorus,
+  group: '15', name: "\u0424\u043E\u0441\u0444\u043E\u0440", num: 15, period: '3',
+  source: 'https://ru.wikipedia.org/wiki/%D0%A4%D0%BE%D1%81%D1%84%D0%BE%D1%80', sym: P}
+- {atomic_weight: '32,065 (5)', density: "2,06 \u0433/\u0441\u043C^3", english_name: Sulfur,
+  group: '16', name: "\u0421\u0435\u0440\u0430", num: 16, period: '3', source: 'https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D1%80%D0%B0',
+  sym: S}
+- {atomic_weight: '35,453 (2)', density: "2,95 \u0433/\u043B \u0433/\u0441\u043C^3",
+  english_name: Chlorum, group: '17', name: "\u0425\u043B\u043E\u0440", num: 17, period: '3',
+  source: 'https://ru.wikipedia.org/wiki/%D0%A5%D0%BB%D0%BE%D1%80', sym: Cl}
+- {atomic_weight: '39,948 (1)', density: "1,66 \u0433/\u043B \u0433/\u0441\u043C^3",
+  english_name: Argon, group: '18', name: "\u0410\u0440\u0433\u043E\u043D", num: 18,
+  period: '3', source: 'https://ru.wikipedia.org/wiki/%D0%90%D1%80%D0%B3%D0%BE%D0%BD',
+  sym: Ar}
+- {atomic_weight: '39,0983 (1)', density: "0,86 \u0433/\u0441\u043C^3", english_name: Kalium,
+  group: '1', name: "\u041A\u0430\u043B\u0438\u0439", num: 19, period: '4', source: 'https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BB%D0%B8%D0%B9',
+  sym: K}
+- {atomic_weight: '40,078 (4)', density: "1,54 \u0433/\u0441\u043C^3", english_name: Calcium,
+  group: '2', name: "\u041A\u0430\u043B\u044C\u0446\u0438\u0439", num: 20, period: '4',
+  source: 'https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BB%D1%8C%D1%86%D0%B8%D0%B9',
+  sym: Ca}
+- {atomic_weight: '44,955912 (6)', density: "2,99 \u0433/\u0441\u043C^3", english_name: Scandium,
+  group: '3', name: "\u0421\u043A\u0430\u043D\u0434\u0438\u0439", num: 21, period: '4',
+  source: 'https://ru.wikipedia.org/wiki/%D0%A1%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%B9',
+  sym: Sc}
+- {atomic_weight: '47,867 (1)', density: "4,51 \u0433/\u0441\u043C^3", english_name: Titanium,
+  group: '4', name: "\u0422\u0438\u0442\u0430\u043D", num: 22, period: '4', source: 'https://ru.wikipedia.org/wiki/%D0%A2%D0%B8%D1%82%D0%B0%D0%BD_(%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82)',
+  sym: Ti}
+- {atomic_weight: '50,9415 (1)', density: "6,09 \u0433/\u0441\u043C^3", english_name: Vanadium,
+  group: '5', name: "\u0412\u0430\u043D\u0430\u0434\u0438\u0439", num: 23, period: '4',
+  source: 'https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D0%BD%D0%B0%D0%B4%D0%B8%D0%B9',
+  sym: V}
+- {atomic_weight: '51,9961 (6)', density: "7,14 \u0433/\u0441\u043C^3", english_name: Chromium,
+  group: '6', name: "\u0425\u0440\u043E\u043C", num: 24, period: '4', source: 'https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D0%BC',
+  sym: Cr}
+- {atomic_weight: '54,938045 (5)', density: "7,44 \u0433/\u0441\u043C^3", english_name: 'Manganum,
+
+    Manganesium', group: '7', name: "\u041C\u0430\u0440\u0433\u0430\u043D\u0435\u0446",
+  num: 25, period: '4', source: 'https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D0%B3%D0%B0%D0%BD%D0%B5%D1%86',
+  sym: Mn}
+- {atomic_weight: '55,845 (2)', density: "7,87 \u0433/\u0441\u043C^3", english_name: Ferrum,
+  group: '8', name: "\u0416\u0435\u043B\u0435\u0437\u043E", num: 26, period: '4',
+  source: 'https://ru.wikipedia.org/wiki/%D0%96%D0%B5%D0%BB%D0%B5%D0%B7%D0%BE', sym: Fe}
+- {atomic_weight: '58,933195 (5)', density: "8,89 \u0433/\u0441\u043C^3", english_name: Cobaltum,
+  group: '9', name: "\u041A\u043E\u0431\u0430\u043B\u044C\u0442", num: 27, period: '4',
+  source: 'https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%B1%D0%B0%D0%BB%D1%8C%D1%82',
+  sym: Co}
+- {atomic_weight: '58,6934 (2)', density: "8,91 \u0433/\u0441\u043C^3", english_name: Niccolum,
+  group: '10', name: "\u041D\u0438\u043A\u0435\u043B\u044C", num: 28, period: '4',
+  source: 'https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%BA%D0%B5%D0%BB%D1%8C', sym: Ni}
+- {atomic_weight: '63,546 (3)', density: "8,92 \u0433/\u0441\u043C^3", english_name: Cuprum,
+  group: '11', name: "\u041C\u0435\u0434\u044C", num: 29, period: '4', source: 'https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B4%D1%8C',
+  sym: Cu}
+- {atomic_weight: '65,409 (4)', density: "7,14 \u0433/\u0441\u043C^3", english_name: Zincum,
+  group: '12', name: "\u0426\u0438\u043D\u043A", num: 30, period: '4', source: 'https://ru.wikipedia.org/wiki/%D0%A6%D0%B8%D0%BD%D0%BA',
+  sym: Zn}
+- {atomic_weight: '69,723 (1)', density: "5,91 \u0433/\u0441\u043C^3", english_name: Gallium,
+  group: '13', name: "\u0413\u0430\u043B\u043B\u0438\u0439", num: 31, period: '4',
+  source: 'https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%BB%D0%BB%D0%B8%D0%B9', sym: Ga}
+- {atomic_weight: '72,64 (1)', density: "5,32 \u0433/\u0441\u043C^3", english_name: Germanium,
+  group: '14', name: "\u0413\u0435\u0440\u043C\u0430\u043D\u0438\u0439", num: 32,
+  period: '4', source: 'https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D0%B9',
+  sym: Ge}
+- {atomic_weight: '74,92160 (2)', density: "5,72 \u0433/\u0441\u043C^3", english_name: Arsenicum,
+  group: '15', name: "\u041C\u044B\u0448\u044C\u044F\u043A", num: 33, period: '4',
+  source: 'https://ru.wikipedia.org/wiki/%D0%9C%D1%8B%D1%88%D1%8C%D1%8F%D0%BA', sym: As}
+- {atomic_weight: '78,96 (3)', density: "4,82 \u0433/\u0441\u043C^3", english_name: Selenium,
+  group: '16', name: "\u0421\u0435\u043B\u0435\u043D", num: 34, period: '4', source: 'https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BB%D0%B5%D0%BD',
+  sym: Se}
+- {atomic_weight: '79,904 (1)', density: "3,14 \u0433/\u0441\u043C^3", english_name: Bromum,
+  group: '17', name: "\u0411\u0440\u043E\u043C", num: 35, period: '4', source: 'https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%BE%D0%BC',
+  sym: Br}
+- {atomic_weight: '83,798 (2)', density: "3,48 \u0433/\u043B \u0433/\u0441\u043C^3",
+  english_name: Krypton, group: '18', name: "\u041A\u0440\u0438\u043F\u0442\u043E\u043D",
+  num: 36, period: '4', source: 'https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B8%D0%BF%D1%82%D0%BE%D0%BD',
+  sym: Kr}
+- {atomic_weight: '85,4678 (3)', density: "1,53 \u0433/\u0441\u043C^3", english_name: Rubidium,
+  group: '1', name: "\u0420\u0443\u0431\u0438\u0434\u0438\u0439", num: 37, period: '5',
+  source: 'https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D0%B1%D0%B8%D0%B4%D0%B8%D0%B9',
+  sym: Rb}
+- {atomic_weight: '87,62 (1)', density: "2,63 \u0433/\u0441\u043C^3", english_name: Strontium,
+  group: '2', name: "\u0421\u0442\u0440\u043E\u043D\u0446\u0438\u0439", num: 38, period: '5',
+  source: 'https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D0%BE%D0%BD%D1%86%D0%B8%D0%B9',
+  sym: Sr}
+- {atomic_weight: '88,90585 (2)', density: "4,47 \u0433/\u0441\u043C^3", english_name: Yttrium,
+  group: '3', name: "\u0418\u0442\u0442\u0440\u0438\u0439", num: 39, period: '5',
+  source: 'https://ru.wikipedia.org/wiki/%D0%98%D1%82%D1%82%D1%80%D0%B8%D0%B9', sym: Y}
+- {atomic_weight: '91,224 (2)', density: "6,51 \u0433/\u0441\u043C^3", english_name: Zirconium,
+  group: '4', name: "\u0426\u0438\u0440\u043A\u043E\u043D\u0438\u0439", num: 40, period: '5',
+  source: 'https://ru.wikipedia.org/wiki/%D0%A6%D0%B8%D1%80%D0%BA%D0%BE%D0%BD%D0%B8%D0%B9',
+  sym: Zr}
+- {atomic_weight: '92,90638 (2)', density: "8,58 \u0433/\u0441\u043C^3", english_name: Niobium,
+  group: '5', name: "\u041D\u0438\u043E\u0431\u0438\u0439", num: 41, period: '5',
+  source: 'https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%BE%D0%B1%D0%B8%D0%B9', sym: Nb}
+- {atomic_weight: '95,94 (2)', density: "10,28 \u0433/\u0441\u043C^3", english_name: Molybdaenum,
+  group: '6', name: "\u041C\u043E\u043B\u0438\u0431\u0434\u0435\u043D", num: 42, period: '5',
+  source: 'https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BB%D0%B8%D0%B1%D0%B4%D0%B5%D0%BD',
+  sym: Mo}
+- {atomic_weight: '[98,9063]', density: "11,49 \u0433/\u0441\u043C^3", english_name: Technetium,
+  group: '7', name: "\u0422\u0435\u0445\u043D\u0435\u0446\u0438\u0439", num: 43, period: '5',
+  source: 'https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D1%85%D0%BD%D0%B5%D1%86%D0%B8%D0%B9',
+  sym: Tc}
+- {atomic_weight: '101,07 (2)', density: "12,45 \u0433/\u0441\u043C^3", english_name: Ruthenium,
+  group: '8', name: "\u0420\u0443\u0442\u0435\u043D\u0438\u0439", num: 44, period: '5',
+  source: 'https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D1%82%D0%B5%D0%BD%D0%B8%D0%B9',
+  sym: Ru}
+- {atomic_weight: '102,90550 (2)', density: "12,41 \u0433/\u0441\u043C^3", english_name: Rhodium,
+  group: '9', name: "\u0420\u043E\u0434\u0438\u0439", num: 45, period: '5', source: 'https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B4%D0%B8%D0%B9',
+  sym: Rh}
+- {atomic_weight: '106,42 (1)', density: "12,02 \u0433/\u0441\u043C^3", english_name: Palladium,
+  group: '10', name: "\u041F\u0430\u043B\u043B\u0430\u0434\u0438\u0439", num: 46,
+  period: '5', source: 'https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BB%D0%BB%D0%B0%D0%B4%D0%B8%D0%B9_(%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82)',
+  sym: Pd}
+- {atomic_weight: '107,8682 (2)', density: "10,49 \u0433/\u0441\u043C^3", english_name: Argentum,
+  group: '11', name: "\u0421\u0435\u0440\u0435\u0431\u0440\u043E", num: 47, period: '5',
+  source: 'https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D1%80%D0%B5%D0%B1%D1%80%D0%BE',
+  sym: Ag}
+- {atomic_weight: '112,411 (8)', density: "8,64 \u0433/\u0441\u043C^3", english_name: Cadmium,
+  group: '12', name: "\u041A\u0430\u0434\u043C\u0438\u0439", num: 48, period: '5',
+  source: 'https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B4%D0%BC%D0%B8%D0%B9', sym: Cd}
+- {atomic_weight: '114,818 (3)', density: "7,31 \u0433/\u0441\u043C^3", english_name: Indium,
+  group: '13', name: "\u0418\u043D\u0434\u0438\u0439", num: 49, period: '5', source: 'https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D0%B4%D0%B8%D0%B9',
+  sym: In}
+- {atomic_weight: '118,710 (7)', density: "7,29 \u0433/\u0441\u043C^3", english_name: Stannum,
+  group: '14', name: "\u041E\u043B\u043E\u0432\u043E", num: 50, period: '5', source: 'https://ru.wikipedia.org/wiki/%D0%9E%D0%BB%D0%BE%D0%B2%D0%BE',
+  sym: Sn}
+- {atomic_weight: '121,760 (1)', density: "6,69 \u0433/\u0441\u043C^3", english_name: Stibium,
+  group: '15', name: "\u0421\u0443\u0440\u044C\u043C\u0430", num: 51, period: '5',
+  source: 'https://ru.wikipedia.org/wiki/%D0%A1%D1%83%D1%80%D1%8C%D0%BC%D0%B0', sym: Sb}
+- {atomic_weight: '127,60 (3)', density: "6,25 \u0433/\u0441\u043C^3", english_name: Tellurium,
+  group: '16', name: "\u0422\u0435\u043B\u043B\u0443\u0440", num: 52, period: '5',
+  source: 'https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BB%D0%BB%D1%83%D1%80', sym: Te}
+- {atomic_weight: '126,90447 (3)', density: "4,94 \u0433/\u0441\u043C^3", english_name: Iodium,
+  group: '17', name: "\u0418\u043E\u0434", num: 53, period: '5', source: 'https://ru.wikipedia.org/wiki/%D0%98%D0%BE%D0%B4',
+  sym: I}
+- {atomic_weight: '131,293 (6)', density: "4,49 \u0433/\u043B \u0433/\u0441\u043C\
+    ^3", english_name: Xenon, group: '18', name: "\u041A\u0441\u0435\u043D\u043E\u043D",
+  num: 54, period: '5', source: 'https://ru.wikipedia.org/wiki/%D0%9A%D1%81%D0%B5%D0%BD%D0%BE%D0%BD',
+  sym: Xe}
+- {atomic_weight: '132,9054519 (2)', density: "1,90 \u0433/\u0441\u043C^3", english_name: Caesium,
+  group: '1', name: "\u0426\u0435\u0437\u0438\u0439", num: 55, period: '6', source: 'https://ru.wikipedia.org/wiki/%D0%A6%D0%B5%D0%B7%D0%B8%D0%B9',
+  sym: Cs}
+- {atomic_weight: '137,327 (7)', density: "3,65 \u0433/\u0441\u043C^3", english_name: Barium,
+  group: '2', name: "\u0411\u0430\u0440\u0438\u0439", num: 56, period: '6', source: 'https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D1%80%D0%B8%D0%B9',
+  sym: Ba}
+- {atomic_weight: '138,90547 (7)', density: "6,16 \u0433/\u0441\u043C^3", english_name: Lanthanum,
+  group: '', name: "\u041B\u0430\u043D\u0442\u0430\u043D", num: 57, period: '6', source: 'https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D0%BD%D1%82%D0%B0%D0%BD',
+  sym: La}
+- {atomic_weight: '140,116 (1)', density: "6,77 \u0433/\u0441\u043C^3", english_name: Cerium,
+  group: '', name: "\u0426\u0435\u0440\u0438\u0439", num: 58, period: '6', source: 'https://ru.wikipedia.org/wiki/%D0%A6%D0%B5%D1%80%D0%B8%D0%B9',
+  sym: Ce}
+- {atomic_weight: '140,90765 (2)', density: "6,48 \u0433/\u0441\u043C^3", english_name: Praseodymium,
+  group: '', name: "\u041F\u0440\u0430\u0437\u0435\u043E\u0434\u0438\u043C", num: 59,
+  period: '6', source: 'https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%B7%D0%B5%D0%BE%D0%B4%D0%B8%D0%BC',
+  sym: Pr}
+- {atomic_weight: '144,242 (3)', density: "7,00 \u0433/\u0441\u043C^3", english_name: Neodymium,
+  group: '', name: "\u041D\u0435\u043E\u0434\u0438\u043C", num: 60, period: '6', source: 'https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D0%BE%D0%B4%D0%B8%D0%BC',
+  sym: Nd}
+- {atomic_weight: '[146,9151]', density: "7,22 \u0433/\u0441\u043C^3", english_name: Promethium,
+  group: '', name: "\u041F\u0440\u043E\u043C\u0435\u0442\u0438\u0439", num: 61, period: '6',
+  source: 'https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%BC%D0%B5%D1%82%D0%B8%D0%B9',
+  sym: Pm}
+- {atomic_weight: '150,36 (2)', density: "7,54 \u0433/\u0441\u043C^3", english_name: Samarium,
+  group: '', name: "\u0421\u0430\u043C\u0430\u0440\u0438\u0439", num: 62, period: '6',
+  source: 'https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BC%D0%B0%D1%80%D0%B8%D0%B9',
+  sym: Sm}
+- {atomic_weight: '151,964 (1)', density: "5,25 \u0433/\u0441\u043C^3", english_name: Europium,
+  group: '', name: "\u0415\u0432\u0440\u043E\u043F\u0438\u0439", num: 63, period: '6',
+  source: 'https://ru.wikipedia.org/wiki/%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B8%D0%B9',
+  sym: Eu}
+- {atomic_weight: '157,25 (3)', density: "7,89 \u0433/\u0441\u043C^3", english_name: Gadolinium,
+  group: '', name: "\u0413\u0430\u0434\u043E\u043B\u0438\u043D\u0438\u0439", num: 64,
+  period: '6', source: 'https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B4%D0%BE%D0%BB%D0%B8%D0%BD%D0%B8%D0%B9',
+  sym: Gd}
+- {atomic_weight: '158,92535 (2)', density: "8,25 \u0433/\u0441\u043C^3", english_name: Terbium,
+  group: '', name: "\u0422\u0435\u0440\u0431\u0438\u0439", num: 65, period: '6', source: 'https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D1%80%D0%B1%D0%B8%D0%B9',
+  sym: Tb}
+- {atomic_weight: '162,500 (1)', density: "8,56 \u0433/\u0441\u043C^3", english_name: Dysprosium,
+  group: '', name: "\u0414\u0438\u0441\u043F\u0440\u043E\u0437\u0438\u0439", num: 66,
+  period: '6', source: 'https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D1%81%D0%BF%D1%80%D0%BE%D0%B7%D0%B8%D0%B9',
+  sym: Dy}
+- {atomic_weight: '164,93032 (2)', density: "8,78 \u0433/\u0441\u043C^3", english_name: Holmium,
+  group: '', name: "\u0413\u043E\u043B\u044C\u043C\u0438\u0439", num: 67, period: '6',
+  source: 'https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D0%BB%D1%8C%D0%BC%D0%B8%D0%B9',
+  sym: Ho}
+- {atomic_weight: '167,259 (3)', density: "9,05 \u0433/\u0441\u043C^3", english_name: Erbium,
+  group: '', name: "\u042D\u0440\u0431\u0438\u0439", num: 68, period: '6', source: 'https://ru.wikipedia.org/wiki/%D0%AD%D1%80%D0%B1%D0%B8%D0%B9',
+  sym: Er}
+- {atomic_weight: '168,93421 (2)', density: "9,32 \u0433/\u0441\u043C^3", english_name: Thulium,
+  group: '', name: "\u0422\u0443\u043B\u0438\u0439", num: 69, period: '6', source: 'https://ru.wikipedia.org/wiki/%D0%A2%D1%83%D0%BB%D0%B8%D0%B9',
+  sym: Tm}
+- {atomic_weight: '173,04 (3)', density: "6,97 \u0433/\u0441\u043C^3", english_name: Ytterbium,
+  group: '', name: "\u0418\u0442\u0442\u0435\u0440\u0431\u0438\u0439", num: 70, period: '6',
+  source: 'https://ru.wikipedia.org/wiki/%D0%98%D1%82%D1%82%D0%B5%D1%80%D0%B1%D0%B8%D0%B9',
+  sym: Yb}
+- {atomic_weight: '174,967 (1)', density: "9,84 \u0433/\u0441\u043C^3", english_name: Lutetium,
+  group: '3', name: "\u041B\u044E\u0442\u0435\u0446\u0438\u0439", num: 71, period: '6',
+  source: 'https://ru.wikipedia.org/wiki/%D0%9B%D1%8E%D1%82%D0%B5%D1%86%D0%B8%D0%B9',
+  sym: Lu}
+- {atomic_weight: '178,49 (2)', density: "13,31 \u0433/\u0441\u043C^3", english_name: Hafnium,
+  group: '4', name: "\u0413\u0430\u0444\u043D\u0438\u0439", num: 72, period: '6',
+  source: 'https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D1%84%D0%BD%D0%B8%D0%B9', sym: Hf}
+- {atomic_weight: '180,9479 (1)', density: "16,68 \u0433/\u0441\u043C^3", english_name: Tantalum,
+  group: '5', name: "\u0422\u0430\u043D\u0442\u0430\u043B", num: 73, period: '6',
+  source: 'https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%BD%D1%82%D0%B0%D0%BB_(%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82)',
+  sym: Ta}
+- {atomic_weight: '183,84 (1)', density: "19,26 \u0433/\u0441\u043C^3", english_name: Wolframium,
+  group: '6', name: "\u0412\u043E\u043B\u044C\u0444\u0440\u0430\u043C", num: 74, period: '6',
+  source: 'https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC',
+  sym: W}
+- {atomic_weight: '186,207 (1)', density: "21,03 \u0433/\u0441\u043C^3", english_name: Rhenium,
+  group: '7', name: "\u0420\u0435\u043D\u0438\u0439", num: 75, period: '6', source: 'https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BD%D0%B8%D0%B9',
+  sym: Re}
+- {atomic_weight: '190,23 (3)', density: "22,61 \u0433/\u0441\u043C^3", english_name: Osmium,
+  group: '8', name: "\u041E\u0441\u043C\u0438\u0439", num: 76, period: '6', source: 'https://ru.wikipedia.org/wiki/%D0%9E%D1%81%D0%BC%D0%B8%D0%B9',
+  sym: Os}
+- {atomic_weight: '192,217 (3)', density: "22,65 \u0433/\u0441\u043C^3", english_name: Iridium,
+  group: '9', name: "\u0418\u0440\u0438\u0434\u0438\u0439", num: 77, period: '6',
+  source: 'https://ru.wikipedia.org/wiki/%D0%98%D1%80%D0%B8%D0%B4%D0%B8%D0%B9', sym: Ir}
+- {atomic_weight: '195,084 (9)', density: "21,45 \u0433/\u0441\u043C^3", english_name: Platinum,
+  group: '10', name: "\u041F\u043B\u0430\u0442\u0438\u043D\u0430", num: 78, period: '6',
+  source: 'https://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D0%B0%D1%82%D0%B8%D0%BD%D0%B0',
+  sym: Pt}
+- {atomic_weight: '196,966569 (4)', density: "19,32 \u0433/\u0441\u043C^3", english_name: Aurum,
+  group: '11', name: "\u0417\u043E\u043B\u043E\u0442\u043E", num: 79, period: '6',
+  source: 'https://ru.wikipedia.org/wiki/%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%BE', sym: Au}
+- {atomic_weight: '200,59 (2)', density: "13,55 \u0433/\u0441\u043C^3", english_name: Hydrargyrum,
+  group: '12', name: "\u0420\u0442\u0443\u0442\u044C", num: 80, period: '6', source: 'https://ru.wikipedia.org/wiki/%D0%A0%D1%82%D1%83%D1%82%D1%8C',
+  sym: Hg}
+- {atomic_weight: '204,3833 (2)', density: "11,85 \u0433/\u0441\u043C^3", english_name: Thallium,
+  group: '13', name: "\u0422\u0430\u043B\u043B\u0438\u0439", num: 81, period: '6',
+  source: 'https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%BB%D0%BB%D0%B8%D0%B9', sym: Tl}
+- {atomic_weight: '207,2 (1)', density: "11,34 \u0433/\u0441\u043C^3", english_name: Plumbum,
+  group: '14', name: "\u0421\u0432\u0438\u043D\u0435\u0446", num: 82, period: '6',
+  source: 'https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B8%D0%BD%D0%B5%D1%86', sym: Pb}
+- {atomic_weight: '208,98040 (1)', density: "9,80 \u0433/\u0441\u043C^3", english_name: Bismuthum,
+  group: '15', name: "\u0412\u0438\u0441\u043C\u0443\u0442", num: 83, period: '6',
+  source: 'https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D1%81%D0%BC%D1%83%D1%82', sym: Bi}
+- {atomic_weight: '[208,9824]', density: "9,20 \u0433/\u0441\u043C^3", english_name: Polonium,
+  group: '16', name: "\u041F\u043E\u043B\u043E\u043D\u0438\u0439", num: 84, period: '6',
+  source: 'https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%BE%D0%BD%D0%B8%D0%B9',
+  sym: Po}
+- {atomic_weight: '[209,9871]', density: " \u0433/\u0441\u043C^3", english_name: Astatum,
+  group: '17', name: "\u0410\u0441\u0442\u0430\u0442", num: 85, period: '6', source: 'https://ru.wikipedia.org/wiki/%D0%90%D1%81%D1%82%D0%B0%D1%82',
+  sym: At}
+- {atomic_weight: '[222,0176]', density: "9,23 \u0433/\u043B \u0433/\u0441\u043C^3",
+  english_name: Radon, group: '18', name: "\u0420\u0430\u0434\u043E\u043D", num: 86,
+  period: '6', source: 'https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B4%D0%BE%D0%BD',
+  sym: Rn}
+- {atomic_weight: '[223,0197]', density: "1,87 \u0433/\u0441\u043C^3", english_name: Francium,
+  group: '1', name: "\u0424\u0440\u0430\u043D\u0446\u0438\u0439", num: 87, period: '7',
+  source: 'https://ru.wikipedia.org/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D0%B9',
+  sym: Fr}
+- {atomic_weight: '[226,0254]', density: "5,50 \u0433/\u0441\u043C^3", english_name: Radium,
+  group: '2', name: "\u0420\u0430\u0434\u0438\u0439", num: 88, period: '7', source: 'https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B4%D0%B8%D0%B9',
+  sym: Ra}
+- {atomic_weight: '[227,0278]', density: "10,07 \u0433/\u0441\u043C^3", english_name: Actinium,
+  group: '', name: "\u0410\u043A\u0442\u0438\u043D\u0438\u0439", num: 89, period: '7',
+  source: 'https://ru.wikipedia.org/wiki/%D0%90%D0%BA%D1%82%D0%B8%D0%BD%D0%B8%D0%B9',
+  sym: Ac}
+- {atomic_weight: '232,03806 (2)', density: "11,72 \u0433/\u0441\u043C^3", english_name: Thorium,
+  group: '', name: "\u0422\u043E\u0440\u0438\u0439", num: 90, period: '7', source: 'https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D1%80%D0%B8%D0%B9',
+  sym: Th}
+- {atomic_weight: '231,03588 (2)', density: "15,37 \u0433/\u0441\u043C^3", english_name: Protactinium,
+  group: '', name: "\u041F\u0440\u043E\u0442\u0430\u043A\u0442\u0438\u043D\u0438\u0439",
+  num: 91, period: '7', source: 'https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D1%82%D0%B0%D0%BA%D1%82%D0%B8%D0%BD%D0%B8%D0%B9',
+  sym: Pa}
+- {atomic_weight: '238,02891 (3)', density: "18,97 \u0433/\u0441\u043C^3", english_name: Uranium,
+  group: '', name: "\u0423\u0440\u0430\u043D", num: 92, period: '7', source: 'https://ru.wikipedia.org/wiki/%D0%A3%D1%80%D0%B0%D0%BD_(%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82)',
+  sym: U}
+- {atomic_weight: '[237,0482]', density: "20,48 \u0433/\u0441\u043C^3", english_name: Neptunium,
+  group: '', name: "\u041D\u0435\u043F\u0442\u0443\u043D\u0438\u0439", num: 93, period: '7',
+  source: 'https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D0%BF%D1%82%D1%83%D0%BD%D0%B8%D0%B9',
+  sym: Np}
+- {atomic_weight: '[244,0642]', density: "19,74 \u0433/\u0441\u043C^3", english_name: Plutonium,
+  group: '', name: "\u041F\u043B\u0443\u0442\u043E\u043D\u0438\u0439", num: 94, period: '7',
+  source: 'https://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D1%83%D1%82%D0%BE%D0%BD%D0%B8%D0%B9',
+  sym: Pu}
+- {atomic_weight: '[243,0614]', density: "13,67 \u0433/\u0441\u043C^3", english_name: Americium,
+  group: '', name: "\u0410\u043C\u0435\u0440\u0438\u0446\u0438\u0439", num: 95, period: '7',
+  source: 'https://ru.wikipedia.org/wiki/%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D1%86%D0%B8%D0%B9',
+  sym: Am}
+- {atomic_weight: '[247,0703]', density: "13,51 \u0433/\u0441\u043C^3", english_name: Curium,
+  group: '', name: "\u041A\u044E\u0440\u0438\u0439", num: 96, period: '7', source: 'https://ru.wikipedia.org/wiki/%D0%9A%D1%8E%D1%80%D0%B8%D0%B9',
+  sym: Cm}
+- {atomic_weight: '[247,0703]', density: "13,25 \u0433/\u0441\u043C^3", english_name: Berkelium,
+  group: '', name: "\u0411\u0435\u0440\u043A\u043B\u0438\u0439", num: 97, period: '7',
+  source: 'https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D0%BA%D0%BB%D0%B8%D0%B9',
+  sym: Bk}
+- {atomic_weight: '[251,0796]', density: "15,1 \u0433/\u0441\u043C^3", english_name: Californium,
+  group: '', name: "\u041A\u0430\u043B\u0438\u0444\u043E\u0440\u043D\u0438\u0439",
+  num: 98, period: '7', source: 'https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BB%D0%B8%D1%84%D0%BE%D1%80%D0%BD%D0%B8%D0%B9',
+  sym: Cf}
+- {atomic_weight: '[252,0829]', density: "13,5 \u0433/\u0441\u043C^3", english_name: Einsteinium,
+  group: '', name: "\u042D\u0439\u043D\u0448\u0442\u0435\u0439\u043D\u0438\u0439",
+  num: 99, period: '7', source: 'https://ru.wikipedia.org/wiki/%D0%AD%D0%B9%D0%BD%D1%88%D1%82%D0%B5%D0%B9%D0%BD%D0%B8%D0%B9',
+  sym: Es}
+- {atomic_weight: '[257,0951]', density: " \u0433/\u0441\u043C^3", english_name: Fermium,
+  group: '', name: "\u0424\u0435\u0440\u043C\u0438\u0439", num: 100, period: '7',
+  source: 'https://ru.wikipedia.org/wiki/%D0%A4%D0%B5%D1%80%D0%BC%D0%B8%D0%B9', sym: Fm}
+- {atomic_weight: '[258,0986]', density: " \u0433/\u0441\u043C^3", english_name: 'Mendelevium,
+
+    Mendeleevium', group: '', name: "\u041C\u0435\u043D\u0434\u0435\u043B\u0435\u0432\
+    \u0438\u0439", num: 101, period: '7', source: 'https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%BD%D0%B4%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B9',
+  sym: Md}
+- {atomic_weight: '[259,1009]', density: " \u0433/\u0441\u043C^3", english_name: Nobelium,
+  group: '', name: "\u041D\u043E\u0431\u0435\u043B\u0438\u0439", num: 102, period: '7',
+  source: 'https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B1%D0%B5%D0%BB%D0%B8%D0%B9',
+  sym: 'No'}
+- {atomic_weight: '[262]', density: " \u0433/\u0441\u043C^3", english_name: 'Lawrencium,
+
+    Laurentium', group: '3', name: "\u041B\u043E\u0443\u0440\u0435\u043D\u0441\u0438\
+    \u0439", num: 103, period: '7', source: 'https://ru.wikipedia.org/wiki/%D0%9B%D0%BE%D1%83%D1%80%D0%B5%D0%BD%D1%81%D0%B8%D0%B9',
+  sym: Lr}
+- {atomic_weight: '[267]', density: "23 \u0433/\u0441\u043C^3", english_name: Rutherfordium,
+  group: '4', name: "\u0420\u0435\u0437\u0435\u0440\u0444\u043E\u0440\u0434\u0438\u0439",
+  num: 104, period: '7', source: 'https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D1%84%D0%BE%D1%80%D0%B4%D0%B8%D0%B9',
+  sym: Rf}
+- {atomic_weight: '[268]', density: "29 \u0433/\u0441\u043C^3", english_name: Dubnium,
+  group: '5', name: "\u0414\u0443\u0431\u043D\u0438\u0439", num: 105, period: '7',
+  source: 'https://ru.wikipedia.org/wiki/%D0%94%D1%83%D0%B1%D0%BD%D0%B8%D0%B9', sym: Db}
+- {atomic_weight: '[271]', density: "35 \u0433/\u0441\u043C^3", english_name: Seaborgium,
+  group: '6', name: "\u0421\u0438\u0431\u043E\u0440\u0433\u0438\u0439", num: 106,
+  period: '7', source: 'https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%B1%D0%BE%D1%80%D0%B3%D0%B8%D0%B9',
+  sym: Sg}
+- {atomic_weight: '[270]', density: "37 \u0433/\u0441\u043C^3", english_name: Bohrium,
+  group: '7', name: "\u0411\u043E\u0440\u0438\u0439", num: 107, period: '7', source: 'https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D1%80%D0%B8%D0%B9',
+  sym: Bh}
+- {atomic_weight: '[269]', density: " \u0433/\u0441\u043C^3", english_name: Hassium,
+  group: '8', name: "\u0425\u0430\u0441\u0441\u0438\u0439", num: 108, period: '7',
+  source: 'https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D1%81%D1%81%D0%B8%D0%B9', sym: Hs}
+- {atomic_weight: '[278]', density: "37,4 \u0433/\u0441\u043C^3", english_name: Meitnerium,
+  group: '9', name: "\u041C\u0435\u0439\u0442\u043D\u0435\u0440\u0438\u0439", num: 109,
+  period: '7', source: 'https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B9%D1%82%D0%BD%D0%B5%D1%80%D0%B8%D0%B9',
+  sym: Mt}
+- {atomic_weight: '[281]', density: " \u0433/\u0441\u043C^3", english_name: Darmstadtium,
+  group: '10', name: "\u0414\u0430\u0440\u043C\u0448\u0442\u0430\u0434\u0442\u0438\
+    \u0439", num: 110, period: '7', source: 'https://ru.wikipedia.org/wiki/%D0%94%D0%B0%D1%80%D0%BC%D1%88%D1%82%D0%B0%D0%B4%D1%82%D0%B8%D0%B9',
+  sym: Ds}
+- {atomic_weight: '[281]', density: " \u0433/\u0441\u043C^3", english_name: Roentgenium,
+  group: '11', name: "\u0420\u0435\u043D\u0442\u0433\u0435\u043D\u0438\u0439", num: 111,
+  period: '7', source: 'https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BD%D1%82%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9',
+  sym: Rg}
+- {atomic_weight: '[285]', density: " \u0433/\u0441\u043C^3", english_name: Copernicium,
+  group: '12', name: "\u041A\u043E\u043F\u0435\u0440\u043D\u0438\u0446\u0438\u0439",
+  num: 112, period: '7', source: 'https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BF%D0%B5%D1%80%D0%BD%D0%B8%D1%86%D0%B8%D0%B9',
+  sym: Cn}
+- {atomic_weight: '[284]', density: " \u0433/\u0441\u043C^3", english_name: Ununtrium,
+  group: '13', name: "\u0423\u043D\u0443\u043D\u0442\u0440\u0438\u0439", num: 113,
+  period: '7', source: 'https://ru.wikipedia.org/wiki/%D0%A3%D0%BD%D1%83%D0%BD%D1%82%D1%80%D0%B8%D0%B9',
+  sym: Uut}
+- {atomic_weight: '[289]', density: " \u0433/\u0441\u043C^3", english_name: Flerovium,
+  group: '14', name: "\u0424\u043B\u0435\u0440\u043E\u0432\u0438\u0439", num: 114,
+  period: '7', source: 'https://ru.wikipedia.org/wiki/%D0%A4%D0%BB%D0%B5%D1%80%D0%BE%D0%B2%D0%B8%D0%B9',
+  sym: Fl}
+- {atomic_weight: '[289]', density: " \u0433/\u0441\u043C^3", english_name: Ununpentium,
+  group: '15', name: "\u0423\u043D\u0443\u043D\u043F\u0435\u043D\u0442\u0438\u0439",
+  num: 115, period: '7', source: 'https://ru.wikipedia.org/wiki/%D0%A3%D0%BD%D1%83%D0%BD%D0%BF%D0%B5%D0%BD%D1%82%D0%B8%D0%B9',
+  sym: Uup}
+- {atomic_weight: '[292]', density: " \u0433/\u0441\u043C^3", english_name: Livermorium,
+  group: '16', name: "\u041B\u0438\u0432\u0435\u0440\u043C\u043E\u0440\u0438\u0439",
+  num: 116, period: '7', source: 'https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D0%B2%D0%B5%D1%80%D0%BC%D0%BE%D1%80%D0%B8%D0%B9',
+  sym: Lv}
+- {atomic_weight: '[294]', density: " \u0433/\u0441\u043C^3", english_name: Ununseptium,
+  group: '17', name: "\u0423\u043D\u0443\u043D\u0441\u0435\u043F\u0442\u0438\u0439",
+  num: 117, period: '7', source: 'https://ru.wikipedia.org/wiki/%D0%A3%D0%BD%D1%83%D0%BD%D1%81%D0%B5%D0%BF%D1%82%D0%B8%D0%B9',
+  sym: Uus}
+- {atomic_weight: '[294]', density: " \u0433/\u0441\u043C^3", english_name: Ununoctium,
+  group: '18', name: "\u0423\u043D\u0443\u043D\u043E\u043A\u0442\u0438\u0439", num: 118,
+  period: '7', source: 'https://ru.wikipedia.org/wiki/%D0%A3%D0%BD%D1%83%D0%BD%D0%BE%D0%BA%D1%82%D0%B8%D0%B9',
+  sym: Uuo}
