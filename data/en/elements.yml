@@ -1,118 +1,237 @@
-- {name: Hydrogen, num: 1, sym: H}
-- {name: Helium, num: 2, sym: He}
-- {name: Lithium, num: 3, sym: Li}
-- {name: Beryllium, num: 4, sym: Be}
-- {name: Boron, num: 5, sym: B}
-- {name: Carbon, num: 6, sym: C}
-- {name: Nitrogen, num: 7, sym: N}
-- {name: Oxygen, num: 8, sym: O}
-- {name: Fluorine, num: 9, sym: F}
-- {name: Neon, num: 10, sym: Ne}
-- {name: Sodium, num: 11, sym: Na}
-- {name: Magnesium, num: 12, sym: Mg}
-- {name: Aluminium, num: 13, sym: Al}
-- {name: Silicon, num: 14, sym: Si}
-- {name: Phosphorus, num: 15, sym: P}
-- {name: Sulfur, num: 16, sym: S}
-- {name: Chlorine, num: 17, sym: Cl}
-- {name: Argon, num: 18, sym: Ar}
-- {name: Potassium, num: 19, sym: K}
-- {name: Calcium, num: 20, sym: Ca}
-- {name: Scandium, num: 21, sym: Sc}
-- {name: Titanium, num: 22, sym: Ti}
-- {name: Vanadium, num: 23, sym: V}
-- {name: Chromium, num: 24, sym: Cr}
-- {name: Manganese, num: 25, sym: Mn}
-- {name: Iron, num: 26, sym: Fe}
-- {name: Cobalt, num: 27, sym: Co}
-- {name: Nickel, num: 28, sym: Ni}
-- {name: Copper, num: 29, sym: Cu}
-- {name: Zinc, num: 30, sym: Zn}
-- {name: Gallium, num: 31, sym: Ga}
-- {name: Germanium, num: 32, sym: Ge}
-- {name: Arsenic, num: 33, sym: As}
-- {name: Selenium, num: 34, sym: Se}
-- {name: Bromine, num: 35, sym: Br}
-- {name: Krypton, num: 36, sym: Kr}
-- {name: Rubidium, num: 37, sym: Rb}
-- {name: Strontium, num: 38, sym: Sr}
-- {name: Yttrium, num: 39, sym: Y}
-- {name: Zirconium, num: 40, sym: Zr}
-- {name: Niobium, num: 41, sym: Nb}
-- {name: Molybdenum, num: 42, sym: Mo}
-- {name: Technetium, num: 43, sym: Tc}
-- {name: Ruthenium, num: 44, sym: Ru}
-- {name: Rhodium, num: 45, sym: Rh}
-- {name: Palladium, num: 46, sym: Pd}
-- {name: Silver, num: 47, sym: Ag}
-- {name: Cadmium, num: 48, sym: Cd}
-- {name: Indium, num: 49, sym: In}
-- {name: Tin, num: 50, sym: Sn}
-- {name: Antimony, num: 51, sym: Sb}
-- {name: Tellurium, num: 52, sym: Te}
-- {name: Iodine, num: 53, sym: I}
-- {name: Xenon, num: 54, sym: Xe}
-- {name: Caesium, num: 55, sym: Cs}
-- {name: Barium, num: 56, sym: Ba}
-- {name: Lanthanum, num: 57, sym: La}
-- {name: Cerium, num: 58, sym: Ce}
-- {name: Praseodymium, num: 59, sym: Pr}
-- {name: Neodymium, num: 60, sym: Nd}
-- {name: Promethium, num: 61, sym: Pm}
-- {name: Samarium, num: 62, sym: Sm}
-- {name: Europium, num: 63, sym: Eu}
-- {name: Gadolinium, num: 64, sym: Gd}
-- {name: Terbium, num: 65, sym: Tb}
-- {name: Dysprosium, num: 66, sym: Dy}
-- {name: Holmium, num: 67, sym: Ho}
-- {name: Erbium, num: 68, sym: Er}
-- {name: Thulium, num: 69, sym: Tm}
-- {name: Ytterbium, num: 70, sym: Yb}
-- {name: Lutetium, num: 71, sym: Lu}
-- {name: Hafnium, num: 72, sym: Hf}
-- {name: Tantalum, num: 73, sym: Ta}
-- {name: Tungsten, num: 74, sym: W}
-- {name: Rhenium, num: 75, sym: Re}
-- {name: Osmium, num: 76, sym: Os}
-- {name: Iridium, num: 77, sym: Ir}
-- {name: Platinum, num: 78, sym: Pt}
-- {name: Gold, num: 79, sym: Au}
-- {name: Mercury, num: 80, sym: Hg}
-- {name: Thallium, num: 81, sym: Tl}
-- {name: Lead, num: 82, sym: Pb}
-- {name: Bismuth, num: 83, sym: Bi}
-- {name: Polonium, num: 84, sym: Po}
-- {name: Astatine, num: 85, sym: At}
-- {name: Radon, num: 86, sym: Rn}
-- {name: Francium, num: 87, sym: Fr}
-- {name: Radium, num: 88, sym: Ra}
-- {name: Actinium, num: 89, sym: Ac}
-- {name: Thorium, num: 90, sym: Th}
-- {name: Protactinium, num: 91, sym: Pa}
-- {name: Uranium, num: 92, sym: U}
-- {name: Neptunium, num: 93, sym: Np}
-- {name: Plutonium, num: 94, sym: Pu}
-- {name: Americium, num: 95, sym: Am}
-- {name: Curium, num: 96, sym: Cm}
-- {name: Berkelium, num: 97, sym: Bk}
-- {name: Californium, num: 98, sym: Cf}
-- {name: Einsteinium, num: 99, sym: Es}
-- {name: Fermium, num: 100, sym: Fm}
-- {name: Mendelevium, num: 101, sym: Md}
-- {name: Nobelium, num: 102, sym: 'No'}
-- {name: Lawrencium, num: 103, sym: Lr}
-- {name: Rutherfordium, num: 104, sym: Rf}
-- {name: Dubnium, num: 105, sym: Db}
-- {name: Seaborgium, num: 106, sym: Sg}
-- {name: Bohrium, num: 107, sym: Bh}
-- {name: Hassium, num: 108, sym: Hs}
-- {name: Meitnerium, num: 109, sym: Mt}
-- {name: Darmstadtium, num: 110, sym: Ds}
-- {name: Roentgenium, num: 111, sym: Rg}
-- {name: Copernicium, num: 112, sym: Cn}
-- {name: Ununtrium, num: 113, sym: Uut}
-- {name: Flerovium, num: 114, sym: Fl}
-- {name: Ununpentium, num: 115, sym: Uup}
-- {name: Livermorium, num: 116, sym: Lv}
-- {name: Ununseptium, num: 117, sym: Uus}
-- {name: Ununoctium, num: 118, sym: Uuo}
+- {atomic_weight: '1.008', density: 0.00008988 g/cm^3, group: '1', name: Hydrogen,
+  num: 1, period: '1', source: 'https://en.wikipedia.org/wiki/Hydrogen', sym: H}
+- {atomic_weight: 4.002602(2), density: 0.0001785 g/cm^3, group: '18', name: Helium,
+  num: 2, period: '1', source: 'https://en.wikipedia.org/wiki/Helium', sym: He}
+- {atomic_weight: '6.94', density: 0.534 g/cm^3, group: '1', name: Lithium, num: 3,
+  period: '2', source: 'https://en.wikipedia.org/wiki/Lithium', sym: Li}
+- {atomic_weight: 9.0121831(5), density: 1.85 g/cm^3, group: '2', name: Beryllium,
+  num: 4, period: '2', source: 'https://en.wikipedia.org/wiki/Beryllium', sym: Be}
+- {atomic_weight: 10.812 3 4, density: 2.34 g/cm^3, group: '13', name: Boron, num: 5,
+  period: '2', source: 'https://en.wikipedia.org/wiki/Boron', sym: B}
+- {atomic_weight: 12.0112 4, density: 2.267 g/cm^3, group: '14', name: Carbon, num: 6,
+  period: '2', source: 'https://en.wikipedia.org/wiki/Carbon', sym: C}
+- {atomic_weight: 14.0072 4, density: 0.0012506 g/cm^3, group: '15', name: Nitrogen,
+  num: 7, period: '2', source: 'https://en.wikipedia.org/wiki/Nitrogen', sym: N}
+- {atomic_weight: 15.9992 4, density: 0.001429 g/cm^3, group: '16', name: Oxygen,
+  num: 8, period: '2', source: 'https://en.wikipedia.org/wiki/Oxygen', sym: O}
+- {atomic_weight: 18.998403163(6), density: 0.001696 g/cm^3, group: '17', name: Fluorine,
+  num: 9, period: '2', source: 'https://en.wikipedia.org/wiki/Fluorine', sym: F}
+- {atomic_weight: 20.1797(6)2 3, density: 0.0008999 g/cm^3, group: '18', name: Neon,
+  num: 10, period: '2', source: 'https://en.wikipedia.org/wiki/Neon', sym: Ne}
+- {atomic_weight: 22.98976928(2), density: 0.971 g/cm^3, group: '1', name: Sodium,
+  num: 11, period: '3', source: 'https://en.wikipedia.org/wiki/Sodium', sym: Na}
+- {atomic_weight: '24.305', density: 1.738 g/cm^3, group: '2', name: Magnesium, num: 12,
+  period: '3', source: 'https://en.wikipedia.org/wiki/Magnesium', sym: Mg}
+- {atomic_weight: 26.9815385(7), density: 2.698 g/cm^3, group: '13', name: Aluminium,
+  num: 13, period: '3', source: 'https://en.wikipedia.org/wiki/Aluminium', sym: Al}
+- {atomic_weight: '28.085', density: 2.3296 g/cm^3, group: '14', name: Silicon, num: 14,
+  period: '3', source: 'https://en.wikipedia.org/wiki/Silicon', sym: Si}
+- {atomic_weight: 30.973761998(5), density: 1.82 g/cm^3, group: '15', name: Phosphorus,
+  num: 15, period: '3', source: 'https://en.wikipedia.org/wiki/Phosphorus', sym: P}
+- {atomic_weight: '32.06', density: 2.067 g/cm^3, group: '16', name: Sulfur, num: 16,
+  period: '3', source: 'https://en.wikipedia.org/wiki/Sulfur', sym: S}
+- {atomic_weight: '35.45', density: 0.003214 g/cm^3, group: '17', name: Chlorine,
+  num: 17, period: '3', source: 'https://en.wikipedia.org/wiki/Chlorine', sym: Cl}
+- {atomic_weight: 39.948(1), density: 0.0017837 g/cm^3, group: '18', name: Argon,
+  num: 18, period: '3', source: 'https://en.wikipedia.org/wiki/Argon', sym: Ar}
+- {atomic_weight: 39.0983(1), density: 0.862 g/cm^3, group: '1', name: Potassium,
+  num: 19, period: '4', source: 'https://en.wikipedia.org/wiki/Potassium', sym: K}
+- {atomic_weight: 40.078(4), density: 1.54 g/cm^3, group: '2', name: Calcium, num: 20,
+  period: '4', source: 'https://en.wikipedia.org/wiki/Calcium', sym: Ca}
+- {atomic_weight: 44.955908(5), density: 2.989 g/cm^3, group: '3', name: Scandium,
+  num: 21, period: '4', source: 'https://en.wikipedia.org/wiki/Scandium', sym: Sc}
+- {atomic_weight: 47.867(1), density: 4.54 g/cm^3, group: '4', name: Titanium, num: 22,
+  period: '4', source: 'https://en.wikipedia.org/wiki/Titanium', sym: Ti}
+- {atomic_weight: 50.9415(1), density: 6.11 g/cm^3, group: '5', name: Vanadium, num: 23,
+  period: '4', source: 'https://en.wikipedia.org/wiki/Vanadium', sym: V}
+- {atomic_weight: 51.9961(6), density: 7.15 g/cm^3, group: '6', name: Chromium, num: 24,
+  period: '4', source: 'https://en.wikipedia.org/wiki/Chromium', sym: Cr}
+- {atomic_weight: 54.938044(3), density: 7.44 g/cm^3, group: '7', name: Manganese,
+  num: 25, period: '4', source: 'https://en.wikipedia.org/wiki/Manganese', sym: Mn}
+- {atomic_weight: 55.845(2), density: 7.874 g/cm^3, group: '8', name: Iron, num: 26,
+  period: '4', source: 'https://en.wikipedia.org/wiki/Iron', sym: Fe}
+- {atomic_weight: 58.933194(4), density: 8.86 g/cm^3, group: '9', name: Cobalt, num: 27,
+  period: '4', source: 'https://en.wikipedia.org/wiki/Cobalt', sym: Co}
+- {atomic_weight: 58.6934(4), density: 8.912 g/cm^3, group: '10', name: Nickel, num: 28,
+  period: '4', source: 'https://en.wikipedia.org/wiki/Nickel', sym: Ni}
+- {atomic_weight: 63.546(3), density: 8.96 g/cm^3, group: '11', name: Copper, num: 29,
+  period: '4', source: 'https://en.wikipedia.org/wiki/Copper', sym: Cu}
+- {atomic_weight: 65.38(2), density: 7.134 g/cm^3, group: '12', name: Zinc, num: 30,
+  period: '4', source: 'https://en.wikipedia.org/wiki/Zinc', sym: Zn}
+- {atomic_weight: 69.723(1), density: 5.907 g/cm^3, group: '13', name: Gallium, num: 31,
+  period: '4', source: 'https://en.wikipedia.org/wiki/Gallium', sym: Ga}
+- {atomic_weight: 72.630(8), density: 5.323 g/cm^3, group: '14', name: Germanium,
+  num: 32, period: '4', source: 'https://en.wikipedia.org/wiki/Germanium', sym: Ge}
+- {atomic_weight: 74.921595(6), density: 5.776 g/cm^3, group: '15', name: Arsenic,
+  num: 33, period: '4', source: 'https://en.wikipedia.org/wiki/Arsenic', sym: As}
+- {atomic_weight: 78.971(8), density: 4.809 g/cm^3, group: '16', name: Selenium, num: 34,
+  period: '4', source: 'https://en.wikipedia.org/wiki/Selenium', sym: Se}
+- {atomic_weight: '79.904', density: 3.122 g/cm^3, group: '17', name: Bromine, num: 35,
+  period: '4', source: 'https://en.wikipedia.org/wiki/Bromine', sym: Br}
+- {atomic_weight: 83.798(2), density: 0.003733 g/cm^3, group: '18', name: Krypton,
+  num: 36, period: '4', source: 'https://en.wikipedia.org/wiki/Krypton', sym: Kr}
+- {atomic_weight: 85.4678(3), density: 1.532 g/cm^3, group: '1', name: Rubidium, num: 37,
+  period: '5', source: 'https://en.wikipedia.org/wiki/Rubidium', sym: Rb}
+- {atomic_weight: 87.62(1), density: 2.64 g/cm^3, group: '2', name: Strontium, num: 38,
+  period: '5', source: 'https://en.wikipedia.org/wiki/Strontium', sym: Sr}
+- {atomic_weight: 88.90584(2), density: 4.469 g/cm^3, group: '3', name: Yttrium, num: 39,
+  period: '5', source: 'https://en.wikipedia.org/wiki/Yttrium', sym: Y}
+- {atomic_weight: 91.224(2), density: 6.506 g/cm^3, group: '4', name: Zirconium, num: 40,
+  period: '5', source: 'https://en.wikipedia.org/wiki/Zirconium', sym: Zr}
+- {atomic_weight: 92.90637(2), density: 8.57 g/cm^3, group: '5', name: Niobium, num: 41,
+  period: '5', source: 'https://en.wikipedia.org/wiki/Niobium', sym: Nb}
+- {atomic_weight: 95.95(1), density: 10.22 g/cm^3, group: '6', name: Molybdenum, num: 42,
+  period: '5', source: 'https://en.wikipedia.org/wiki/Molybdenum', sym: Mo}
+- {atomic_weight: '[98]1', density: 11.5 g/cm^3, group: '7', name: Technetium, num: 43,
+  period: '5', source: 'https://en.wikipedia.org/wiki/Technetium', sym: Tc}
+- {atomic_weight: 101.07(2)2, density: 12.37 g/cm^3, group: '8', name: Ruthenium,
+  num: 44, period: '5', source: 'https://en.wikipedia.org/wiki/Ruthenium', sym: Ru}
+- {atomic_weight: 102.90550(2), density: 12.41 g/cm^3, group: '9', name: Rhodium,
+  num: 45, period: '5', source: 'https://en.wikipedia.org/wiki/Rhodium', sym: Rh}
+- {atomic_weight: 106.42(1)2, density: 12.02 g/cm^3, group: '10', name: Palladium,
+  num: 46, period: '5', source: 'https://en.wikipedia.org/wiki/Palladium', sym: Pd}
+- {atomic_weight: 107.8682(2)2, density: 10.501 g/cm^3, group: '11', name: Silver,
+  num: 47, period: '5', source: 'https://en.wikipedia.org/wiki/Silver', sym: Ag}
+- {atomic_weight: 112.414(4)2, density: 8.69 g/cm^3, group: '12', name: Cadmium, num: 48,
+  period: '5', source: 'https://en.wikipedia.org/wiki/Cadmium', sym: Cd}
+- {atomic_weight: 114.818(1), density: 7.31 g/cm^3, group: '13', name: Indium, num: 49,
+  period: '5', source: 'https://en.wikipedia.org/wiki/Indium', sym: In}
+- {atomic_weight: 118.710(7)2, density: 7.287 g/cm^3, group: '14', name: Tin, num: 50,
+  period: '5', source: 'https://en.wikipedia.org/wiki/Tin', sym: Sn}
+- {atomic_weight: 121.760(1)2, density: 6.685 g/cm^3, group: '15', name: Antimony,
+  num: 51, period: '5', source: 'https://en.wikipedia.org/wiki/Antimony', sym: Sb}
+- {atomic_weight: 127.60(3)2, density: 6.232 g/cm^3, group: '16', name: Tellurium,
+  num: 52, period: '5', source: 'https://en.wikipedia.org/wiki/Tellurium', sym: Te}
+- {atomic_weight: 126.90447(3), density: 4.93 g/cm^3, group: '17', name: Iodine, num: 53,
+  period: '5', source: 'https://en.wikipedia.org/wiki/Iodine', sym: I}
+- {atomic_weight: 131.293(6)2 3, density: 0.005887 g/cm^3, group: '18', name: Xenon,
+  num: 54, period: '5', source: 'https://en.wikipedia.org/wiki/Xenon', sym: Xe}
+- {atomic_weight: 132.90545196(6), density: 1.873 g/cm^3, group: '1', name: Caesium,
+  num: 55, period: '6', source: 'https://en.wikipedia.org/wiki/Caesium', sym: Cs}
+- {atomic_weight: 137.327(7), density: 3.594 g/cm^3, group: '2', name: Barium, num: 56,
+  period: '6', source: 'https://en.wikipedia.org/wiki/Barium', sym: Ba}
+- {atomic_weight: 138.90547(7)2, density: 6.145 g/cm^3, group: '', name: Lanthanum,
+  num: 57, period: '6', source: 'https://en.wikipedia.org/wiki/Lanthanum', sym: La}
+- {atomic_weight: 140.116(1)2, density: 6.77 g/cm^3, group: '', name: Cerium, num: 58,
+  period: '6', source: 'https://en.wikipedia.org/wiki/Cerium', sym: Ce}
+- {atomic_weight: 140.90766(2), density: 6.773 g/cm^3, group: '', name: Praseodymium,
+  num: 59, period: '6', source: 'https://en.wikipedia.org/wiki/Praseodymium', sym: Pr}
+- {atomic_weight: 144.242(3)2, density: 7.007 g/cm^3, group: '', name: Neodymium,
+  num: 60, period: '6', source: 'https://en.wikipedia.org/wiki/Neodymium', sym: Nd}
+- {atomic_weight: '[145]1', density: 7.26 g/cm^3, group: '', name: Promethium, num: 61,
+  period: '6', source: 'https://en.wikipedia.org/wiki/Promethium', sym: Pm}
+- {atomic_weight: 150.36(2)2, density: 7.52 g/cm^3, group: '', name: Samarium, num: 62,
+  period: '6', source: 'https://en.wikipedia.org/wiki/Samarium', sym: Sm}
+- {atomic_weight: 151.964(1)2, density: 5.243 g/cm^3, group: '', name: Europium, num: 63,
+  period: '6', source: 'https://en.wikipedia.org/wiki/Europium', sym: Eu}
+- {atomic_weight: 157.25(3)2, density: 7.895 g/cm^3, group: '', name: Gadolinium,
+  num: 64, period: '6', source: 'https://en.wikipedia.org/wiki/Gadolinium', sym: Gd}
+- {atomic_weight: 158.92535(2), density: 8.229 g/cm^3, group: '', name: Terbium, num: 65,
+  period: '6', source: 'https://en.wikipedia.org/wiki/Terbium', sym: Tb}
+- {atomic_weight: 162.500(1)2, density: 8.55 g/cm^3, group: '', name: Dysprosium,
+  num: 66, period: '6', source: 'https://en.wikipedia.org/wiki/Dysprosium', sym: Dy}
+- {atomic_weight: 164.93033(2), density: 8.795 g/cm^3, group: '', name: Holmium, num: 67,
+  period: '6', source: 'https://en.wikipedia.org/wiki/Holmium', sym: Ho}
+- {atomic_weight: 167.259(3)2, density: 9.066 g/cm^3, group: '', name: Erbium, num: 68,
+  period: '6', source: 'https://en.wikipedia.org/wiki/Erbium', sym: Er}
+- {atomic_weight: 168.93422(2), density: 9.321 g/cm^3, group: '', name: Thulium, num: 69,
+  period: '6', source: 'https://en.wikipedia.org/wiki/Thulium', sym: Tm}
+- {atomic_weight: 173.045(10)2, density: 6.965 g/cm^3, group: '', name: Ytterbium,
+  num: 70, period: '6', source: 'https://en.wikipedia.org/wiki/Ytterbium', sym: Yb}
+- {atomic_weight: 174.9668(1)2, density: 9.84 g/cm^3, group: '3', name: Lutetium,
+  num: 71, period: '6', source: 'https://en.wikipedia.org/wiki/Lutetium', sym: Lu}
+- {atomic_weight: 178.49(2), density: 13.31 g/cm^3, group: '4', name: Hafnium, num: 72,
+  period: '6', source: 'https://en.wikipedia.org/wiki/Hafnium', sym: Hf}
+- {atomic_weight: 180.94788(2), density: 16.654 g/cm^3, group: '5', name: Tantalum,
+  num: 73, period: '6', source: 'https://en.wikipedia.org/wiki/Tantalum', sym: Ta}
+- {atomic_weight: 183.84(1), density: 19.25 g/cm^3, group: '6', name: Tungsten, num: 74,
+  period: '6', source: 'https://en.wikipedia.org/wiki/Tungsten', sym: W}
+- {atomic_weight: 186.207(1), density: 21.02 g/cm^3, group: '7', name: Rhenium, num: 75,
+  period: '6', source: 'https://en.wikipedia.org/wiki/Rhenium', sym: Re}
+- {atomic_weight: 190.23(3)2, density: 22.61 g/cm^3, group: '8', name: Osmium, num: 76,
+  period: '6', source: 'https://en.wikipedia.org/wiki/Osmium', sym: Os}
+- {atomic_weight: 192.217(3), density: 22.56 g/cm^3, group: '9', name: Iridium, num: 77,
+  period: '6', source: 'https://en.wikipedia.org/wiki/Iridium', sym: Ir}
+- {atomic_weight: 195.084(9), density: 21.46 g/cm^3, group: '10', name: Platinum,
+  num: 78, period: '6', source: 'https://en.wikipedia.org/wiki/Platinum', sym: Pt}
+- {atomic_weight: 196.966569(5), density: 19.282 g/cm^3, group: '11', name: Gold,
+  num: 79, period: '6', source: 'https://en.wikipedia.org/wiki/Gold', sym: Au}
+- {atomic_weight: 200.592(3), density: 13.5336 g/cm^3, group: '12', name: Mercury,
+  num: 80, period: '6', source: 'https://en.wikipedia.org/wiki/Mercury_(element)',
+  sym: Hg}
+- {atomic_weight: '204.389', density: 11.85 g/cm^3, group: '13', name: Thallium, num: 81,
+  period: '6', source: 'https://en.wikipedia.org/wiki/Thallium', sym: Tl}
+- {atomic_weight: 207.2(1)2 4, density: 11.342 g/cm^3, group: '14', name: Lead, num: 82,
+  period: '6', source: 'https://en.wikipedia.org/wiki/Lead', sym: Pb}
+- {atomic_weight: 208.98040(1)1, density: 9.807 g/cm^3, group: '15', name: Bismuth,
+  num: 83, period: '6', source: 'https://en.wikipedia.org/wiki/Bismuth', sym: Bi}
+- {atomic_weight: '[209]', density: 9.32 g/cm^3, group: '16', name: Polonium, num: 84,
+  period: '6', source: 'https://en.wikipedia.org/wiki/Polonium', sym: Po}
+- {atomic_weight: '[210]', density: 7 g/cm^3, group: '17', name: Astatine, num: 85,
+  period: '6', source: 'https://en.wikipedia.org/wiki/Astatine', sym: At}
+- {atomic_weight: '[222]', density: 0.00973 g/cm^3, group: '18', name: Radon, num: 86,
+  period: '6', source: 'https://en.wikipedia.org/wiki/Radon', sym: Rn}
+- {atomic_weight: '[223]1', density: 1.87 g/cm^3, group: '1', name: Francium, num: 87,
+  period: '7', source: 'https://en.wikipedia.org/wiki/Francium', sym: Fr}
+- {atomic_weight: '[226]', density: 5.5 g/cm^3, group: '2', name: Radium, num: 88,
+  period: '7', source: 'https://en.wikipedia.org/wiki/Radium', sym: Ra}
+- {atomic_weight: '[227]', density: 10.07 g/cm^3, group: '', name: Actinium, num: 89,
+  period: '7', source: 'https://en.wikipedia.org/wiki/Actinium', sym: Ac}
+- {atomic_weight: 232.0377(4)1 2, density: 11.72 g/cm^3, group: '', name: Thorium,
+  num: 90, period: '7', source: 'https://en.wikipedia.org/wiki/Thorium', sym: Th}
+- {atomic_weight: 231.03588(2)1, density: 15.37 g/cm^3, group: '', name: Protactinium,
+  num: 91, period: '7', source: 'https://en.wikipedia.org/wiki/Protactinium', sym: Pa}
+- {atomic_weight: 238.02891(3)1, density: 18.95 g/cm^3, group: '', name: Uranium,
+  num: 92, period: '7', source: 'https://en.wikipedia.org/wiki/Uranium', sym: U}
+- {atomic_weight: '[237]', density: 20.45 g/cm^3, group: '', name: Neptunium, num: 93,
+  period: '7', source: 'https://en.wikipedia.org/wiki/Neptunium', sym: Np}
+- {atomic_weight: '[244]', density: 19.84 g/cm^3, group: '', name: Plutonium, num: 94,
+  period: '7', source: 'https://en.wikipedia.org/wiki/Plutonium', sym: Pu}
+- {atomic_weight: '[243]', density: 13.69 g/cm^3, group: '', name: Americium, num: 95,
+  period: '7', source: 'https://en.wikipedia.org/wiki/Americium', sym: Am}
+- {atomic_weight: '[247]', density: 13.51 g/cm^3, group: '', name: Curium, num: 96,
+  period: '7', source: 'https://en.wikipedia.org/wiki/Curium', sym: Cm}
+- {atomic_weight: '[247]', density: 14.79 g/cm^3, group: '', name: Berkelium, num: 97,
+  period: '7', source: 'https://en.wikipedia.org/wiki/Berkelium', sym: Bk}
+- {atomic_weight: '[251]', density: 15.1 g/cm^3, group: '', name: Californium, num: 98,
+  period: '7', source: 'https://en.wikipedia.org/wiki/Californium', sym: Cf}
+- {atomic_weight: '[252]', density: 8.84 g/cm^3, group: '', name: Einsteinium, num: 99,
+  period: '7', source: 'https://en.wikipedia.org/wiki/Einsteinium', sym: Es}
+- {atomic_weight: '[257]', density: "\u2013 g/cm^3", group: '', name: Fermium, num: 100,
+  period: '7', source: 'https://en.wikipedia.org/wiki/Fermium', sym: Fm}
+- {atomic_weight: '[258]', density: "\u2013 g/cm^3", group: '', name: Mendelevium,
+  num: 101, period: '7', source: 'https://en.wikipedia.org/wiki/Mendelevium', sym: Md}
+- {atomic_weight: '[259]', density: "\u2013 g/cm^3", group: '', name: Nobelium, num: 102,
+  period: '7', source: 'https://en.wikipedia.org/wiki/Nobelium', sym: 'No'}
+- {atomic_weight: '[266]', density: "\u2013 g/cm^3", group: '3', name: Lawrencium,
+  num: 103, period: '7', source: 'https://en.wikipedia.org/wiki/Lawrencium', sym: Lr}
+- {atomic_weight: '[267]', density: 23.2 !(23.2)11 g/cm^3, group: '4', name: Rutherfordium,
+  num: 104, period: '7', source: 'https://en.wikipedia.org/wiki/Rutherfordium', sym: Rf}
+- {atomic_weight: '[268]', density: 29.3 !(29.3)11 g/cm^3, group: '5', name: Dubnium,
+  num: 105, period: '7', source: 'https://en.wikipedia.org/wiki/Dubnium', sym: Db}
+- {atomic_weight: '[269]', density: 35.0 !(35.0)11 g/cm^3, group: '6', name: Seaborgium,
+  num: 106, period: '7', source: 'https://en.wikipedia.org/wiki/Seaborgium', sym: Sg}
+- {atomic_weight: '[270]', density: 37.1 !(37.1)11 g/cm^3, group: '7', name: Bohrium,
+  num: 107, period: '7', source: 'https://en.wikipedia.org/wiki/Bohrium', sym: Bh}
+- {atomic_weight: '[269]', density: 40.7 !(40.7)11 g/cm^3, group: '8', name: Hassium,
+  num: 108, period: '7', source: 'https://en.wikipedia.org/wiki/Hassium', sym: Hs}
+- {atomic_weight: '[278]', density: 37.4 !(37.4)11 g/cm^3, group: '9', name: Meitnerium,
+  num: 109, period: '7', source: 'https://en.wikipedia.org/wiki/Meitnerium', sym: Mt}
+- {atomic_weight: '[281]', density: 34.8 !(34.8)11 g/cm^3, group: '10', name: Darmstadtium,
+  num: 110, period: '7', source: 'https://en.wikipedia.org/wiki/Darmstadtium', sym: Ds}
+- {atomic_weight: '[282]', density: 28.7 !(28.7)11 g/cm^3, group: '11', name: Roentgenium,
+  num: 111, period: '7', source: 'https://en.wikipedia.org/wiki/Roentgenium', sym: Rg}
+- {atomic_weight: '[285]', density: 23.7 !(23.7)11 g/cm^3, group: '12', name: Copernicium,
+  num: 112, period: '7', source: 'https://en.wikipedia.org/wiki/Copernicium', sym: Cn}
+- {atomic_weight: '[286]', density: 16 !(16)11 g/cm^3, group: '13', name: Ununtrium,
+  num: 113, period: '7', source: 'https://en.wikipedia.org/wiki/Ununtrium', sym: Uut}
+- {atomic_weight: '[289]', density: 14 !(14)11 g/cm^3, group: '14', name: Flerovium,
+  num: 114, period: '7', source: 'https://en.wikipedia.org/wiki/Flerovium', sym: Fl}
+- {atomic_weight: '[289]', density: 13.5 !(13.5)11 g/cm^3, group: '15', name: Ununpentium,
+  num: 115, period: '7', source: 'https://en.wikipedia.org/wiki/Ununpentium', sym: Uup}
+- {atomic_weight: '[293]', density: 12.9 !(12.9)11 g/cm^3, group: '16', name: Livermorium,
+  num: 116, period: '7', source: 'https://en.wikipedia.org/wiki/Livermorium', sym: Lv}
+- {atomic_weight: '[294]', density: 7.2 !(7.2)11 g/cm^3, group: '17', name: Ununseptium,
+  num: 117, period: '7', source: 'https://en.wikipedia.org/wiki/Ununseptium', sym: Uus}
+- {atomic_weight: '[294]', density: 5.0 !(5.0)11 13 g/cm^3, group: '18', name: Ununoctium,
+  num: 118, period: '7', source: 'https://en.wikipedia.org/wiki/Ununoctium', sym: Uuo}
