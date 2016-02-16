@@ -1,0 +1,569 @@
+- common_name: ['5% Solution: White vinegar']
+  formula: CH3COOH + H2O
+  name: Acetic acid
+- common_name: [Acetone]
+  formula: CH3COCH3
+  name: Acetone
+- common_name: [Ethyne]
+  formula: C2H2
+  name: Acetylene gas
+- common_name: [Aspirin]
+  formula: C9H8O4
+  name: Acetylsalicylic acid
+- common_name: [Aluminium]
+  formula: Al
+  name: Aluminium
+- common_name: [alumina hydrate]
+  formula: Al(OH)3
+  name: Aluminium hydroxide
+- common_name: [alumina]
+  formula: Al2O3
+  name: Aluminium oxide
+- common_name: [ammonium alum]
+  formula: AlNH4(SO4)2
+  name: Aluminium ammonium sulfate
+- common_name: [Alum, potassium aluminium sulphate]
+  formula: KAl(SO4)2 12H2O
+  name: Aluminium potassium sulfate
+- common_name: [Flocculating Powder]
+  formula: Al2(SO4)3
+  name: Aluminium sulfate
+- common_name: [Ammonia, Ammonium Hydroxide]
+  formula: NH3(aq); NH4OH
+  name: Ammonia
+- common_name: [Salt of Hartshorn, Baker's Ammonia]
+  formula: (NH4)HCO3
+  name: Ammonium bicarbonate
+- common_name: [Ammonium hydrogen fluoride]
+  formula: NH4HF2
+  name: Ammonium bifluoride
+- common_name: []
+  formula: NH4Br
+  name: Ammonium bromide
+- common_name: [Smelling Salts, Salt of Hartshorn, Baker's Ammonia]
+  formula: (NH4)2CO3
+  name: Ammonium carbonate
+- common_name: [Soldering Flux]
+  formula: NH4Cl
+  name: Ammonium chloride
+- common_name: [Ammonium Nitrate]
+  formula: NH4NO3
+  name: Ammonium nitrate
+- common_name: [Etching Solution, Ammonium Peroxodisulphate]
+  formula: (NH4)2S2O8
+  name: Ammonium persulfate
+- common_name: [Fertilizer]
+  formula: (NH4)3PO4
+  name: Ammonium phosphate
+- common_name: []
+  formula: (NH4)2SO4
+  name: Ammonium sulfate
+- common_name: [Cornstarch]
+  formula: (C6H9O5)n
+  name: Amylose
+- common_name: []
+  formula: "\u2014"
+  name: Anthocyanin
+- common_name: []
+  formula: Ar
+  name: Argon gas
+- common_name: [Vitamin C]
+  formula: C6H8O6
+  name: Ascorbic acid
+- common_name: []
+  formula: BaCO3
+  name: barium carbonate
+- common_name: [Lithopone]
+  formula: BaSO4
+  name: barium sulfate
+- common_name: [benzoic acid peroxide]
+  formula: C14H10O4
+  name: benzoyl peroxide
+- common_name: [Lead-free shot/sinkers]
+  formula: Bi
+  name: bismuth
+- common_name: [Pepto-Bismol]
+  formula: C7H5BiO4
+  name: bismuth subsalicylate
+- common_name: [Ant/Roach Killer]
+  formula: H3BO3
+  name: boric acid
+- common_name: [pH Test]
+  formula: C27H28Br2O5S
+  name: bromthymol blue
+- common_name: [Butane]
+  formula: C4H10
+  name: butane
+- common_name: [No-Doz]
+  formula: C8H10N4O2
+  name: caffeine
+- common_name: [Cadmium Yellow]
+  formula: CdS
+  name: cadmium sulfide
+- common_name: []
+  formula: CaC2
+  name: calcium carbide
+- common_name: [Limestone, Carbonate of Lime]
+  formula: CaCO3
+  name: calcium carbonate
+- common_name: [Laundry Aid/Road Salt/De-Icer]
+  formula: CaCl2
+  name: calcium chloride
+- common_name: [Slaked Lime, garden lime]
+  formula: Ca(OH)2
+  name: calcium hydroxide
+- common_name: []
+  formula: Ca(ClO)2
+  name: calcium hypochlorite
+- common_name: [Norwegian saltpeter]
+  formula: "Ca(NO3)2\xB74H2O"
+  name: calcium nitrate
+- common_name: [Lime, Quicklime]
+  formula: CaO
+  name: calcium oxide
+- common_name: [superphosphate]
+  formula: Ca(H2PO4)2
+  name: calcium phosphate, monobasic
+- common_name: []
+  formula: CaSO4
+  name: calcium sulfate anhydrous
+- common_name: [Plaster of Paris]
+  formula: "CaSO4\xB71/2H20"
+  name: calcium sulfate, hemihydrate
+- common_name: [Gypsum]
+  formula: "CaSO4\xB72H20"
+  name: calcium sulfate dihydrate
+- common_name: []
+  formula: C10H16O
+  name: camphor
+- common_name: [Soot, Graphite, Graphene, Carbon nanotubes, Fullerenes, Diamond, Charcoal]
+  formula: C
+  name: carbon
+- common_name: []
+  formula: CO2
+  name: carbon dioxide
+- common_name: []
+  formula: H2CO3
+  name: carbonic acid
+- common_name: []
+  formula: "\u2014"
+  name: carrageenan
+- common_name: []
+  formula: (C6H10O5)n
+  name: cellulose
+- common_name: [Chrome Green]
+  formula: Cr2O3
+  name: chromium oxide
+- common_name: [Sour Salt]
+  formula: C6H8O7
+  name: citric acid
+- common_name: []
+  formula: Cu
+  name: copper
+- common_name: [cupric naphthenate]
+  formula: Cu(C11H10O2)2
+  name: copper naphthenate
+- common_name: [cupric sulfate (anhydrous)]
+  formula: CuSO4
+  name: copper sulfate (anhydrous)
+- common_name: [cupric sulfate, blue vitriol, bluestone]
+  formula: CuSO45H2O
+  name: copper sulfate pentahydrate
+- common_name: [isocyanuric acid]
+  formula: C3H3N3O3
+  name: cyanuric acid
+- common_name: [glucose, corn syrup]
+  formula: C6H12O6
+  name: dextrose
+- common_name: [methylene chloride]
+  formula: CH2Cl2
+  name: dichloromethane
+- common_name: [DMSO]
+  formula: (CH3)2SO
+  name: dimethyl sulfoxide
+- common_name: [Everclear]
+  formula: C2H5OH
+  name: ethanol/ethyl alcohol
+- common_name: [diethyl ether, ethoxyethane]
+  formula: (C2H5)2O
+  name: ether
+- common_name: ['1,2-ethanediol']
+  formula: CH2OHCH2OH
+  name: ethylene glycol
+- common_name: [oil of clove, 2-methoxy-4-(2-propenyl)phenol]
+  formula: CH2CH2CH2C6H3(OCH3)OH
+  name: eugenol
+- common_name: [methanoic acid]
+  formula: CH2O2
+  name: formic acid
+- common_name: [Fruit Sugar]
+  formula: C6H12O6
+  name: fructose
+- common_name: [Dextrose, corn syrup]
+  formula: C6H12O6
+  name: glucose
+- common_name: ['1,2,3-propanetriol']
+  formula: C3H8O3
+  name: glycerin, glycerol
+- common_name: []
+  formula: Au
+  name: gold
+- common_name: [gum acacia]
+  formula: CH4O3S
+  name: gum Arabic
+- common_name: []
+  formula: He
+  name: helium
+- common_name: [Hexamethylenetetramine]
+  formula: C6H12N4
+  name: hexamine
+- common_name: [Hydrogen]
+  formula: H2
+  name: hydrogen gas
+- common_name: [Masonry Cleaner, Muriatic acid]
+  formula: HCl
+  name: hydrochloric acid
+- common_name: [Glass Etching Solution]
+  formula: HF
+  name: hydrofluoric acid
+- common_name: [Laundry Bleach]
+  formula: HClO
+  name: hypochlorous acid
+- common_name: []
+  formula: C6H6O2
+  name: hydroquinone
+- common_name: [Peroxide]
+  formula: H2O2
+  name: hydrogen peroxide
+- common_name: [Iodide]
+  formula: I2
+  name: iodine
+- common_name: []
+  formula: Fe
+  name: iron
+- common_name: [Etching Solution]
+  formula: FeCl3
+  name: ferric chloride
+- common_name: [Rust]
+  formula: Fe2O3
+  name: ferric oxide (Iron III Oxide)
+- common_name: [Magnetite]
+  formula: Fe3O4
+  name: ferrous ferric oxide (Iron II III Oxide)
+- common_name: [Ferrous sulfate, Sulfate of iron, Copperas]
+  formula: FeSO4
+  name: iron sulfate
+- common_name: [Aviation Fuel]
+  formula: "CnH2n+1 (n=12\u201316)"
+  name: kerosene
+- common_name: [Milk Acid]
+  formula: C3H6O3
+  name: lactic acid
+- common_name: [Liquid Latex Body Paint]
+  formula: C3H6O3
+  name: latex
+- common_name: []
+  formula: Pb
+  name: lead
+- common_name: []
+  formula: "\u2014"
+  name: linseed oil
+- common_name: []
+  formula: Li
+  name: Lithium
+- common_name: [Fire starter]
+  formula: Mg
+  name: magnesium
+- common_name: [Athlete's chalk]
+  formula: MgCO3
+  name: magnesium carbonate
+- common_name: [Milk of Magnesia]
+  formula: Mg(OH)2
+  name: magnesium hydroxide
+- common_name: [Talc]
+  formula: Mg3Si4O10(OH)2
+  name: magnesium silicate
+- common_name: [Epsom Salt]
+  formula: MgSO47H2O
+  name: magnesium sulfate
+- common_name: [Nigari or Lushui]
+  formula: MgCl2
+  name: magnesium chloride
+- common_name: [Pyrolusite]
+  formula: MnO2
+  name: manganese dioxide
+- common_name: [quicksilver]
+  formula: Hg
+  name: mercury
+- common_name: [Natural Gas]
+  formula: CH4
+  name: methane
+- common_name: [Methyl Alcohol]
+  formula: CH3OH
+  name: methanol
+- common_name: [MEK]
+  formula: CH3COC2H5
+  name: methyl ethyl ketone
+- common_name: [MEKP]
+  formula: C8H16O4
+  name: methyl ethyl ketone peroxide
+- common_name: [MIBK]
+  formula: CH3COCH2CH(CH3)2
+  name: methyl isobutyl ketone
+- common_name: [Methidote]
+  formula: C16H18ClN3S
+  name: methylene blue
+- common_name: [dichloromethane]
+  formula: CH2Cl2
+  name: methylene chloride
+- common_name: [Oil of Wintergreen]
+  formula: C6H4(OH)COOCH3
+  name: methyl salicylate
+- common_name: []
+  formula: complex mixture of hydrocarbons
+  name: mineral oil
+- common_name: ["\"\u5473\u7CBE", MSG"]
+  formula: C5H8NO4Na
+  name: monosodium glutamate
+- common_name: [moth balls]
+  formula: C10H8
+  name: naphthalene
+- common_name: []
+  formula: Ni
+  name: nickel
+- common_name: [liquid nitrogen]
+  formula: N2
+  name: nitrogen
+- common_name: [whipping gas, laughing gas]
+  formula: N2O
+  name: nitrous oxide
+- common_name: [rust remover, non-chlorine bleach powder cleanser]
+  formula: C2H2O4
+  name: oxalic acid
+- common_name: []
+  formula: O2
+  name: oxygen
+- common_name: [moth flakes, moth crystals]
+  formula: C6H4Cl2
+  name: para-dichlorobenzene
+- common_name: []
+  formula: CnH2n+2 (n>19)
+  name: paraffin
+- common_name: []
+  formula: C6H5OH
+  name: phenol
+- common_name: []
+  formula: C20H14O4
+  name: phenolphthalein
+- common_name: [phenolsulfonephthalein]
+  formula: C19H19SO5
+  name: phenol red
+- common_name: [pH Down]
+  formula: H3PO4
+  name: phosphoric acid
+- common_name: [casting resin]
+  formula: "\u2014"
+  name: polystyrene
+- common_name: [Mountains in Minutes]
+  formula: "\u2014"
+  name: polyurethane foam
+- common_name: [Alum, aluminium potassium sulfate]
+  formula: "KAl(SO4)2\xB712H2O"
+  name: potassium aluminium sulfate
+- common_name: [Cream of Tartar]
+  formula: KHC4H4O6
+  name: potassium bitartrate
+- common_name: [Potash]
+  formula: K2CO3
+  name: potassium carbonate
+- common_name: []
+  formula: KBr
+  name: potassium bromide
+- common_name: [Salt substitute]
+  formula: KCl
+  name: potassium chloride
+- common_name: [potassium chrome alum]
+  formula: "KCr(SO4)2\xB712H20"
+  name: potassium chromium sulfate
+- common_name: []
+  formula: K2Cr2O7
+  name: potassium dichromate
+- common_name: [potassium iron ferricyanide, potassium ferroferricyanide]
+  formula: KFe[Fe(CN)6]
+  name: potassium iron (ii) hexacyanoferrate(iii)
+- common_name: [Caustic potash]
+  formula: KOH
+  name: potassium hydroxide
+- common_name: [Radiation Pills]
+  formula: KI
+  name: potassium iodide
+- common_name: [Campden tablets]
+  formula: K2S3O5
+  name: potassium metabisulfite
+- common_name: [Saltpeter, saltpetre]
+  formula: KNO3
+  name: potassium nitrate
+- common_name: [Clearwater]
+  formula: KMnO4
+  name: potassium permanganate
+- common_name: [Rochelle salt]
+  formula: NaKC4H4O6 * 4H2O
+  name: potassium sodium tartrate
+- common_name: []
+  formula: C3H8
+  name: propane
+- common_name: [rubbing alcohol]
+  formula: CH3CHOHCH3
+  name: 2-propanol
+- common_name: [Carborundum]
+  formula: SiC
+  name: silicon carbide
+- common_name: [Sand, silica]
+  formula: SiO2
+  name: silicon dioxide
+- common_name: []
+  formula: Ag
+  name: silver
+- common_name: [Hand Warmer]
+  formula: NaC2H3O2
+  name: sodium acetate
+- common_name: []
+  formula: Na2B4O710H2O
+  name: sodium borate
+- common_name: [Baking Soda, Bicarbonate of Soda]
+  formula: NaHCO3
+  name: sodium bicarbonate
+- common_name: [pH Down]
+  formula: Na2HPO4
+  name: disodium phosphate
+- common_name: [pH Down]
+  formula: NaHSO4
+  name: sodium bisulfate
+- common_name: [Hot Tub Salt]
+  formula: NaBr
+  name: sodium bromide
+- common_name: [Washing soda, soda ash]
+  formula: Na2CO3
+  name: sodium carbonate
+- common_name: []
+  formula: NaClO3
+  name: sodium chlorate
+- common_name: [Salt]
+  formula: NaCl
+  name: sodium chloride
+- common_name: []
+  formula: NaF
+  name: sodium fluoride
+- common_name: [Sodium polymetaphosphate, Calgon water softener]
+  formula: (NaPO3)6
+  name: sodium hexametaphosphate
+- common_name: [Lye, Caustic Soda]
+  formula: NaOH
+  name: sodium hydroxide
+- common_name: [Bleach]
+  formula: NaClO
+  name: sodium hypochlorite
+- common_name: [Chile saltpeter]
+  formula: NaNO3
+  name: sodium nitrate
+- common_name: [Campden tablets]
+  formula: Na2S2O5
+  name: sodium metabisulfite
+- common_name: [sodium carbonate peroxyhydrate]
+  formula: "2Na2CO3\xB73H2O2"
+  name: sodium percarbonate
+- common_name: [Tri Sodium Phosphate]
+  formula: Na3PO4
+  name: sodium phosphate
+- common_name: [water glass, egg preserver, magic rocks]
+  formula: Na2SiO3, Na2Si3O7
+  name: sodium silicate
+- common_name: []
+  formula: Na2SO3
+  name: sodium sulfite
+- common_name: []
+  formula: Na2SO4
+  name: sodium sulfate
+- common_name: [Borax]
+  formula: Na2B4O710H2O
+  name: sodium tetraborate decahydrate
+- common_name: [Hypo]
+  formula: Na2S2O3
+  name: sodium thiosulfate
+- common_name: [candle hardener]
+  formula: C17H35CO2H
+  name: stearic acid
+- common_name: [Galvanised wire, nail (fasteners), stainless steel, ball bearings,
+    steel wool]
+  formula: Fe alloyed with C and depending on type, possibly also Ni, B, V, Cr among
+    others
+  name: Steel
+- common_name: [Sugar]
+  formula: C12H22O11
+  name: sucrose
+- common_name: []
+  formula: S
+  name: sulfur (sulphur)
+- common_name: [vitriol, oil of vitriol]
+  formula: H2SO4
+  name: sulfuric acid
+- common_name: [tannin]
+  formula: C76H52O46
+  name: tannic acid
+- common_name: [wine preservative]
+  formula: C4H6O6
+  name: tartaric acid
+- common_name: [tetrachloroethene]
+  formula: C2Cl4
+  name: tetrachloroethylene
+- common_name: [disappearing ink]
+  formula: C28H30O4
+  name: thymolphthalein
+- common_name: [Titanium White]
+  formula: TiO2
+  name: titanium dioxide
+- common_name: [cleaning fluid, degreaser]
+  formula: CCl3CH3
+  name: 1,1,1 trichloroethane
+- common_name: []
+  formula: CF3CH2F
+  name: 1,1,1,2 tetrafluoroethane
+- common_name: [Thiocarbamide]
+  formula: CS(NH2)2
+  name: thiourea
+- common_name: [Methylbenzene, cellulose thinner]
+  formula: C6H5CH3
+  name: toluene
+- common_name: [Nil.]
+  formula: A mixture mainly consists of hydrogen, carbon monoxide and methane
+  name: town gas
+- common_name: [trichloroethene]
+  formula: CHClCCl2
+  name: trichloroethylene
+- common_name: []
+  formula: W
+  name: tungsten
+- common_name: []
+  formula: "\u2014"
+  name: turpentine
+- common_name: [ice melter, fertilizer, carbamide]
+  formula: H2NCONH2
+  name: urea
+- common_name: []
+  formula: H2O
+  name: water
+- common_name: [dimethylbenzene]
+  formula: C8H10
+  name: xylene
+- common_name: [zinc]
+  formula: Zn
+  name: zinc
+- common_name: [Tinner's Fluid, '"killed acid"']
+  formula: ZnClf + H2O
+  name: zinc chloride
+- common_name: [pompholyx]
+  formula: ZnO
+  name: zinc oxide
+- common_name: [zinc sulfate]
+  formula: ZnSO4
+  name: zinc sulfate

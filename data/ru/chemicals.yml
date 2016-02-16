@@ -1,0 +1,4867 @@
+- common_names: []
+  formula: AgBr
+  name: "\u0431\u0440\u043E\u043C\u0438\u0434 \u0441\u0435\u0440\u0435\u0431\u0440\
+    \u0430(I)"
+- common_names: []
+  formula: AgBrO3
+  name: "\u0431\u0440\u043E\u043C\u0430\u0442 \u0441\u0435\u0440\u0435\u0431\u0440\
+    \u0430"
+- common_names: []
+  formula: AgCN
+  name: "\u0446\u0438\u0430\u043D\u0438\u0434 \u0441\u0435\u0440\u0435\u0431\u0440\
+    \u0430"
+- common_names: []
+  formula: AgC2H3O2
+  name: "\u0430\u0446\u0435\u0442\u0430\u0442 \u0441\u0435\u0440\u0435\u0431\u0440\
+    \u0430"
+- common_names: []
+  formula: AgCl
+  name: "\u0445\u043B\u043E\u0440\u0438\u0434 \u0441\u0435\u0440\u0435\u0431\u0440\
+    \u0430(I)"
+- common_names: []
+  formula: AgCl3Cu2
+  name: "\u0442\u0440\u0438\u0445\u043B\u043E\u0440\u0438\u0434 \u0441\u0435\u0440\
+    \u0435\u0431\u0440\u0430-\u043C\u0435\u0434\u0438"
+- common_names: []
+  formula: AgClO3
+  name: "\u0445\u043B\u043E\u0440\u0430\u0442 \u0441\u0435\u0440\u0435\u0431\u0440\
+    \u0430"
+- common_names: []
+  formula: AgClO4
+  name: "\u043F\u0435\u0440\u0445\u043B\u043E\u0440\u0430\u0442 \u0441\u0435\u0440\
+    \u0435\u0431\u0440\u0430"
+- common_names: []
+  formula: AgF
+  name: "\u0444\u0442\u043E\u0440\u0438\u0434 \u0441\u0435\u0440\u0435\u0431\u0440\
+    \u0430(I)"
+- common_names: []
+  formula: AgF2
+  name: "\u0434\u0438\u0444\u0442\u043E\u0440\u0438\u0434 \u0441\u0435\u0440\u0435\
+    \u0431\u0440\u0430"
+- common_names: []
+  formula: AgI
+  name: "\u0438\u043E\u0434\u0438\u0434 \u0441\u0435\u0440\u0435\u0431\u0440\u0430\
+    (I)"
+- common_names: []
+  formula: AgIO3
+  name: "\u0438\u043E\u0434\u0430\u0442 \u0441\u0435\u0440\u0435\u0431\u0440\u0430"
+- common_names: []
+  formula: AgMnO4
+  name: "\u043F\u0435\u0440\u043C\u0430\u043D\u0433\u0430\u043D\u0430\u0442 \u0441\
+    \u0435\u0440\u0435\u0431\u0440\u0430"
+- common_names: []
+  formula: AgN3
+  name: "\u0430\u0437\u0438\u0434 \u0441\u0435\u0440\u0435\u0431\u0440\u0430"
+- common_names: []
+  formula: AgNO3
+  name: "\u043D\u0438\u0442\u0440\u0430\u0442 \u0441\u0435\u0440\u0435\u0431\u0440\
+    \u0430(I)"
+- common_names: []
+  formula: AgO
+  name: "\u043E\u043A\u0441\u0438\u0434 \u0441\u0435\u0440\u0435\u0431\u0440\u0430\
+    (I)"
+- common_names: []
+  formula: AgONC
+  name: "\u0444\u0443\u043B\u044C\u043C\u0438\u043D\u0430\u0442 \u0441\u0435\u0440\
+    \u0435\u0431\u0440\u0430"
+- common_names: []
+  formula: AgSNC
+  name: "\u0442\u0438\u043E\u0446\u0438\u0430\u043D\u0430\u0442 \u0441\u0435\u0440\
+    \u0435\u0431\u0440\u0430"
+- common_names: []
+  formula: Ag2C2
+  name: "\u0430\u0446\u0435\u0442\u0438\u043B\u0435\u043D\u0438\u0434 \u0441\u0435\
+    \u0440\u0435\u0431\u0440\u0430"
+- common_names: []
+  formula: Ag2CO3
+  name: "\u043A\u0430\u0440\u0431\u043E\u043D\u0430\u0442 \u0441\u0435\u0440\u0435\
+    \u0431\u0440\u0430(I)"
+- common_names: []
+  formula: Ag2C2O4
+  name: "\u043E\u043A\u0441\u0430\u043B\u0430\u0442 \u0441\u0435\u0440\u0435\u0431\
+    \u0440\u0430"
+- common_names: []
+  formula: Ag2Cl2
+  name: "\u0434\u0438\u0445\u043B\u043E\u0440\u0438\u0434 \u0441\u0435\u0440\u0435\
+    \u0431\u0440\u0430(II)"
+- common_names: []
+  formula: Ag2CrO4
+  name: "\u0445\u0440\u043E\u043C\u0430\u0442(VI) \u0441\u0435\u0440\u0435\u0431\u0440\
+    \u0430(I)"
+- common_names: []
+  formula: Ag2Cr2O7
+  name: "\u0434\u0438\u0445\u0440\u043E\u043C\u0430\u0442 \u0441\u0435\u0440\u0435\
+    \u0431\u0440\u0430(I)"
+- common_names: []
+  formula: Ag2F
+  name: "\u0441\u0443\u0431\u0444\u0442\u043E\u0440\u0438\u0434 \u0441\u0435\u0440\
+    \u0435\u0431\u0440\u0430"
+- common_names: []
+  formula: Ag2MoO4
+  name: "\u043C\u043E\u043B\u0438\u0431\u0434\u0430\u0442 \u0441\u0435\u0440\u0435\
+    \u0431\u0440\u0430"
+- common_names: []
+  formula: Ag2O
+  name: "\u043E\u043A\u0441\u0438\u0434 \u0441\u0435\u0440\u0435\u0431\u0440\u0430\
+    (I)"
+- common_names: []
+  formula: Ag2S
+  name: "\u0441\u0443\u043B\u044C\u0444\u0438\u0434 \u0441\u0435\u0440\u0435\u0431\
+    \u0440\u0430(I)"
+- common_names: []
+  formula: Ag2SO4
+  name: "\u0441\u0443\u043B\u044C\u0444\u0430\u0442 \u0441\u0435\u0440\u0435\u0431\
+    \u0440\u0430"
+- common_names: []
+  formula: Ag2SeO3
+  name: "\u0441\u0435\u043B\u0435\u043D\u0438\u0442 \u0441\u0435\u0440\u0435\u0431\
+    \u0440\u0430"
+- common_names: []
+  formula: Ag2SeO4
+  name: "\u0441\u0435\u043B\u0435\u043D\u0430\u0442 \u0441\u0435\u0440\u0435\u0431\
+    \u0440\u0430"
+- common_names: []
+  formula: Ag2Te
+  name: "\u0442\u0435\u043B\u043B\u0443\u0440\u0438\u0434 \u0441\u0435\u0440\u0435\
+    \u0431\u0440\u0430(I)"
+- common_names: []
+  formula: Ag3Br2
+  name: "\u0434\u0438\u0431\u0440\u043E\u043C\u0438\u0434 \u0441\u0435\u0440\u0435\
+    \u0431\u0440\u0430"
+- common_names: []
+  formula: Ag3Br3
+  name: "\u0442\u0440\u0438\u0431\u0440\u043E\u043C\u0438\u0434 \u0441\u0435\u0440\
+    \u0435\u0431\u0440\u0430(III)"
+- common_names: []
+  formula: Ag3Cl3
+  name: "\u0442\u0440\u0438\u0445\u043B\u043E\u0440\u0438\u0434 \u0441\u0435\u0440\
+    \u0435\u0431\u0440\u0430(III)"
+- common_names: []
+  formula: Ag3I3
+  name: "\u0442\u0440\u0438\u0438\u043E\u0434\u0438\u0434 \u0441\u0435\u0440\u0435\
+    \u0431\u0440\u0430(III)"
+- common_names: []
+  formula: Ag3PO4
+  name: "\u043E\u0440\u0442\u043E\u0444\u043E\u0441\u0444\u0430\u0442 \u0441\u0435\
+    \u0440\u0435\u0431\u0440\u0430"
+- common_names: []
+  formula: AlBO
+  name: "\u043E\u043A\u0441\u043E\u0431\u043E\u0440\u0438\u0434 \u0430\u043B\u044E\
+    \u043C\u0438\u043D\u0438\u044F"
+- common_names: []
+  formula: AlBO2
+  name: "\u0431\u043E\u0440\u0430\u0442 \u0430\u043B\u044E\u043C\u0438\u043D\u0438\
+    \u044F"
+- common_names: []
+  formula: AlBr
+  name: "\u043C\u043E\u043D\u043E\u0431\u0440\u043E\u043C\u0438\u0434 \u0430\u043B\
+    \u044E\u043C\u0438\u043D\u0438\u044F"
+- common_names: []
+  formula: AlBr3
+  name: "\u0442\u0440\u0438\u0431\u0440\u043E\u043C\u0438\u0434 \u0430\u043B\u044E\
+    \u043C\u0438\u043D\u0438\u044F"
+- common_names: []
+  formula: AlCl
+  name: "\u043C\u043E\u043D\u043E\u0445\u043B\u043E\u0440\u0438\u0434 \u0430\u043B\
+    \u044E\u043C\u0438\u043D\u0438\u044F"
+- common_names: []
+  formula: AlClF
+  name: "\u0444\u0442\u043E\u0440\u0438\u0434-\u0445\u043B\u043E\u0440\u0438\u0434\
+    \ \u0430\u043B\u044E\u043C\u0438\u043D\u0438\u044F"
+- common_names: []
+  formula: AlClF2
+  name: "\u0434\u0438\u0444\u0442\u043E\u0440\u0438\u0434-\u0445\u043B\u043E\u0440\
+    \u0438\u0434 \u0430\u043B\u044E\u043C\u0438\u043D\u0438\u044F"
+- common_names: []
+  formula: AlClO
+  name: "\u043E\u043A\u0441\u043E\u0445\u043B\u043E\u0440\u0438\u0434 \u0430\u043B\
+    \u044E\u043C\u0438\u043D\u0438\u044F"
+- common_names: []
+  formula: AlCl2
+  name: "\u0445\u043B\u043E\u0440\u0438\u0441\u0442\u044B\u0439 \u0430\u043B\u044E\
+    \u043C\u0438\u043D\u0438\u0439"
+- common_names: []
+  formula: AlCl2F
+  name: "\u0444\u0442\u043E\u0440\u0438\u0434-\u0434\u0438\u0445\u043B\u043E\u0440\
+    \u0438\u0434 \u0430\u043B\u044E\u043C\u0438\u043D\u0438\u044F"
+- common_names: []
+  formula: AlCl3
+  name: "\u0442\u0440\u0438\u0445\u043B\u043E\u0440\u0438\u0434 \u0430\u043B\u044E\
+    \u043C\u0438\u043D\u0438\u044F"
+- common_names: []
+  formula: AlCl4Cs
+  name: "\u0442\u0435\u0442\u0440\u0430\u0445\u043B\u043E\u0440\u043E\u0430\u043B\u044E\
+    \u043C\u0438\u043D\u0430\u0442 \u0446\u0435\u0437\u0438\u044F"
+- common_names: []
+  formula: AlCl4K
+  name: "\u0442\u0435\u0442\u0440\u0430\u0445\u043B\u043E\u0440\u043E\u0430\u043B\u044E\
+    \u043C\u0438\u043D\u0430\u0442 \u043A\u0430\u043B\u0438\u044F"
+- common_names: []
+  formula: AlCl4Na
+  name: "\u0442\u0435\u0442\u0440\u0430\u0445\u043B\u043E\u0440\u043E\u0430\u043B\u044E\
+    \u043C\u0438\u043D\u0430\u0442 \u043D\u0430\u0442\u0440\u0438\u044F"
+- common_names: []
+  formula: AlCl4Rb
+  name: "\u0442\u0435\u0442\u0440\u0430\u0445\u043B\u043E\u0440\u043E\u0430\u043B\u044E\
+    \u043C\u0438\u043D\u0430\u0442 \u0440\u0443\u0431\u0438\u0434\u0438\u044F"
+- common_names: []
+  formula: AlCl6K3
+  name: "\u0433\u0435\u043A\u0441\u0430\u0445\u043B\u043E\u0440\u043E\u0430\u043B\u044E\
+    \u043C\u0438\u043D\u0430\u0442 \u043A\u0430\u043B\u0438\u044F"
+- common_names: []
+  formula: AlCl6Na3
+  name: "\u0433\u0435\u043A\u0441\u0430\u0445\u043B\u043E\u0440\u043E\u0430\u043B\u044E\
+    \u043C\u0438\u043D\u0430\u0442 \u043D\u0430\u0442\u0440\u0438\u044F"
+- common_names: []
+  formula: AlF
+  name: "\u043C\u043E\u043D\u043E\u0444\u0442\u043E\u0440\u0438\u0434 \u0430\u043B\
+    \u044E\u043C\u0438\u043D\u0438\u044F"
+- common_names: []
+  formula: AlFO
+  name: "\u043E\u043A\u0441\u043E\u0444\u0442\u043E\u0440\u0438\u0434 \u0430\u043B\
+    \u044E\u043C\u0438\u043D\u0438\u044F"
+- common_names: []
+  formula: AlF2
+  name: "\u0434\u0438\u0444\u0442\u043E\u0440\u0438\u0434 \u0430\u043B\u044E\u043C\
+    \u0438\u043D\u0438\u044F"
+- common_names: []
+  formula: AlF2O
+  name: "\u0434\u0438\u0444\u0442\u043E\u0440\u043E\u043A\u0441\u0438\u0434 \u0430\
+    \u043B\u044E\u043C\u0438\u043D\u0438\u044F"
+- common_names: []
+  formula: AlF3
+  name: "\u0442\u0440\u0438\u0444\u0442\u043E\u0440\u0438\u0434 \u0430\u043B\u044E\
+    \u043C\u0438\u043D\u0438\u044F"
+- common_names: []
+  formula: AlF4K
+  name: "\u0442\u0435\u0442\u0440\u0430\u0444\u0442\u043E\u0440\u043E\u0430\u043B\u044E\
+    \u043C\u0438\u043D\u0430\u0442 \u043A\u0430\u043B\u0438\u044F"
+- common_names: []
+  formula: AlF4Li
+  name: "\u0442\u0435\u0442\u0440\u0430\u0444\u0442\u043E\u0440\u043E\u0430\u043B\u044E\
+    \u043C\u0438\u043D\u0430\u0442 \u043B\u0438\u0442\u0438\u044F"
+- common_names: []
+  formula: AlF6K3
+  name: "\u0433\u0435\u043A\u0441\u0430\u0444\u0442\u043E\u0440\u043E\u0430\u043B\u044E\
+    \u043C\u0438\u043D\u0430\u0442 \u043A\u0430\u043B\u0438\u044F"
+- common_names: []
+  formula: AlF6Li3
+  name: "\u0433\u0435\u043A\u0441\u0430\u0444\u0442\u043E\u0440\u043E\u0430\u043B\u044E\
+    \u043C\u0438\u043D\u0430\u0442 \u043B\u0438\u0442\u0438\u044F"
+- common_names: []
+  formula: AlF6Na3
+  name: "\u0433\u0435\u043A\u0441\u0430\u0444\u0442\u043E\u0440\u043E\u0430\u043B\u044E\
+    \u043C\u0438\u043D\u0430\u0442 \u043D\u0430\u0442\u0440\u0438\u044F(\u043A\u0440\
+    \u0438\u043E\u043B\u0438\u0442)"
+- common_names: []
+  formula: AlGaInP
+  name: "\u0444\u043E\u0441\u0444\u0438\u0434 \u0430\u043B\u044E\u043C\u0438\u043D\
+    \u0438\u044F-\u0433\u0430\u043B\u043B\u0438\u044F-\u0438\u043D\u0434\u0438\u044F"
+- common_names: []
+  formula: Al(OH)3
+  name: "\u0433\u0438\u0434\u0440\u043E\u043A\u0441\u0438\u0434 \u0430\u043B\u044E\
+    \u043C\u0438\u043D\u0438\u044F"
+- common_names: []
+  formula: AlI
+  name: "\u043C\u043E\u043D\u043E\u0438\u043E\u0434\u0438\u0434 \u0430\u043B\u044E\
+    \u043C\u0438\u043D\u0438\u044F"
+- common_names: []
+  formula: AlI3
+  name: "\u0442\u0440\u0438\u0438\u043E\u0434\u0438\u0434 \u0430\u043B\u044E\u043C\
+    \u0438\u043D\u0438\u044F"
+- common_names: []
+  formula: AlLiO2
+  name: "\u0430\u043B\u044E\u043C\u0438\u043D\u0430\u0442 \u043B\u0438\u0442\u0438\
+    \u044F"
+- common_names: []
+  formula: AlN
+  name: "\u043D\u0438\u0442\u0440\u0438\u0434 \u0430\u043B\u044E\u043C\u0438\u043D\
+    \u0438\u044F"
+- common_names: []
+  formula: Al(NO3)3
+  name: "\u043D\u0438\u0442\u0440\u0430\u0442 \u0430\u043B\u044E\u043C\u0438\u043D\
+    \u0438\u044F"
+- common_names: []
+  formula: AlNaO2
+  name: "\u0430\u043B\u044E\u043C\u0438\u043D\u0430\u0442 \u043D\u0430\u0442\u0440\
+    \u0438\u044F"
+- common_names: []
+  formula: AlO
+  name: "\u043C\u043E\u043D\u043E\u043E\u043A\u0441\u0438\u0434 \u0430\u043B\u044E\
+    \u043C\u0438\u043D\u0438\u044F"
+- common_names: []
+  formula: AlOSi
+  name: "\u043E\u043A\u0441\u0438\u0434 \u0430\u043B\u044E\u043C\u0438\u043D\u0438\
+    \u044F-\u043A\u0440\u0435\u043C\u043D\u0438\u044F"
+- common_names: []
+  formula: AlO2
+  name: "\u043E\u043A\u0438\u0441\u044C \u0430\u043B\u044E\u043C\u0438\u043D\u0438\
+    \u044F"
+- common_names: []
+  formula: AlP
+  name: "\u0444\u043E\u0441\u0444\u0438\u0434 \u0430\u043B\u044E\u043C\u0438\u043D\
+    \u0438\u044F"
+- common_names: []
+  formula: Al2S3
+  name: "\u0441\u0443\u043B\u044C\u0444\u0438\u0434 \u0430\u043B\u044E\u043C\u0438\
+    \u043D\u0438\u044F"
+- common_names: []
+  formula: AlTe
+  name: "\u043C\u043E\u043D\u043E\u0442\u0435\u043B\u043B\u0443\u0440\u0438\u0434\
+    \ \u0430\u043B\u044E\u043C\u0438\u043D\u0438\u044F"
+- common_names: []
+  formula: AlTe2
+  name: "\u0434\u0438\u0442\u0435\u043B\u043B\u0443\u0440\u0438\u0434 \u0430\u043B\
+    \u044E\u043C\u0438\u043D\u0438\u044F"
+- common_names: []
+  formula: Al2BeO4
+  name: "\u043E\u043A\u0441\u0438\u0434 \u0431\u0435\u0440\u0438\u043B\u043B\u0438\
+    \u044F-\u0430\u043B\u044E\u043C\u0438\u043D\u0438\u044F"
+- common_names: []
+  formula: Al2Br6
+  name: "\u0433\u0435\u043A\u0441\u0430\u0431\u0440\u043E\u043C\u0438\u0434 \u0434\
+    \u0438\u0430\u043B\u044E\u043C\u0438\u043D\u0438\u044F"
+- common_names: []
+  formula: Al2Cl9K3
+  name: "\u0445\u043B\u043E\u0440\u0438\u0434 \u0430\u043B\u044E\u043C\u0438\u043D\
+    \u0438\u044F-\u043A\u0430\u043B\u0438\u044F"
+- common_names: []
+  formula: Al2CoO4
+  name: "\u043E\u043A\u0441\u0438\u0434 \u043A\u043E\u0431\u0430\u043B\u044C\u0442\
+    \u0430(II)-\u0430\u043B\u044E\u043C\u0438\u043D\u0438\u044F(cobalt blue)"
+- common_names: []
+  formula: Al2F6
+  name: "\u0433\u0435\u043A\u0441\u0430\u0444\u0442\u043E\u0440\u0438\u0434 \u0434\
+    \u0438\u0430\u043B\u044E\u043C\u0438\u043D\u0438\u044F"
+- common_names: []
+  formula: Al2I6
+  name: "\u0433\u0435\u043A\u0441\u0430\u0438\u043E\u0434\u0438\u0434 \u0434\u0438\
+    \u0430\u043B\u044E\u043C\u0438\u043D\u0438\u044F"
+- common_names: []
+  formula: Al2MgO4
+  name: "\u043E\u043A\u0441\u0438\u0434 \u0430\u043B\u044E\u043C\u0438\u043D\u0438\
+    \u044F-\u043C\u0430\u0433\u043D\u0438\u044F"
+- common_names: []
+  formula: Al2O
+  name: "\u043E\u043A\u0441\u0438\u0434 \u0430\u043B\u044E\u043C\u0438\u043D\u0438\
+    \u044F(I)"
+- common_names: []
+  formula: Al2O2
+  name: "\u043E\u043A\u0441\u0438\u0434 \u0430\u043B\u044E\u043C\u0438\u043D\u0438\
+    \u044F(II)"
+- common_names: []
+  formula: Al2O3
+  name: "\u043E\u043A\u0441\u0438\u0434 \u0430\u043B\u044E\u043C\u0438\u043D\u0438\
+    \u044F"
+- common_names: []
+  formula: Al2O5Si
+  name: "\u0441\u0438\u043B\u0438\u043A\u0430\u0442 \u0430\u043B\u044E\u043C\u0438\
+    \u043D\u0438\u044F"
+- common_names: []
+  formula: Al2O5Si
+  name: "\u0441\u0438\u043B\u0438\u043A\u0430\u0442 \u0430\u043B\u044E\u043C\u0438\
+    \u043D\u0438\u044F"
+- common_names: []
+  formula: Al2O5Si
+  name: "\u0430\u043D\u0434\u0430\u043B\u0443\u0437\u0438\u0442"
+- common_names: []
+  formula: Al2O7Si2
+  name: "\u0441\u0438\u043B\u0438\u043A\u0430\u0442 \u0430\u043B\u044E\u043C\u0438\
+    \u043D\u0438\u044F"
+- common_names: []
+  formula: Al2S
+  name: "\u0441\u0443\u043B\u044C\u0444\u0438\u0434 \u0430\u043B\u044E\u043C\u0438\
+    \u043D\u0438\u044F(I)"
+- common_names: []
+  formula: Al2S3
+  name: "\u0441\u0443\u043B\u044C\u0444\u0438\u0434 \u0430\u043B\u044E\u043C\u0438\
+    \u043D\u0438\u044F"
+- common_names: []
+  formula: Al2Se
+  name: "\u0441\u0435\u043B\u0435\u043D\u0438\u0434 \u0430\u043B\u044E\u043C\u0438\
+    \u043D\u0438\u044F(I)"
+- common_names: []
+  formula: Al2Te
+  name: "\u0442\u0435\u043B\u043B\u0443\u0440\u0438\u0434 \u0430\u043B\u044E\u043C\
+    \u0438\u043D\u0438\u044F(I)"
+- common_names: []
+  formula: Al3F14Na5
+  name: "\u0445\u0438\u043E\u043B\u0438\u0442"
+- common_names: []
+  formula: Al4C3
+  name: "\u043A\u0430\u0440\u0431\u0438\u0434 \u0430\u043B\u044E\u043C\u0438\u043D\
+    \u0438\u044F"
+- common_names: []
+  formula: Al6BeO10
+  name: "\u043E\u043A\u0441\u0438\u0434 \u0431\u0435\u0440\u0438\u043B\u043B\u0438\
+    \u044F-\u0430\u043B\u044E\u043C\u0438\u043D\u0438\u044F"
+- common_names: []
+  formula: Al6O13Si2
+  name: "\u043C\u0443\u043B\u043B\u0438\u0442"
+- common_names: []
+  formula: ArClF
+  name: "\u0444\u0442\u043E\u0440\u0438\u0434-\u0445\u043B\u043E\u0440\u0438\u0434\
+    \ \u0430\u0440\u0433\u043E\u043D\u0430"
+- common_names: []
+  formula: ArClH
+  name: "\u0433\u0438\u0434\u0440\u0438\u0434-\u0445\u043B\u043E\u0440\u0438\u0434\
+    \ \u0430\u0440\u0433\u043E\u043D\u0430"
+- common_names: []
+  formula: ArFH
+  name: "\u0433\u0438\u0434\u0440\u0438\u0434-\u0444\u0442\u043E\u0440\u0438\u0434\
+    \ \u0430\u0440\u0433\u043E\u043D\u0430"
+- common_names: []
+  formula: AsBrO
+  name: "\u043E\u043A\u0441\u043E\u0431\u0440\u043E\u043C\u0438\u0434 \u043C\u044B\
+    \u0448\u044C\u044F\u043A\u0430(III)"
+- common_names: []
+  formula: AsBr3
+  name: "\u0442\u0440\u0438\u0431\u0440\u043E\u043C\u0438\u0434 \u043C\u044B\u0448\
+    \u044C\u044F\u043A\u0430"
+- common_names: []
+  formula: AsClO
+  name: "\u043E\u043A\u0441\u043E\u0445\u043B\u043E\u0440\u0438\u0434 \u043C\u044B\
+    \u0448\u044C\u044F\u043A\u0430(III)"
+- common_names: []
+  formula: AsCl3
+  name: "\u0442\u0440\u0438\u0445\u043B\u043E\u0440\u0438\u0434 \u043C\u044B\u0448\
+    \u044C\u044F\u043A\u0430"
+- common_names: []
+  formula: AsCl3O
+  name: "\u043E\u043A\u0441\u043E\u0445\u043B\u043E\u0440\u0438\u0434 \u043C\u044B\
+    \u0448\u044C\u044F\u043A\u0430(V)"
+- common_names: []
+  formula: AsCl4F
+  name: "\u0444\u0442\u043E\u0440\u0438\u0434-\u0442\u0435\u0442\u0440\u0430\u0445\
+    \u043B\u043E\u0440\u0438\u0434 \u043C\u044B\u0448\u044C\u044F\u043A\u0430"
+- common_names: []
+  formula: AsF3
+  name: "\u0444\u0442\u043E\u0440\u0438\u0434 \u043C\u044B\u0448\u044C\u044F\u043A\
+    \u0430(III)"
+- common_names: []
+  formula: AsF5
+  name: "\u0444\u0442\u043E\u0440\u0438\u0434 \u043C\u044B\u0448\u044C\u044F\u043A\
+    \u0430(V)"
+- common_names: []
+  formula: AsH3
+  name: "\u0430\u0440\u0441\u0438\u043D"
+- common_names: []
+  formula: AsI3
+  name: "\u0438\u043E\u0434\u0438\u0434 \u043C\u044B\u0448\u044C\u044F\u043A\u0430\
+    \ (III)"
+- common_names: []
+  formula: AsO
+  name: "\u043C\u043E\u043D\u043E\u043E\u043A\u0441\u0438\u0434 \u043C\u044B\u0448\
+    \u044C\u044F\u043A\u0430"
+- common_names: []
+  formula: AsO2
+  name: "\u0434\u0438\u043E\u043A\u0441\u0438\u0434 \u043C\u044B\u0448\u044C\u044F\
+    \u043A\u0430"
+- common_names: []
+  formula: AsP
+  name: "\u0444\u043E\u0441\u0444\u0438\u0434 \u043C\u044B\u0448\u044C\u044F\u043A\
+    \u0430(III)"
+- common_names: []
+  formula: AsP3
+  name: "\u0442\u0440\u0438\u0444\u043E\u0441\u0444\u0438\u0434 \u043C\u044B\u0448\
+    \u044C\u044F\u043A\u0430"
+- common_names: []
+  formula: AsTl
+  name: "\u0430\u0440\u0441\u0435\u043D\u0438\u0434 \u0442\u0430\u043B\u043B\u0438\
+    \u044F"
+- common_names: []
+  formula: As2I4
+  name: "\u0442\u0435\u0442\u0440\u0430\u0438\u043E\u0434\u0438\u0434 \u0434\u0438\
+    \u043C\u044B\u0448\u044C\u044F\u043A\u0430"
+- common_names: []
+  formula: As2O3
+  name: "\u043E\u043A\u0441\u0438\u0434 \u043C\u044B\u0448\u044C\u044F\u043A\u0430\
+    (III)"
+- common_names: []
+  formula: As2P2
+  name: "\u0434\u0438\u0444\u043E\u0441\u0444\u0438\u0434 \u0434\u0438\u043C\u044B\
+    \u0448\u044C\u044F\u043A\u0430"
+- common_names: []
+  formula: As2O5
+  name: "\u043E\u043A\u0441\u0438\u0434 \u043C\u044B\u0448\u044C\u044F\u043A\u0430\
+    (V)"
+- common_names: []
+  formula: As2S4
+  name: "\u0442\u0435\u0442\u0440\u0430\u0441\u0443\u043B\u044C\u0444\u0438\u0434\
+    \ \u0434\u0438\u043C\u044B\u0448\u044C\u044F\u043A\u0430"
+- common_names: []
+  formula: As2S5
+  name: "\u0441\u0443\u043B\u044C\u0444\u0438\u0434 \u043C\u044B\u0448\u044C\u044F\
+    \u043A\u0430(V)"
+- common_names: []
+  formula: As2Se
+  name: "\u0441\u0435\u043B\u0435\u043D\u0438\u0434 \u043C\u044B\u0448\u044C\u044F\
+    \u043A\u0430(I)"
+- common_names: []
+  formula: As2Se3
+  name: "\u0441\u0435\u043B\u0435\u043D\u0438\u0434 \u043C\u044B\u0448\u044C\u044F\
+    \u043A\u0430(III)"
+- common_names: []
+  formula: As2Se5
+  name: "\u0441\u0435\u043B\u0435\u043D\u0438\u0434 \u043C\u044B\u0448\u044C\u044F\
+    \u043A\u0430(V)"
+- common_names: []
+  formula: As3O4
+  name: "\u0442\u0435\u0442\u0440\u0430\u043E\u043A\u0441\u0438\u0434 \u0442\u0440\
+    \u0438\u043C\u044B\u0448\u044C\u044F\u043A\u0430"
+- common_names: []
+  formula: As3P
+  name: "\u0424\u043E\u0441\u0444\u0438\u0434 \u043C\u044B\u0448\u044C\u044F\u043A\
+    \u0430(III)"
+- common_names: []
+  formula: As4O3
+  name: "\u0422\u0440\u0438\u043E\u043A\u0441\u0438\u0434 \u0442\u0435\u0442\u0440\
+    \u0430\u043C\u044B\u0448\u044C\u044F\u043A\u0430"
+- common_names: []
+  formula: As4O5
+  name: "\u041F\u0435\u043D\u0442\u043E\u043A\u0441\u0438\u0434 \u0442\u0435\u0442\
+    \u0440\u0430\u043C\u044B\u0448\u044C\u044F\u043A\u0430"
+- common_names: []
+  formula: As4S3
+  name: "\u0422\u0440\u0438\u0441\u0443\u043B\u044C\u0444\u0438\u0434 \u0442\u0435\
+    \u0442\u0440\u0430\u043C\u044B\u0448\u044C\u044F\u043A\u0430"
+- common_names: []
+  formula: As4S4
+  name: "\u0422\u0435\u0442\u0440\u0430\u0441\u0443\u043B\u044C\u0444\u0438\u0434\
+    \ \u0442\u0435\u0442\u0440\u0430\u043C\u044B\u0448\u044C\u044F\u043A\u0430"
+- common_names: []
+  formula: AuBO
+  name: "\u041E\u043A\u0441\u0438\u0434-\u0431\u043E\u0440\u0438\u0434 \u0437\u043E\
+    \u043B\u043E\u0442\u0430"
+- common_names: []
+  formula: AuBr
+  name: "\u0431\u0440\u043E\u043C\u0438\u0434 \u0437\u043E\u043B\u043E\u0442\u0430\
+    (I)"
+- common_names: []
+  formula: AuBr3
+  name: "\u0431\u0440\u043E\u043C\u0438\u0434 \u0437\u043E\u043B\u043E\u0442\u0430\
+    (III)"
+- common_names: []
+  formula: AuCN
+  name: "\u0446\u0438\u0430\u043D\u0438\u0434 \u0437\u043E\u043B\u043E\u0442\u0430\
+    (I)"
+- common_names: []
+  formula: AuCl
+  name: "\u0445\u043B\u043E\u0440\u0438\u0434 \u0437\u043E\u043B\u043E\u0442\u0430\
+    (I)"
+- common_names: []
+  formula: AuCl3
+  name: "\u0445\u043B\u043E\u0440\u0438\u0434 \u0437\u043E\u043B\u043E\u0442\u0430\
+    (III)"
+- common_names: []
+  formula: AuF3
+  name: "\u0444\u0442\u043E\u0440\u0438\u0434 \u0437\u043E\u043B\u043E\u0442\u0430\
+    (III)"
+- common_names: []
+  formula: AuI
+  name: "\u0438\u043E\u0434\u0438\u0434 \u0437\u043E\u043B\u043E\u0442\u0430(I)"
+- common_names: []
+  formula: AuI3
+  name: "\u0438\u043E\u0434\u0438\u0434 \u0437\u043E\u043B\u043E\u0442\u0430(III)"
+- common_names: []
+  formula: Au(OH)3
+  name: "\u0433\u0438\u0434\u0440\u043E\u043A\u0441\u0438\u0434 \u0437\u043E\u043B\
+    \u043E\u0442\u0430(III)"
+- common_names: []
+  formula: AuTe
+  name: "\u0422\u0435\u043B\u043B\u0443\u0440\u0438\u0434 \u0437\u043E\u043B\u043E\
+    \u0442\u0430"
+- common_names: []
+  formula: Au2O3
+  name: "\u043E\u043A\u0441\u0438\u0434 \u0437\u043E\u043B\u043E\u0442\u0430(III)"
+- common_names: []
+  formula: Au2S
+  name: "\u0441\u0443\u043B\u044C\u0444\u0438\u0434 \u0437\u043E\u043B\u043E\u0442\
+    \u0430(I)"
+- common_names: []
+  formula: Au2S3
+  name: "\u0441\u0443\u043B\u044C\u0444\u0438\u0434 \u0437\u043E\u043B\u043E\u0442\
+    \u0430(III)"
+- common_names: []
+  formula: Au2(SeO4)3
+  name: "\u0441\u0435\u043B\u0435\u043D\u0430\u0442 \u0437\u043E\u043B\u043E\u0442\
+    \u0430(III)"
+- common_names: []
+  formula: Au2Se3
+  name: "\u0441\u0435\u043B\u0435\u043D\u0438\u0434 \u0437\u043E\u043B\u043E\u0442\
+    \u0430(III)"
+- common_names: []
+  formula: BAs
+  name: "\u0430\u0440\u0441\u0435\u043D\u0438\u0434 \u0431\u043E\u0440\u0430"
+- common_names: []
+  formula: BAsO4
+  name: "\u0430\u0440\u0441\u0435\u043D\u0430\u0442 \u0431\u043E\u0440\u0430"
+- common_names: []
+  formula: BBr3
+  name: "\u0431\u0440\u043E\u043C\u0438\u0434 \u0431\u043E\u0440\u0430"
+- common_names: []
+  formula: BCl3
+  name: "\u0445\u043B\u043E\u0440\u0438\u0434 \u0431\u043E\u0440\u0430"
+- common_names: []
+  formula: BF3
+  name: "\u0442\u0440\u0438\u0444\u0442\u043E\u0440\u0438\u0434 \u0431\u043E\u0440\
+    \u0430"
+- common_names: []
+  formula: BI3
+  name: "\u0438\u043E\u0434\u0438\u0434 \u0431\u043E\u0440\u0430"
+- common_names: []
+  formula: BN
+  name: "\u043D\u0438\u0442\u0440\u0438\u0434 \u0431\u043E\u0440\u0430"
+- common_names: []
+  formula: B(OH)3
+  name: "\u0431\u043E\u0440\u043D\u0430\u044F \u043A\u0438\u0441\u043B\u043E\u0442\
+    \u0430"
+- common_names: []
+  formula: BP
+  name: "\u0444\u043E\u0441\u0444\u0438\u0434 \u0431\u043E\u0440\u0430"
+- common_names: []
+  formula: BPO4
+  name: "\u043E\u0440\u0442\u043E\u0444\u043E\u0441\u0444\u0430\u0442 \u0431\u043E\
+    \u0440\u0430"
+- common_names: []
+  formula: B2Cl4
+  name: "\u0445\u043B\u043E\u0440\u0438\u0434 \u0431\u043E\u0440\u0430"
+- common_names: []
+  formula: B2F4
+  name: "\u0444\u0442\u043E\u0440\u0438\u0434 \u0431\u043E\u0440\u0430"
+- common_names: []
+  formula: B2H6
+  name: "\u0434\u0438\u0431\u043E\u0440\u0430\u043D"
+- common_names: []
+  formula: B2O3
+  name: "\u043E\u043A\u0441\u0438\u0434 \u0431\u043E\u0440\u0430"
+- common_names: []
+  formula: B2S3
+  name: "\u0441\u0443\u043B\u044C\u0444\u0438\u0434 \u0431\u043E\u0440\u0430"
+- common_names: []
+  formula: B3N3H6
+  name: "\u0431\u043E\u0440\u0430\u0437\u043E\u043B"
+- common_names: []
+  formula: B4C
+  name: "\u043A\u0430\u0440\u0431\u0438\u0434 \u0431\u043E\u0440\u0430"
+- common_names: []
+  formula: Ba(AlO2)2
+  name: "\u0430\u043B\u044E\u043C\u0438\u043D\u0430\u0442 \u0431\u0430\u0440\u0438\
+    \u044F"
+- common_names: []
+  formula: Ba(AsO3)2
+  name: "\u0430\u0440\u0441\u0435\u043D\u0438\u0442 \u0431\u0430\u0440\u0438\u044F"
+- common_names: []
+  formula: Ba(AsO4)2
+  name: "\u0430\u0440\u0441\u0435\u043D\u0430\u0442 \u0431\u0430\u0440\u0438\u044F"
+- common_names: []
+  formula: BaB6
+  name: "\u0433\u0435\u043A\u0441\u0430\u0431\u043E\u0440\u0438\u0434 \u0431\u0430\
+    \u0440\u0438\u044F"
+- common_names: []
+  formula: "Ba(BrO3)2\xB7H2O"
+  name: "\u043C\u043E\u043D\u043E\u0433\u0438\u0434\u0440\u0430\u0442 \u0431\u0440\
+    \u043E\u043C\u0430\u0442\u0430 \u0431\u0430\u0440\u0438\u044F"
+- common_names: []
+  formula: "Ba(BrO3)2\xB72H2O"
+  name: "\u0434\u0438\u0433\u0438\u0434\u0440\u0430\u0442 \u0431\u0440\u043E\u043C\
+    \u0430\u0442\u0430 \u0431\u0430\u0440\u0438\u044F"
+- common_names: []
+  formula: BaBr2
+  name: "\u0431\u0440\u043E\u043C\u0438\u0434 \u0431\u0430\u0440\u0438\u044F"
+- common_names: []
+  formula: Ba(CHO2)2
+  name: "\u0444\u043E\u0440\u043C\u0438\u0430\u0442 \u0431\u0430\u0440\u0438\u044F"
+- common_names: []
+  formula: Ba(CN)2
+  name: "\u0446\u0438\u0430\u043D\u0438\u0434 \u0431\u0430\u0440\u0438\u044F"
+- common_names: []
+  formula: Ba(C2H3O2)2
+  name: "\u0430\u0446\u0435\u0442\u0430\u0442 \u0431\u0430\u0440\u0438\u044F"
+- common_names: []
+  formula: BaC2O4
+  name: "\u043E\u043A\u0441\u0430\u043B\u0430\u0442 \u0431\u0430\u0440\u0438\u044F"
+- common_names: []
+  formula: BaC4
+  name: "\u043A\u0430\u0440\u0431\u0438\u0434 \u0431\u0430\u0440\u0438\u044F"
+- common_names: ["\u0432\u0438\u0442\u0435\u0440\u0438\u0442"]
+  formula: BaCO3
+  name: "\u043A\u0430\u0440\u0431\u043E\u043D\u0430\u0442 \u0431\u0430\u0440\u0438\
+    \u044F"
+- common_names: []
+  formula: Ba(ClO4)2
+  name: "\u043F\u0435\u0440\u0445\u043B\u043E\u0440\u0430\u0442 \u0431\u0430\u0440\
+    \u0438\u044F"
+- common_names: []
+  formula: BaCl2
+  name: "\u0445\u043B\u043E\u0440\u0438\u0434 \u0431\u0430\u0440\u0438\u044F"
+- common_names: []
+  formula: BaCrO4
+  name: "\u0445\u0440\u043E\u043C\u0430\u0442 \u0431\u0430\u0440\u0438\u044F"
+- common_names: []
+  formula: BaF2
+  name: "\u0444\u0442\u043E\u0440\u0438\u0434 \u0431\u0430\u0440\u0438\u044F"
+- common_names: []
+  formula: BaFeSi4O10
+  name: "\u0433\u0438\u043B\u043B\u0435\u0441\u043F\u0438\u0442"
+- common_names: []
+  formula: BaHgI4
+  name: "\u0442\u0435\u0442\u0440\u0430\u0438\u043E\u0434\u043E\u043C\u0435\u0440\u043A\
+    \u0443\u0440\u0430\u0442 \u0431\u0430\u0440\u0438\u044F"
+- common_names: []
+  formula: BaI2
+  name: "\u0438\u043E\u0434\u0438\u0434 \u0431\u0430\u0440\u0438\u044F"
+- common_names: []
+  formula: BaK2(CrO4)2
+  name: "\u0445\u0440\u043E\u043C\u0430\u0442 \u0431\u0430\u0440\u0438\u044F-\u043A\
+    \u0430\u043B\u0438\u044F"
+- common_names: []
+  formula: BaMnO4
+  name: "\u043C\u0430\u043D\u0433\u0430\u043D\u0430\u0442 \u0431\u0430\u0440\u0438\
+    \u044F"
+- common_names: []
+  formula: Ba(MnO4)2
+  name: "\u043F\u0435\u0440\u043C\u0430\u043D\u0433\u0430\u043D\u0430\u0442 \u0431\
+    \u0430\u0440\u0438\u044F"
+- common_names: []
+  formula: BaMoO4
+  name: "\u043C\u043E\u043B\u0438\u0431\u0434\u0430\u0442 \u0431\u0430\u0440\u0438\
+    \u044F"
+- common_names: []
+  formula: BaN6
+  name: "\u0430\u0437\u0438\u0434 \u0431\u0430\u0440\u0438\u044F"
+- common_names: []
+  formula: Ba(NO2)2
+  name: "\u043D\u0438\u0442\u0440\u0438\u0442 \u0431\u0430\u0440\u0438\u044F"
+- common_names: []
+  formula: Ba(NO3)2
+  name: "\u043D\u0438\u0442\u0440\u0430\u0442 \u0431\u0430\u0440\u0438\u044F"
+- common_names: []
+  formula: Ba(NbO3)2
+  name: "\u043D\u0438\u043E\u0431\u0430\u0442 \u0431\u0430\u0440\u0438\u044F"
+- common_names: []
+  formula: BaNb2O6
+  name: "\u043C\u0435\u0442\u0430\u043D\u0438\u043E\u0431\u0430\u0442 \u0431\u0430\
+    \u0440\u0438\u044F"
+- common_names: []
+  formula: BaO
+  name: "\u043E\u043A\u0441\u0438\u0434 \u0431\u0430\u0440\u0438\u044F"
+- common_names: []
+  formula: Ba(OH)2
+  name: "\u0433\u0438\u0434\u0440\u043E\u043A\u0441\u0438\u0434 \u0431\u0430\u0440\
+    \u0438\u044F"
+- common_names: []
+  formula: BaO2
+  name: "\u043F\u0435\u0440\u043E\u043A\u0441\u0438\u0434 \u0431\u0430\u0440\u0438\
+    \u044F"
+- common_names: []
+  formula: Ba(PO3)2
+  name: "\u043C\u0435\u0442\u0430\u0444\u043E\u0441\u0444\u0430\u0442 \u0431\u0430\
+    \u0440\u0438\u044F"
+- common_names: []
+  formula: BaS
+  name: "\u0441\u0443\u043B\u044C\u0444\u0438\u0434 \u0431\u0430\u0440\u0438\u044F"
+- common_names: []
+  formula: Ba(SCN)2
+  name: "\u0442\u0438\u043E\u0446\u0438\u0430\u043D\u0430\u0442 \u0431\u0430\u0440\
+    \u0438\u044F"
+- common_names: []
+  formula: BaS2O3
+  name: "\u0442\u0438\u043E\u0441\u0443\u043B\u044C\u0444\u0430\u0442 \u0431\u0430\
+    \u0440\u0438\u044F"
+- common_names: []
+  formula: BaSiF6
+  name: "\u0433\u0435\u043A\u0441\u0430\u0444\u0442\u043E\u0440\u043E\u0441\u0438\u043B\
+    \u0438\u043A\u0430\u0442 \u0431\u0430\u0440\u0438\u044F"
+- common_names: []
+  formula: BaSO3
+  name: "\u0441\u0443\u043B\u044C\u0444\u0438\u0442 \u0431\u0430\u0440\u0438\u044F"
+- common_names: ["\u0431\u0430\u0440\u0438\u0442"]
+  formula: BaSO4
+  name: "\u0441\u0443\u043B\u044C\u0444\u0430\u0442 \u0431\u0430\u0440\u0438\u044F"
+- common_names: []
+  formula: BaSe
+  name: "\u0441\u0435\u043B\u0435\u043D\u0438\u0434 \u0431\u0430\u0440\u0438\u044F"
+- common_names: []
+  formula: BaSeO3
+  name: "\u0441\u0435\u043B\u0435\u043D\u0438\u0442 \u0431\u0430\u0440\u0438\u044F"
+- common_names: []
+  formula: BaSeO4
+  name: "\u0441\u0435\u043B\u0435\u043D\u0430\u0442 \u0431\u0430\u0440\u0438\u044F"
+- common_names: []
+  formula: BaSiO3
+  name: "\u043C\u0435\u0442\u0430\u0441\u0438\u043B\u0438\u043A\u0430\u0442 \u0431\
+    \u0430\u0440\u0438\u044F"
+- common_names: []
+  formula: BaSi2
+  name: "\u0441\u0438\u043B\u0438\u0446\u0438\u0434 \u0431\u0430\u0440\u0438\u044F"
+- common_names: []
+  formula: BaSi2O5
+  name: "\u0434\u0438\u0441\u0438\u043B\u0438\u043A\u0430\u0442 \u0431\u0430\u0440\
+    \u0438\u044F"
+- common_names: []
+  formula: BaSn3
+  name: "\u0441\u0442\u0430\u043D\u043D\u0430\u0442 \u0431\u0430\u0440\u0438\u044F"
+- common_names: []
+  formula: BaTeO3
+  name: "\u0442\u0435\u043B\u043B\u0443\u0440\u0438\u0442 \u0431\u0430\u0440\u0438\
+    \u044F"
+- common_names: []
+  formula: "BaTeO4\xB73H2O"
+  name: "\u0442\u0440\u0438\u0433\u0438\u0434\u0440\u0430\u0442 \u0442\u0435\u043B\
+    \u043B\u0443\u0440\u0430\u0442\u0430 \u0431\u0430\u0440\u0438\u044F"
+- common_names: []
+  formula: BaTiO3
+  name: "\u0442\u0438\u0442\u0430\u043D\u0430\u0442 \u0431\u0430\u0440\u0438\u044F"
+- common_names: []
+  formula: BaU2O7
+  name: "\u043E\u043A\u0441\u0438\u0434 \u0443\u0440\u0430\u043D\u0430-\u0431\u0430\
+    \u0440\u0438\u044F"
+- common_names: []
+  formula: BaWO4
+  name: "\u0432\u043E\u043B\u044C\u0444\u0440\u0430\u043C\u0430\u0442 \u0431\u0430\
+    \u0440\u0438\u044F"
+- common_names: []
+  formula: BaZrO3
+  name: "\u0446\u0438\u0440\u043A\u043E\u043D\u0430\u0442 \u0431\u0430\u0440\u0438\
+    \u044F"
+- common_names: []
+  formula: Ba2Na(NbO3)5
+  name: "\u043D\u0438\u043E\u0431\u0430\u0442 \u0434\u0438\u0431\u0430\u0440\u0438\
+    \u044F-\u043D\u0430\u0442\u0440\u0438\u044F"
+- common_names: []
+  formula: Ba2P2O7
+  name: "\u043F\u0438\u0440\u043E\u0444\u043E\u0441\u0444\u0430\u0442 \u0431\u0430\
+    \u0440\u0438\u044F"
+- common_names: []
+  formula: Ba2V2O7
+  name: "\u043F\u0438\u0440\u043E\u0432\u0430\u043D\u0430\u0434\u0430\u0442 \u0431\
+    \u0430\u0440\u0438\u044F"
+- common_names: []
+  formula: Ba2XeO6
+  name: "\u043F\u0435\u0440\u043A\u0441\u0435\u043D\u0430\u0442 \u0431\u0430\u0440\
+    \u0438\u044F"
+- common_names: []
+  formula: Ba3(CrO4)2
+  name: "\u0445\u0440\u043E\u043C\u0430\u0442(V) \u0431\u0430\u0440\u0438\u044F"
+- common_names: []
+  formula: Ba3N2
+  name: "\u043D\u0438\u0442\u0440\u0438\u0434 \u0431\u0430\u0440\u0438\u044F"
+- common_names: []
+  formula: Ba3(PO4)2
+  name: "\u043E\u0440\u0442\u043E\u0444\u043E\u0441\u0444\u0430\u0442 \u0431\u0430\
+    \u0440\u0438\u044F"
+- common_names: []
+  formula: Ba3(VO4)2
+  name: "\u043E\u0440\u0442\u043E\u0432\u0430\u043D\u0430\u0434\u0430\u0442 \u0431\
+    \u0430\u0440\u0438\u044F"
+- common_names: []
+  formula: BeB2
+  name: "\u0431\u043E\u0440\u0438\u0434 \u0431\u0435\u0440\u0438\u043B\u043B\u0438\
+    \u044F"
+- common_names: []
+  formula: Be(BH4)2
+  name: "\u0431\u043E\u0440\u0433\u0438\u0434\u0440\u0438\u0434 \u0431\u0435\u0440\
+    \u0438\u043B\u043B\u0438\u044F"
+- common_names: []
+  formula: BeBr2
+  name: "\u0431\u0440\u043E\u043C\u0438\u0434 \u0431\u0435\u0440\u0438\u043B\u043B\
+    \u0438\u044F"
+- common_names: []
+  formula: Be(CHO2)2
+  name: "\u0444\u043E\u0440\u043C\u0438\u0430\u0442 \u0431\u0435\u0440\u0438\u043B\
+    \u043B\u0438\u044F"
+- common_names: []
+  formula: Be(C2H3O2)2
+  name: "\u0430\u0446\u0435\u0442\u0430\u0442 \u0431\u0435\u0440\u0438\u043B\u043B\
+    \u0438\u044F"
+- common_names: []
+  formula: Be(C5H7O2)2
+  name: "\u0430\u0446\u0435\u0442\u0438\u043B\u0430\u0446\u0435\u0442\u043E\u043D\u0430\
+    \u0442 \u0431\u0435\u0440\u0438\u043B\u043B\u0438\u044F"
+- common_names: []
+  formula: BeCl2
+  name: "\u0445\u043B\u043E\u0440\u0438\u0434 \u0431\u0435\u0440\u0438\u043B\u043B\
+    \u0438\u044F"
+- common_names: []
+  formula: BeF2
+  name: "\u0444\u0442\u043E\u0440\u0438\u0434 \u0431\u0435\u0440\u0438\u043B\u043B\
+    \u0438\u044F"
+- common_names: []
+  formula: BeI2
+  name: "\u0438\u043E\u0434\u0438\u0434 \u0431\u0435\u0440\u0438\u043B\u043B\u0438\
+    \u044F"
+- common_names: ["\u0431\u0440\u043E\u043C\u0435\u043B\u043B\u0438\u0442"]
+  formula: BeO
+  name: "\u043E\u043A\u0441\u0438\u0434 \u0431\u0435\u0440\u0438\u043B\u043B\u043B\
+    \u0438\u044F"
+- common_names: []
+  formula: Be(OH)2
+  name: "\u0433\u0438\u0434\u0440\u043E\u043A\u0441\u0438\u0434 \u0431\u0435\u0440\
+    \u0438\u043B\u043B\u0438\u044F"
+- common_names: []
+  formula: BeS
+  name: "\u0441\u0443\u043B\u044C\u0444\u0438\u0434 \u0431\u0435\u0440\u0438\u043B\
+    \u043B\u0438\u044F"
+- common_names: []
+  formula: BeSO4
+  name: "\u0441\u0443\u043B\u044C\u0444\u0430\u0442 \u0431\u0435\u0440\u0438\u043B\
+    \u043B\u0438\u044F"
+- common_names: []
+  formula: Be2C
+  name: "\u043A\u0430\u0440\u0431\u0438\u0434 \u0431\u0435\u0440\u0438\u043B\u043B\
+    \u0438\u044F"
+- common_names: []
+  formula: Be3N2
+  name: "\u043D\u0438\u0442\u0440\u0438\u0434 \u0431\u0435\u0440\u0438\u043B\u043B\
+    \u0438\u044F"
+- common_names: []
+  formula: BiBO3
+  name: "\u0431\u043E\u0440\u0430\u0442 \u0432\u0438\u0441\u043C\u0443\u0442\u0430\
+    (III)"
+- common_names: []
+  formula: BiBr3
+  name: "\u0431\u0440\u043E\u043C\u0438\u0434 \u0432\u0438\u0441\u043C\u0443\u0442\
+    \u0430(III)"
+- common_names: []
+  formula: Bi(C2H3O2)3
+  name: "\u0430\u0446\u0435\u0442\u0430\u0442 \u0432\u0438\u0441\u043C\u0443\u0442\
+    \u0430(III)"
+- common_names: []
+  formula: BiC6H5O7
+  name: "\u0446\u0438\u0442\u0440\u0430\u0442 \u0432\u0438\u0441\u043C\u0443\u0442\
+    \u0430(III)"
+- common_names: []
+  formula: BiCl3
+  name: "\u0445\u043B\u043E\u0440\u0438\u0434 \u0432\u0438\u0441\u043C\u0443\u0442\
+    \u0430(III)"
+- common_names: []
+  formula: BiF3
+  name: "\u0444\u0442\u043E\u0440\u0438\u0434 \u0432\u0438\u0441\u043C\u0443\u0442\
+    \u0430(III)"
+- common_names: []
+  formula: BiI3
+  name: "\u0438\u043E\u0434\u0438\u0434 \u0432\u0438\u0441\u043C\u0443\u0442\u0430\
+    (III)"
+- common_names: []
+  formula: "Bi(NO3)3\xB75H2O"
+  name: "\u043F\u0435\u043D\u0442\u0430\u0433\u0438\u0434\u0440\u0430\u0442 \u043D\
+    \u0438\u0442\u0440\u0430\u0442\u0430 \u0432\u0438\u0441\u043C\u0443\u0442\u0430\
+    (III)"
+- common_names: []
+  formula: BiOCl
+  name: "\u043E\u043A\u0441\u043E\u0445\u043B\u043E\u0440\u0438\u0434 \u0432\u0438\
+    \u0441\u043C\u0443\u0442\u0430(III)"
+- common_names: []
+  formula: BiOI
+  name: "\u043E\u043A\u0441\u043E\u0438\u043E\u0434\u0438\u0434 \u0432\u0438\u0441\
+    \u043C\u0443\u0442\u0430(III)"
+- common_names: []
+  formula: (BiO)2CO3
+  name: "\u043A\u0430\u0440\u0431\u043E\u043D\u0430\u0442 \u0432\u0438\u0441\u043C\
+    \u0443\u0442\u0438\u043B\u0430"
+- common_names: []
+  formula: BiPO4
+  name: "\u043E\u0440\u0442\u043E\u0444\u043E\u0441\u0444\u0430\u0442 \u0432\u0438\
+    \u0441\u043C\u0443\u0442\u0430(III)"
+- common_names: []
+  formula: Bi(VO3)5
+  name: "\u043C\u0435\u0442\u0430\u0432\u0430\u043D\u0430\u0434\u0430\u0442 \u0432\
+    \u0438\u0441\u043C\u0443\u0442\u0430(III)"
+- common_names: []
+  formula: Bi2Se3
+  name: "\u0441\u0435\u043B\u0435\u043D\u0438\u0434 \u0432\u0438\u0441\u043C\u0443\
+    \u0442\u0430(III)"
+- common_names: []
+  formula: Bi2(MoO4)3
+  name: "\u043C\u043E\u043B\u0438\u0431\u0434\u0430\u0442 \u0432\u0438\u0441\u043C\
+    \u0443\u0442\u0430(III)"
+- common_names: []
+  formula: Bi2O3
+  name: "\u043E\u043A\u0441\u0438\u0434 \u0432\u0438\u0441\u043C\u0443\u0442\u0430\
+    (III)"
+- common_names: []
+  formula: Bi2S3
+  name: "\u0441\u0443\u043B\u044C\u0444\u0438\u0434 \u0432\u0438\u0441\u043C\u0443\
+    \u0442\u0430(III)"
+- common_names: []
+  formula: Bi2Se3
+  name: "\u0441\u0435\u043B\u0435\u043D\u0438\u0434 \u0432\u0438\u0441\u043C\u0443\
+    \u0442\u0430(III)"
+- common_names: ["\u0442\u0435\u043B\u043B\u0443\u0440\u043E\u0432\u0438\u0441\u043C\
+      \u0443\u0442\u0438\u0442"]
+  formula: Bi2Te3
+  name: "\u0442\u0435\u043B\u043B\u0443\u0440\u0438\u0434 \u0432\u0438\u0441\u043C\
+    \u0443\u0442\u0430(III)"
+- common_names: []
+  formula: Bi2(WO4)3
+  name: "\u043E\u0440\u0442\u043E\u0432\u043E\u043B\u044C\u0444\u0440\u0430\u043C\u0430\
+    \u0442 \u0432\u0438\u0441\u043C\u0443\u0442\u0430(III)"
+- common_names: []
+  formula: BrCl
+  name: "\u0445\u043B\u043E\u0440\u0438\u0434 \u0431\u0440\u043E\u043C\u0430"
+- common_names: []
+  formula: "BrO3\u2212"
+  name: "\u0431\u0440\u043E\u043C\u0430\u0442"
+- common_names: []
+  formula: Br2
+  name: "\u0431\u0440\u043E\u043C"
+- common_names: ["\u0444\u0440\u0435\u043E\u043D-12"]
+  formula: CCl2F2
+  name: "\u0434\u0438\u0444\u0442\u043E\u0440\u0434\u0438\u0445\u043B\u043E\u0440\u043C\
+    \u0435\u0442\u0430\u043D"
+- common_names: ["\u0442\u0435\u0442\u0440\u0430\u0445\u043B\u043E\u0440\u043C\u0435\
+      \u0442\u0430\u043D"]
+  formula: CCl4
+  name: "\u0442\u0435\u0442\u0440\u0430\u0445\u043B\u043E\u0440\u0438\u0434 \u0443\
+    \u0433\u043B\u0435\u0440\u043E\u0434\u0430"
+- common_names: ["\u0444\u0440\u0435\u043E\u043D-11"]
+  formula: CFCl3
+  name: "\u0444\u0442\u043E\u0440\u0442\u0440\u0438\u0445\u043B\u043E\u0440\u043C\u0435\
+    \u0442\u0430\u043D"
+- common_names: []
+  formula: CFCl2CF2Cl
+  name: "1,1,2\_\u2014 \u0442\u0440\u0438\u0444\u0442\u043E\u0440\u0442\u0440\u0438\
+    \u0445\u043B\u043E\u0440\u044D\u0442\u0430\u043D, \u0424\u0440\u0435\u043E\u043D\
+    \_\u2014 113, CFC113 (\u0445\u043B\u043E\u0440\u0444\u0442\u043E\u0440\u0443\u0433\
+    \u043B\u0435\u0440\u043E\u0434\u044B)"
+- common_names: ["\u0442\u0440\u0438\u0445\u043B\u043E\u0440\u043C\u0435\u0442\u0430\
+      \u043D", "\u0442\u0440\u0438\u0445\u043B\u043E\u0440\u0438\u0434 \u043C\u0435\
+      \u0442\u0438\u043B\u0430"]
+  formula: CHCl3
+  name: "\u0445\u043B\u043E\u0440\u043E\u0444\u043E\u0440\u043C"
+- common_names: []
+  formula: "CHO2\u2212"
+  name: "\u0444\u043E\u0440\u043C\u0438\u0430\u0442"
+- common_names: []
+  formula: CH2CHCHCH2
+  name: "1,3-\u0431\u0443\u0442\u0430\u0434\u0438\u0435\u043D"
+- common_names: []
+  formula: CH2CO
+  name: "\u043A\u0435\u0442\u0435\u043D"
+- common_names: []
+  formula: CH2ClCOOH
+  name: "\u0445\u043B\u043E\u0440\u0443\u043A\u0441\u0443\u0441\u043D\u0430\u044F\
+    \ \u043A\u0438\u0441\u043B\u043E\u0442\u0430"
+- common_names: []
+  formula: CH2Cl2
+  name: "\u0434\u0438\u0445\u043B\u043E\u0440\u043C\u0435\u0442\u0430\u043D"
+- common_names: []
+  formula: CH2O
+  name: "\u0444\u043E\u0440\u043C\u0430\u043B\u044C\u0434\u0435\u0433\u0438\u0434"
+- common_names: []
+  formula: CH2OHCH2OH
+  name: "\u044D\u0442\u0438\u043B\u0435\u043D\u0433\u043B\u0438\u043A\u043E\u043B\u044C"
+- common_names: []
+  formula: CH3CCH
+  name: "\u043F\u0440\u043E\u043F\u0438\u043D"
+- common_names: []
+  formula: CH3CHCHCH3
+  name: "2-\u0431\u0443\u0442\u0435\u043D"
+- common_names: []
+  formula: CH3CHCH2
+  name: "\u043F\u0440\u043E\u043F\u0435\u043D"
+- common_names: []
+  formula: CH3CHO
+  name: "\u0430\u0446\u0435\u0442\u0430\u043B\u044C\u0434\u0435\u0433\u0438\u0434"
+- common_names: []
+  formula: CH3CH2Br
+  name: "\u0431\u0440\u043E\u043C\u044D\u0442\u0430\u043D"
+- common_names: []
+  formula: CH3CH2CH2CH2OH
+  name: "\u0431\u0443\u0442\u0430\u043D\u043E\u043B-1"
+- common_names: []
+  formula: CH3CH2CH2OH
+  name: "\u043F\u0440\u043E\u043F\u0430\u043D\u043E\u043B-1"
+- common_names: []
+  formula: CH3CH2CONH2
+  name: "\u043F\u0440\u043E\u043F\u0430\u043D\u0430\u043C\u0438\u0434"
+- common_names: []
+  formula: CH3CH2COOH
+  name: "\u043F\u0440\u043E\u043F\u0438\u043E\u043D\u043E\u0432\u0430\u044F \u043A\
+    \u0438\u0441\u043B\u043E\u0442\u0430"
+- common_names: ["\u044D\u0442\u043E\u043A\u0441\u0438\u044D\u0442\u0430\u043D"]
+  formula: CH3CH2OCH2CH3
+  name: "\u0434\u0438\u044D\u0442\u0438\u043B\u043E\u0432\u044B\u0439 \u044D\u0444\
+    \u0438\u0440"
+- common_names: []
+  formula: CH3CH2OH
+  name: "\u044D\u0442\u0430\u043D\u043E\u043B"
+- common_names: []
+  formula: CH3(CH2)16COOH
+  name: "\u0441\u0442\u0435\u0430\u0440\u0438\u043D\u043E\u0432\u0430\u044F \u043A\
+    \u0438\u0441\u043B\u043E\u0442\u0430"
+- common_names: []
+  formula: CH3COCH3
+  name: "\u0430\u0446\u0435\u0442\u043E\u043D"
+- common_names: []
+  formula: CH3COCl
+  name: "\u0430\u0446\u0435\u0442\u0438\u043B\u0445\u043B\u043E\u0440\u0438\u0434"
+- common_names: []
+  formula: CH3CONH2
+  name: "\u0430\u0446\u0435\u0442\u0430\u043C\u0438\u0434"
+- common_names: []
+  formula: "CH3COO\u2212"
+  name: "\u0430\u0446\u0435\u0442\u0430\u0442"
+- common_names: []
+  formula: CH3COOCHCH2
+  name: "\u0432\u0438\u043D\u0438\u043B\u0430\u0446\u0435\u0442\u0430\u0442"
+- common_names: []
+  formula: CH3COOCH2C6H5
+  name: "\u0431\u0435\u043D\u0437\u0438\u043B\u0430\u0446\u0435\u0442\u0430\u0442"
+- common_names: []
+  formula: CH3COO(CH2)2CH(CH3)2
+  name: "\u0438\u0437\u043E\u0430\u043C\u0438\u043B\u0430\u0446\u0435\u0442\u0430\u0442"
+- common_names: ["\u044D\u0442\u0430\u043D\u043E\u0432\u0430\u044F \u043A\u0438\u0441\
+      \u043B\u043E\u0442\u0430"]
+  formula: CH3COOH
+  name: "\u0443\u043A\u0441\u0443\u0441\u043D\u0430\u044F \u043A\u0438\u0441\u043B\
+    \u043E\u0442\u0430"
+- common_names: ["\u043C\u0435\u0442\u0438\u043B\u0445\u043B\u043E\u0440\u0438\u0434"]
+  formula: CH3Cl
+  name: "\u0445\u043B\u043E\u0440\u043C\u0435\u0442\u0430\u043D"
+- common_names: ["\u043C\u0435\u0442\u0438\u043B\u0438\u043E\u0434\u0438\u0434"]
+  formula: CH3I
+  name: "\u0438\u043E\u0434\u043C\u0435\u0442\u0430\u043D"
+- common_names: []
+  formula: CH3OCH3
+  name: "\u0434\u0438\u043C\u0435\u0442\u0438\u043B\u043E\u0432\u044B\u0439 \u044D\
+    \u0444\u0438\u0440"
+- common_names: []
+  formula: CH3OH
+  name: "\u043C\u0435\u0442\u0430\u043D\u043E\u043B"
+- common_names: [DMS]
+  formula: CH3SCH3
+  name: "\u0434\u0438\u043C\u0435\u0442\u0438\u043B\u0441\u0443\u043B\u044C\u0444\u0438\
+    \u0434"
+- common_names: []
+  formula: CH3SH
+  name: "\u043C\u0435\u0442\u0438\u043B\u043C\u0435\u0440\u043A\u0430\u043F\u0442\u0430\
+    \u043D"
+- common_names: ["\u043F\u0440\u043E\u043F\u0430\u043D\u043E\u043B-2", "\u0438\u0437\
+      \u043E\u043F\u0440\u043E\u043F\u0430\u043D\u043E\u043B"]
+  formula: (CH3)2CHOH
+  name: "\u0438\u0437\u043E\u043F\u0440\u043E\u043F\u0438\u043B\u043E\u0432\u044B\u0439\
+    \ \u0441\u043F\u0438\u0440\u0442"
+- common_names: []
+  formula: (CH3)2CO
+  name: "\u0430\u0446\u0435\u0442\u043E\u043D"
+- common_names: []
+  formula: (CH3)2C2O4
+  name: "\u0434\u0438\u043C\u0435\u0442\u0438\u043B\u043E\u043A\u0441\u0430\u043B\u0430\
+    \u0442"
+- common_names: []
+  formula: (CH3)2NNH2
+  name: "\u0434\u0438\u043C\u0435\u0442\u0438\u043B\u0433\u0438\u0434\u0440\u0430\u0437\
+    \u0438\u043D"
+- common_names: [DMSP]
+  formula: "(CH3)2S+CH2CH2COO\u2212"
+  name: "\u0434\u0438\u043C\u0435\u0442\u0438\u043B\u0441\u0443\u043B\u044C\u0444\u043E\
+    \u043D\u0438\u043E\u043F\u0440\u043E\u043F\u0438\u043E\u043D\u0430\u0442"
+- common_names: []
+  formula: (CH3)3CCl
+  name: "\u0442\u0440\u0435\u0442-\u0431\u0443\u0442\u0438\u043B\u0445\u043B\u043E\
+    \u0440\u0438\u0434"
+- common_names: []
+  formula: (CH3)3COH
+  name: "\u0442\u0440\u0435\u0442-\u0431\u0443\u0442\u0438\u043B\u043E\u0432\u044B\
+    \u0439 \u0441\u043F\u0438\u0440\u0442"
+- common_names: [DTBP]
+  formula: (CH3)3COOC(CH3)3
+  name: "\u0434\u0438-\u0442\u0440\u0435\u0442-\u0431\u0443\u0442\u0438\u043B\u043F\
+    \u0435\u0440\u043E\u043A\u0441\u0438\u0434"
+- common_names: ["\u043F\u0440\u0438\u0440\u043E\u0434\u043D\u044B\u0439 \u0433\u0430\
+      \u0437"]
+  formula: CH4
+  name: "\u043C\u0435\u0442\u0430\u043D"
+- common_names: []
+  formula: "CN\u2212"
+  name: "\u0446\u0438\u0430\u043D\u0438\u0434"
+- common_names: []
+  formula: C(NH2)3NO3
+  name: "\u043D\u0438\u0442\u0440\u0430\u0442 \u0433\u0443\u0430\u043D\u0438\u0434\
+    \u0438\u043D\u0438\u044F"
+- common_names: []
+  formula: "CNO\u2212"
+  name: "\u0446\u0438\u0430\u043D\u0430\u0442"
+- common_names: ["\u0443\u0433\u0430\u0440\u043D\u044B\u0439 \u0433\u0430\u0437"]
+  formula: CO
+  name: "\u043C\u043E\u043D\u043E\u043E\u043A\u0441\u0438\u0434 \u0443\u0433\u043B\
+    \u0435\u0440\u043E\u0434\u0430"
+- common_names: []
+  formula: COCl2
+  name: "\u0444\u043E\u0441\u0433\u0435\u043D"
+- common_names: []
+  formula: CO2
+  name: "\u0434\u0438\u043E\u043A\u0441\u0438\u0434 \u0443\u0433\u043B\u0435\u0440\
+    \u043E\u0434\u0430"
+- common_names: []
+  formula: "CO32\u2212"
+  name: "\u043A\u0430\u0440\u0431\u043E\u043D\u0430\u0442"
+- common_names: []
+  formula: CS2
+  name: "\u0441\u0435\u0440\u043E\u0443\u0433\u043B\u0435\u0440\u043E\u0434"
+- common_names: []
+  formula: C2F4
+  name: "\u0422\u0435\u0442\u0440\u0430\u0444\u0442\u043E\u0440\u044D\u0442\u0438\u043B\
+    \u0435\u043D"
+- common_names: []
+  formula: C2H2
+  name: "\u0430\u0446\u0435\u0442\u0438\u043B\u0435\u043D"
+- common_names: []
+  formula: C2H3Cl
+  name: "\u0432\u0438\u043D\u0438\u043B\u0445\u043B\u043E\u0440\u0438\u0434"
+- common_names: []
+  formula: "C2H3O2\u2212"
+  name: "\u0430\u0446\u0435\u0442\u0430\u0442"
+- common_names: []
+  formula: C2H4
+  name: "\u044D\u0442\u0438\u043B\u0435\u043D"
+- common_names: []
+  formula: C2H4Cl2
+  name: "\u0434\u0438\u0445\u043B\u043E\u0440\u044D\u0442\u0438\u043B\u0435\u043D"
+- common_names: []
+  formula: C2H4O2
+  name: "\u0443\u043A\u0441\u0443\u0441\u043D\u0430\u044F \u043A\u0438\u0441\u043B\
+    \u043E\u0442\u0430"
+- common_names: []
+  formula: C2H5Br
+  name: "\u0431\u0440\u043E\u043C\u044D\u0442\u0430\u043D"
+- common_names: []
+  formula: C2H5NH2
+  name: "\u044D\u0442\u0438\u043B\u0430\u043C\u0438\u043D"
+- common_names: [Gly]
+  formula: C2H5NO2
+  name: "\u0433\u043B\u0438\u0446\u0438\u043D"
+- common_names: []
+  formula: "C2H5O\u2212"
+  name: "\u044D\u0442\u0438\u043B\u0430\u0442"
+- common_names: ["\u044D\u0442\u0438\u043B\u043E\u0432\u044B\u0439 \u0441\u043F\u0438\
+      \u0440\u0442"]
+  formula: C2H5OH
+  name: "\u044D\u0442\u0430\u043D\u043E\u043B"
+- common_names: []
+  formula: (C2H5)2NH
+  name: "\u0434\u0438\u044D\u0442\u0438\u043B\u0430\u043C\u0438\u043D"
+- common_names: []
+  formula: C2H6
+  name: "\u044D\u0442\u0430\u043D"
+- common_names: [DMSO]
+  formula: C2H6OS
+  name: "\u0434\u0438\u043C\u0435\u0442\u0438\u043B\u0441\u0443\u043B\u044C\u0444\u043E\
+    \u043A\u0441\u0438\u0434"
+- common_names: []
+  formula: "C2O42\u2212"
+  name: "\u043E\u043A\u0441\u0430\u043B\u0430\u0442"
+- common_names: []
+  formula: "C3H3O4\u2212"
+  name: "\u043C\u0430\u043B\u043E\u043D\u0430\u0442"
+- common_names: []
+  formula: C3H5(NO3)3
+  name: "\u043D\u0438\u0442\u0440\u043E\u0433\u043B\u0438\u0446\u0435\u0440\u0438\u043D"
+- common_names: []
+  formula: C3H6
+  name: "\u0446\u0438\u043A\u043B\u043E\u043F\u0440\u043E\u043F\u0430\u043D"
+- common_names: []
+  formula: "\u043F\u0440\u043E\u043F\u0438\u043B\u0435\u043D"
+  name: 115-07-1
+- common_names: [Ala]
+  formula: C3H7NO2
+  name: "\u0430\u043B\u0430\u043D\u0438\u043D"
+- common_names: [Cys]
+  formula: C3H7NO2S
+  name: "\u0446\u0438\u0441\u0442\u0435\u0438\u043D"
+- common_names: [Ser]
+  formula: C3H7NO3
+  name: "\u0441\u0435\u0440\u0438\u043D"
+- common_names: []
+  formula: C3H8
+  name: "\u043F\u0440\u043E\u043F\u0430\u043D"
+- common_names: []
+  formula: C3H8O
+  name: "\u043F\u0440\u043E\u043F\u0430\u043D\u043E\u043B-1"
+- common_names: []
+  formula: "\u043F\u0440\u043E\u043F\u0430\u043D\u043E\u043B-2"
+  name: 67-63-0
+- common_names: []
+  formula: C3N3(OH)3
+  name: "\u0446\u0438\u0430\u043D\u0443\u0440\u043E\u0432\u0430\u044F \u043A\u0438\
+    \u0441\u043B\u043E\u0442\u0430"
+- common_names: []
+  formula: C3N12
+  name: "\u0446\u0438\u0430\u043D\u0443\u0440\u043E\u0432\u044B\u0439 \u0442\u0440\
+    \u0438\u0430\u0437\u0438\u0434"
+- common_names: []
+  formula: C4H7BrO2
+  name: "2-\u0431\u0440\u043E\u043C\u043C\u0430\u0441\u043B\u044F\u043D\u0430\u044F\
+    \ \u043A\u0438\u0441\u043B\u043E\u0442\u0430"
+- common_names: []
+  formula: "4-\u0431\u0440\u043E\u043C\u043C\u0430\u0441\u043B\u044F\u043D\u0430\u044F\
+    \ \u043A\u0438\u0441\u043B\u043E\u0442\u0430"
+  name: 2623-87-2
+- common_names: []
+  formula: "\u03B1-\u0431\u0440\u043E\u043C\u0438\u0437\u043E\u043C\u0430\u0441\u043B\
+    \u044F\u043D\u0430\u044F \u043A\u0438\u0441\u043B\u043E\u0442\u0430"
+  name: 2052-01-9
+- common_names: []
+  formula: "\u044D\u0442\u0438\u043B\u0431\u0440\u043E\u043C\u0430\u0446\u0435\u0442\
+    \u0430\u0442"
+  name: 105-36-2
+- common_names: [Asp]
+  formula: C4H7NO4
+  name: "\u0430\u0441\u043F\u0430\u0440\u0430\u0433\u0438\u043D\u043E\u0432\u0430\u044F\
+    \ \u043A\u0438\u0441\u043B\u043E\u0442\u0430"
+- common_names: []
+  formula: C4H8
+  name: "\u0446\u0438\u043A\u043B\u043E\u0431\u0443\u0442\u0430\u043D"
+- common_names: [Asn]
+  formula: C4H8N2O3
+  name: "\u0430\u0441\u043F\u0430\u0440\u0430\u0433\u0438\u043D"
+- common_names: [THF]
+  formula: C4H8O
+  name: "\u0442\u0435\u0442\u0440\u0430\u0433\u0438\u0434\u0440\u043E\u0444\u0443\u0440\
+    \u0430\u043D"
+- common_names: [Thr]
+  formula: C4H9NO3
+  name: "\u0442\u0440\u0435\u043E\u043D\u0438\u043D"
+- common_names: []
+  formula: C4H9OH
+  name: "\u0431\u0443\u0442\u0438\u043B\u043E\u0432\u044B\u0439 \u0441\u043F\u0438\
+    \u0440\u0442"
+- common_names: []
+  formula: C4H10
+  name: "\u0431\u0443\u0442\u0430\u043D"
+- common_names: []
+  formula: "2-\u043C\u0435\u0442\u0438\u043B\u043F\u0440\u043E\u043F\u0430\u043D"
+  name: 75-28-5
+- common_names: []
+  formula: C4H10O
+  name: "\u0434\u0438\u044D\u0442\u0438\u043B\u043E\u0432\u044B\u0439 \u044D\u0444\
+    \u0438\u0440"
+- common_names: []
+  formula: C5H4NCOOH
+  name: "\u043D\u0438\u043A\u043E\u0442\u0438\u043D\u043E\u0432\u0430\u044F \u043A\
+    \u0438\u0441\u043B\u043E\u0442\u0430"
+- common_names: []
+  formula: "C5H5\u2212"
+  name: "\u0446\u0438\u043A\u043B\u043E\u043F\u0435\u043D\u0442\u0430\u0434\u0438\u0435\
+    \u043D\u0438\u043B-\u0430\u043D\u0438\u043E\u043D"
+- common_names: []
+  formula: C5H5N
+  name: "\u043F\u0438\u0440\u0438\u0434\u0438\u043D"
+- common_names: [Pro]
+  formula: C5H9NO2
+  name: "\u043F\u0440\u043E\u043B\u0438\u043D"
+- common_names: [Glu]
+  formula: C5H9NO4
+  name: "\u0433\u043B\u0443\u0442\u0430\u043C\u0438\u043D\u043E\u0432\u0430\u044F\
+    \ \u043A\u0438\u0441\u043B\u043E\u0442\u0430"
+- common_names: []
+  formula: C5H10
+  name: "\u0446\u0438\u043A\u043B\u043E\u043F\u0435\u043D\u0442\u0430\u043D"
+- common_names: [Gln]
+  formula: C5H10N2O3
+  name: "\u0433\u043B\u0443\u0442\u0430\u043C\u0438\u043D"
+- common_names: []
+  formula: C5H10O4
+  name: "\u0434\u0435\u0437\u043E\u043A\u0441\u0438\u0440\u0438\u0431\u043E\u0437\u0430"
+- common_names: [Val]
+  formula: C5H11NO2
+  name: "\u0432\u0430\u043B\u0438\u043D"
+- common_names: [Met]
+  formula: C5H11NO2S
+  name: "\u043C\u0435\u0442\u0438\u043E\u043D\u0438\u043D"
+- common_names: []
+  formula: C5H12
+  name: "\u043F\u0435\u043D\u0442\u0430\u043D"
+- common_names: []
+  formula: C6F5COOH
+  name: "\u043F\u0435\u043D\u0442\u0430\u0444\u0442\u043E\u0440\u0431\u0435\u043D\u0437\
+    \u043E\u0439\u043D\u0430\u044F \u043A\u0438\u0441\u043B\u043E\u0442\u0430"
+- common_names: []
+  formula: C6H4O2
+  name: "\u043E\u0440\u0442\u043E\u0431\u0435\u043D\u0437\u043E\u0445\u0438\u043D\u043E\
+    \u043D"
+- common_names: []
+  formula: "\u043F\u0430\u0440\u0430\u0431\u0435\u043D\u0437\u043E\u0445\u0438\u043D\
+    \u043E\u043D\n\u0445\u0438\u043D\u043E\u043D"
+  name: 106-51-4
+- common_names: []
+  formula: C6H5CHO
+  name: "\u0431\u0435\u043D\u0437\u0430\u043B\u044C\u0434\u0435\u0433\u0438\u0434"
+- common_names: []
+  formula: C6H5CH2OH
+  name: "\u0431\u0435\u043D\u0437\u0438\u043B\u043E\u0432\u044B\u0439 \u0441\u043F\
+    \u0438\u0440\u0442"
+- common_names: []
+  formula: C6H5COCl
+  name: "\u0431\u0435\u043D\u0437\u043E\u0438\u043B\u0445\u043B\u043E\u0440\u0438\u0434"
+- common_names: []
+  formula: "C6H5COO\u2212"
+  name: "\u0431\u0435\u043D\u0437\u043E\u0430\u0442"
+- common_names: []
+  formula: C6H5COOH
+  name: "\u0431\u0435\u043D\u0437\u043E\u0439\u043D\u0430\u044F \u043A\u0438\u0441\
+    \u043B\u043E\u0442\u0430"
+- common_names: []
+  formula: C6H5OH
+  name: "\u0444\u0435\u043D\u043E\u043B"
+- common_names: []
+  formula: "C6H5O73\u2212"
+  name: "\u0446\u0438\u0442\u0440\u0430\u0442"
+- common_names: []
+  formula: (C6H5)4Ge
+  name: "\u0442\u0435\u0442\u0440\u0430\u0444\u0435\u043D\u0438\u043B\u0433\u0435\u0440\
+    \u043C\u0430\u043D"
+- common_names: []
+  formula: C6H6
+  name: "\u0431\u0435\u043D\u0437\u043E\u043B"
+- common_names: []
+  formula: "C6H6O2\n(\u0431\u0435\u043D\u0437\u0435\u043D\u043E\u0434\u0438\u043E\u043B\
+    \u044B)"
+  name: "\u043F\u0438\u0440\u043E\u043A\u0430\u0442\u0435\u0445\u0438\u043D"
+- common_names: []
+  formula: "\u0433\u0438\u0434\u0440\u043E\u0445\u0438\u043D\u043E\u043D"
+  name: 123-31-9
+- common_names: []
+  formula: "\u0440\u0435\u0437\u043E\u0440\u0446\u0438\u043D"
+  name: 108-46-3
+- common_names: []
+  formula: C6H8O7
+  name: "\u043B\u0438\u043C\u043E\u043D\u043D\u0430\u044F \u043A\u0438\u0441\u043B\
+    \u043E\u0442\u0430"
+- common_names: [His]
+  formula: C6H9N3O2
+  name: "\u0433\u0438\u0441\u0442\u0438\u0434\u0438\u043D"
+- common_names: []
+  formula: C6H10O3
+  name: "4-\u0430\u0446\u0435\u0442\u0438\u043B\u043C\u0430\u0441\u043B\u044F\u043D\
+    \u0430\u044F \u043A\u0438\u0441\u043B\u043E\u0442\u0430"
+- common_names: []
+  formula: "\u0433\u043B\u0438\u043E\u043A\u0441\u0438\u043B\u0430\u0442 \u0431\u0443\
+    \u0442\u0438\u043B\u0430"
+  name: 6295-06-3
+- common_names: []
+  formula: "\u0430\u0446\u0435\u0442\u043E\u0430\u0446\u0435\u0442\u0430\u0442 \u044D\
+    \u0442\u0438\u043B\u0430"
+  name: 141-97-9
+- common_names: []
+  formula: "2-\u0433\u0438\u0434\u0440\u043E\u043A\u0441\u0438\u043F\u0440\u043E\u043F\
+    \u0438\u043B\u0430\u043A\u0440\u0438\u043B\u0430\u0442"
+  name: 25584-83-2
+- common_names: []
+  formula: "\u043F\u0430\u043D\u0442\u043E\u043B\u0430\u043A\u0442\u043E\u043D"
+  name: 599-04-2
+- common_names: []
+  formula: "\u043F\u0440\u043E\u043F\u0438\u043B\u043E\u0432\u044B\u0439 \u043F\u0438\
+    \u0440\u0443\u0432\u0430\u0442"
+  name: !!python/object/new:lxml.etree._ElementUnicodeResult ['']
+- common_names: []
+  formula: C6H12
+  name: "\u0446\u0438\u043A\u043B\u043E\u0433\u0435\u043A\u0441\u0430\u043D"
+- common_names: []
+  formula: C6H12O6
+  name: "\u0444\u0440\u0443\u043A\u0442\u043E\u0437\u0430"
+- common_names: []
+  formula: "\u0433\u043B\u044E\u043A\u043E\u0437\u0430"
+  name: 50-99-7
+- common_names: []
+  formula: C6H13NO
+  name: "N-\u044D\u0442\u0438\u043B\u043C\u043E\u0440\u0444\u043E\u043B\u0438\u043D"
+- common_names: [Ile]
+  formula: C6H13NO2
+  name: "\u0438\u0437\u043E\u043B\u0435\u0439\u0446\u0438\u043D"
+- common_names: []
+  formula: "\u043B\u0435\u0439\u0446\u0438\u043D\nLeu"
+  name: 61-90-5
+- common_names: []
+  formula: C6H14
+  name: "\u0433\u0435\u043A\u0441\u0430\u043D"
+- common_names: [Lys]
+  formula: C6H14N2O2
+  name: "\u043B\u0438\u0437\u0438\u043D"
+- common_names: [Arg]
+  formula: C6H14N4O2
+  name: "\u0430\u0440\u0433\u0438\u043D\u0438\u043D"
+- common_names: []
+  formula: C7H8
+  name: "\u0442\u043E\u043B\u0443\u043E\u043B"
+- common_names: []
+  formula: C7H16
+  name: "\u0433\u0435\u043F\u0442\u0430\u043D"
+- common_names: []
+  formula: C8H8
+  name: "\u043A\u0443\u0431\u0430\u043D"
+- common_names: []
+  formula: C8H9NO2
+  name: "\u0430\u0446\u0435\u0442\u043E\u0430\u043C\u0438\u043D\u043E\u0444\u0435\u043D"
+- common_names: []
+  formula: C8H18
+  name: "\u043E\u043A\u0442\u0430\u043D"
+- common_names: ["\u0430\u0441\u043F\u0438\u0440\u0438\u043D"]
+  formula: C9H8O4
+  name: "\u0430\u0446\u0435\u0442\u0438\u043B\u0441\u0430\u043B\u0438\u0446\u0438\u043B\
+    \u043E\u0432\u0430\u044F \u043A\u0438\u0441\u043B\u043E\u0442\u0430"
+- common_names: [Phe]
+  formula: C9H11NO2
+  name: "\u0444\u0435\u043D\u0438\u043B\u0430\u043B\u0430\u043D\u0438\u043D"
+- common_names: [Tyr]
+  formula: C9H11NO3
+  name: "\u0442\u0438\u0440\u043E\u0437\u0438\u043D"
+- common_names: []
+  formula: C9H20
+  name: "\u043D\u043E\u043D\u0430\u043D"
+- common_names: []
+  formula: C10H8
+  name: "\u043D\u0430\u0444\u0442\u0430\u043B\u0438\u043D"
+- common_names: []
+  formula: C10H8
+  name: "\u0430\u0437\u0443\u043B\u0435\u043D"
+- common_names: []
+  formula: C10H15ON
+  name: "\u044D\u0444\u0435\u0434\u0440\u0438\u043D"
+- common_names: []
+  formula: C10H16O
+  name: "\u043A\u0430\u043C\u0444\u043E\u0440\u0430"
+- common_names: []
+  formula: C10H22
+  name: "\u0434\u0435\u043A\u0430\u043D"
+- common_names: [Trp]
+  formula: C11H12N2O2
+  name: "\u0442\u0440\u0438\u043F\u0442\u043E\u0444\u0430\u043D"
+- common_names: []
+  formula: C11H24
+  name: "\u0443\u043D\u0434\u0435\u043A\u0430\u043D"
+- common_names: []
+  formula: C12H10
+  name: "\u0431\u0438\u0444\u0435\u043D\u0438\u043B"
+- common_names: []
+  formula: C12H22O11
+  name: "\u043C\u0430\u043B\u044C\u0442\u043E\u0437\u0430"
+- common_names: []
+  formula: "\u0441\u0430\u0445\u0430\u0440\u043E\u0437\u0430"
+  name: 57-50-1
+- common_names: []
+  formula: C12H26
+  name: "\u0434\u043E\u0434\u0435\u043A\u0430\u043D"
+- common_names: []
+  formula: C13H10O
+  name: "\u0431\u0435\u043D\u0437\u043E\u0444\u0435\u043D\u043E\u043D"
+- common_names: []
+  formula: C13H12O
+  name: "\u03B2-\u0438\u043E\u043D\u043E\u043D, \u0431\u0435\u0442\u0430\u0438\u043E\
+    \u043D\u043E\u043D"
+- common_names: []
+  formula: C13H28
+  name: "\u0442\u0440\u0438\u0434\u0435\u043A\u0430\u043D"
+- common_names: []
+  formula: C14H10
+  name: "\u0430\u043D\u0442\u0440\u0430\u0446\u0435\u043D"
+- common_names: []
+  formula: C14H18N2O5
+  name: "\u0430\u0441\u043F\u0430\u0440\u0442\u0430\u043C"
+- common_names: []
+  formula: C14H30
+  name: "\u0442\u0435\u0442\u0440\u0430\u0434\u0435\u043A\u0430\u043D"
+- common_names: []
+  formula: C15H32
+  name: "\u043F\u0435\u043D\u0442\u0430\u0434\u0435\u043A\u0430\u043D"
+- common_names: []
+  formula: C16H34
+  name: "\u0433\u0435\u043A\u0441\u0430\u0434\u0435\u043A\u0430\u043D"
+- common_names: []
+  formula: C17H36
+  name: "\u0433\u0435\u043F\u0442\u0430\u0434\u0435\u043A\u0430\u043D"
+- common_names: []
+  formula: C18H32O2
+  name: "\u043B\u0438\u043D\u043E\u043B\u0435\u0432\u0430\u044F \u043A\u0438\u0441\
+    \u043B\u043E\u0442\u0430"
+- common_names: []
+  formula: C18H36O2
+  name: "\u0441\u0442\u0435\u0430\u0440\u0438\u043D\u043E\u0432\u0430\u044F \u043A\
+    \u0438\u0441\u043B\u043E\u0442\u0430"
+- common_names: []
+  formula: C18H38
+  name: "\u043E\u043A\u0442\u0430\u0434\u0435\u043A\u0430\u043D"
+- common_names: []
+  formula: C19H40
+  name: "\u043D\u043E\u043D\u0430\u0434\u0435\u043A\u0430\u043D"
+- common_names: []
+  formula: C20H24O2N2
+  name: "\u0445\u0438\u043D\u0438\u043D"
+- common_names: []
+  formula: C20H42
+  name: "\u044D\u0439\u043A\u043E\u0437\u0430\u043D"
+- common_names: ["\u0431\u043E\u0440\u0438\u0434 \u043A\u0430\u043B\u044C\u0446\u0438\
+      \u044F"]
+  formula: CaB6
+  name: "\u0431\u043E\u0440\u0438\u0434 \u043A\u0430\u043B\u044C\u0446\u0438\u044F"
+- common_names: []
+  formula: CaBr2
+  name: "\u0431\u0440\u043E\u043C\u0438\u0434 \u043A\u0430\u043B\u044C\u0446\u0438\
+    \u044F"
+- common_names: []
+  formula: CaCN2
+  name: "\u0446\u0438\u0430\u043D\u0430\u043C\u0438\u0434 \u043A\u0430\u043B\u044C\
+    \u0446\u0438\u044F"
+- common_names: []
+  formula: Ca(CN)2
+  name: "\u0446\u0438\u0430\u043D\u0438\u0434 \u043A\u0430\u043B\u044C\u0446\u0438\
+    \u044F"
+- common_names: ["\u043A\u0430\u043B\u044C\u0446\u0438\u0442", "\u0438\u0437\u0432\
+      \u0435\u0441\u0442\u043D\u044F\u043A", "\u043C\u0440\u0430\u043C\u043E\u0440"]
+  formula: CaCO3
+  name: "\u043A\u0430\u0440\u0431\u043E\u043D\u0430\u0442 \u043A\u0430\u043B\u044C\
+    \u0446\u0438\u044F"
+- common_names: []
+  formula: CaC2
+  name: "\u043A\u0430\u0440\u0431\u0438\u0434 \u043A\u0430\u043B\u044C\u0446\u0438\
+    \u044F"
+- common_names: []
+  formula: Ca(CHO2)2
+  name: "\u0444\u043E\u0440\u043C\u0438\u0430\u0442 \u043A\u0430\u043B\u044C\u0446\
+    \u0438\u044F"
+- common_names: []
+  formula: Ca(C2H3O2)2
+  name: "\u0430\u0446\u0435\u0442\u0430\u0442 \u043A\u0430\u043B\u044C\u0446\u0438\
+    \u044F"
+- common_names: []
+  formula: CaC2O4
+  name: "\u043E\u043A\u0441\u0430\u043B\u0430\u0442 \u043A\u0430\u043B\u044C\u0446\
+    \u0438\u044F"
+- common_names: []
+  formula: CaCl2
+  name: "\u0445\u043B\u043E\u0440\u0438\u0434 \u043A\u0430\u043B\u044C\u0446\u0438\
+    \u044F"
+- common_names: []
+  formula: Ca(ClO3)2
+  name: "\u0445\u043B\u043E\u0440\u0430\u0442 \u043A\u0430\u043B\u044C\u0446\u0438\
+    \u044F"
+- common_names: []
+  formula: Ca(ClO4)2
+  name: "\u043F\u0435\u0440\u0445\u043B\u043E\u0440\u0430\u0442 \u043A\u0430\u043B\
+    \u044C\u0446\u0438\u044F"
+- common_names: ["\u0444\u043B\u044E\u043E\u0440\u0438\u0442"]
+  formula: CaF2
+  name: "\u0444\u0442\u043E\u0440\u0438\u0434 \u043A\u0430\u043B\u044C\u0446\u0438\
+    \u044F"
+- common_names: []
+  formula: CaH2
+  name: "\u0433\u0438\u0434\u0440\u0438\u0434 \u043A\u0430\u043B\u044C\u0446\u0438\
+    \u044F"
+- common_names: []
+  formula: Ca(H2PO2)2
+  name: "\u0433\u0438\u043F\u043E\u0444\u043E\u0441\u0444\u0438\u0442 \u043A\u0430\
+    \u043B\u044C\u0446\u0438\u044F"
+- common_names: []
+  formula: CaI2
+  name: "\u0438\u043E\u0434\u0438\u0434 \u043A\u0430\u043B\u044C\u0446\u0438\u044F"
+- common_names: []
+  formula: Ca(IO3)2
+  name: "\u0438\u043E\u0434\u0430\u0442 \u043A\u0430\u043B\u044C\u0446\u0438\u044F"
+- common_names: []
+  formula: CaMoO4
+  name: "\u043C\u043E\u043B\u0438\u0431\u0434\u0430\u0442 \u043A\u0430\u043B\u044C\
+    \u0446\u0438\u044F"
+- common_names: []
+  formula: Ca(NO2)2
+  name: "\u043D\u0438\u0442\u0440\u0438\u0442 \u043A\u0430\u043B\u044C\u0446\u0438\
+    \u044F"
+- common_names: []
+  formula: Ca(NO3)2
+  name: "\u043D\u0438\u0442\u0440\u0430\u0442 \u043A\u0430\u043B\u044C\u0446\u0438\
+    \u044F"
+- common_names: []
+  formula: "Ca(NO3)2 \xB7 4H2O"
+  name: "\u0442\u0435\u0442\u0440\u0430\u0433\u0438\u0434\u0440\u0430\u0442 \u043D\
+    \u0438\u0442\u0440\u0430\u0442\u0430 \u043A\u0430\u043B\u044C\u0446\u0438\u044F"
+- common_names: []
+  formula: Ca(NbO3)2
+  name: "\u043C\u0435\u0442\u0430\u043D\u0438\u043E\u0431\u0430\u0442 \u043A\u0430\
+    \u043B\u044C\u0446\u0438\u044F"
+- common_names: ["\u043D\u0435\u0433\u0430\u0448\u0451\u043D\u0430\u044F \u0438\u0437\
+      \u0432\u0435\u0441\u0442\u044C"]
+  formula: CaO
+  name: "\u043E\u043A\u0441\u0438\u0434 \u043A\u0430\u043B\u044C\u0446\u0438\u044F"
+- common_names: []
+  formula: Ca(OCl)2
+  name: "\u0433\u0438\u043F\u043E\u0445\u043B\u043E\u0440\u0438\u0442 \u043A\u0430\
+    \u043B\u044C\u0446\u0438\u044F"
+- common_names: ["\u0433\u0430\u0448\u0451\u043D\u0430\u044F \u0438\u0437\u0432\u0435\
+      \u0441\u0442\u044C"]
+  formula: Ca(OH)2
+  name: "\u0433\u0438\u0434\u0440\u043E\u043A\u0441\u0438\u0434 \u043A\u0430\u043B\
+    \u044C\u0446\u0438\u044F"
+- common_names: []
+  formula: CaO2
+  name: "\u043F\u0435\u0440\u043E\u043A\u0441\u0438\u0434 \u043A\u0430\u043B\u044C\
+    \u0446\u0438\u044F"
+- common_names: []
+  formula: CaS
+  name: "\u0441\u0443\u043B\u044C\u0444\u0438\u0434 \u043A\u0430\u043B\u044C\u0446\
+    \u0438\u044F"
+- common_names: []
+  formula: CaSO4
+  name: "\u0441\u0443\u043B\u044C\u0444\u0430\u0442 \u043A\u0430\u043B\u044C\u0446\
+    \u0438\u044F"
+- common_names: ["\u0433\u0438\u0434\u0440\u0430\u0442 \u0441\u0443\u043B\u044C\u0444\
+      \u0430\u0442\u0430 \u043A\u0430\u043B\u044C\u0446\u0438\u044F"]
+  formula: "CaSO4 \xB7 0.5H2O"
+  name: plaster of paris
+- common_names: []
+  formula: CaSe
+  name: "\u0441\u0435\u043B\u0435\u043D\u0438\u0434 \u043A\u0430\u043B\u044C\u0446\
+    \u0438\u044F"
+- common_names: []
+  formula: CaSeO3
+  name: "\u0441\u0435\u043B\u0435\u043D\u0438\u0442 \u043A\u0430\u043B\u044C\u0446\
+    \u0438\u044F"
+- common_names: []
+  formula: CaSeO4
+  name: "\u0441\u0435\u043B\u0435\u043D\u0430\u0442 \u043A\u0430\u043B\u044C\u0446\
+    \u0438\u044F"
+- common_names: ["\u0432\u043E\u043B\u043B\u0430\u0441\u0442\u043E\u043D\u0438\u0442"]
+  formula: CaSiO3
+  name: "\u043C\u0435\u0442\u0430\u0441\u0438\u043B\u0438\u043A\u0430\u0442 \u043A\
+    \u0430\u043B\u044C\u0446\u0438\u044F"
+- common_names: []
+  formula: CaTe
+  name: "\u0442\u0435\u043B\u043B\u0443\u0440\u0438\u0434 \u043A\u0430\u043B\u044C\
+    \u0446\u0438\u044F"
+- common_names: []
+  formula: CaTeO3
+  name: "\u0442\u0435\u043B\u043B\u0443\u0440\u0438\u0442 \u043A\u0430\u043B\u044C\
+    \u0446\u0438\u044F"
+- common_names: []
+  formula: CaTeO4
+  name: "\u0442\u0435\u043B\u043B\u0443\u0440\u0430\u0442 \u043A\u0430\u043B\u044C\
+    \u0446\u0438\u044F"
+- common_names: ["\u043F\u0435\u0440\u043E\u0432\u0441\u043A\u0438\u0442"]
+  formula: CaTiO3
+  name: "\u0442\u0438\u0442\u0430\u043D\u0430\u0442 \u043A\u0430\u043B\u044C\u0446\
+    \u0438\u044F"
+- common_names: []
+  formula: Ca(VO3)2
+  name: "\u043C\u0435\u0442\u0430\u0432\u0430\u043D\u0430\u0434\u0430\u0442 \u043A\
+    \u0430\u043B\u044C\u0446\u0438\u044F"
+- common_names: []
+  formula: Ca3(VO4)2
+  name: "\u043E\u0440\u0442\u043E\u0432\u0430\u043D\u0430\u0434\u0430\u0442 \u043A\
+    \u0430\u043B\u044C\u0446\u0438\u044F"
+- common_names: []
+  formula: CaWO4
+  name: "\u0432\u043E\u043B\u044C\u0444\u0440\u0430\u043C\u0430\u0442 \u043A\u0430\
+    \u043B\u044C\u0446\u0438\u044F"
+- common_names: []
+  formula: Ca3N2
+  name: "\u043D\u0438\u0442\u0440\u0438\u0434 \u043A\u0430\u043B\u044C\u0446\u0438\
+    \u044F"
+- common_names: []
+  formula: Ca3P2
+  name: "\u0444\u043E\u0441\u0444\u0438\u0434 \u043A\u0430\u043B\u044C\u0446\u0438\
+    \u044F"
+- common_names: []
+  formula: CdBr2
+  name: "\u0431\u0440\u043E\u043C\u0438\u0434 \u043A\u0430\u0434\u043C\u0438\u044F"
+- common_names: []
+  formula: Cd(CN)2
+  name: "\u0446\u0438\u0430\u043D\u0438\u0434 \u043A\u0430\u0434\u043C\u0438\u044F"
+- common_names: []
+  formula: CdCO3
+  name: "\u043A\u0430\u0440\u0431\u043E\u043D\u0430\u0442 \u043A\u0430\u0434\u043C\
+    \u0438\u044F"
+- common_names: []
+  formula: Cd(C2H3O2)2
+  name: "\u0430\u0446\u0435\u0442\u0430\u0442 \u043A\u0430\u0434\u043C\u0438\u044F"
+- common_names: []
+  formula: CdC2O4
+  name: "\u043E\u043A\u0441\u0430\u043B\u0430\u0442 \u043A\u0430\u0434\u043C\u0438\
+    \u044F"
+- common_names: []
+  formula: CdCl2
+  name: "\u0445\u043B\u043E\u0440\u0438\u0434 \u043A\u0430\u0434\u043C\u0438\u044F"
+- common_names: []
+  formula: CdCrO4
+  name: "\u0445\u0440\u043E\u043C\u0430\u0442 \u043A\u0430\u0434\u043C\u0438\u044F"
+- common_names: []
+  formula: CdF2
+  name: "\u0444\u0442\u043E\u0440\u0438\u0434 \u043A\u0430\u0434\u043C\u0438\u044F"
+- common_names: []
+  formula: CdI2
+  name: "\u0438\u043E\u0434\u0438\u0434 \u043A\u0430\u0434\u043C\u0438\u044F"
+- common_names: []
+  formula: Cd(IO3)2
+  name: "\u0438\u043E\u0434\u0430\u0442 \u043A\u0430\u0434\u043C\u0438\u044F"
+- common_names: []
+  formula: CdMoO4
+  name: "\u043C\u043E\u043B\u0438\u0431\u0434\u0430\u0442 \u043A\u0430\u0434\u043C\
+    \u0438\u044F"
+- common_names: []
+  formula: Cd(NO3)2
+  name: "\u043D\u0438\u0442\u0440\u0430\u0442 \u043A\u0430\u0434\u043C\u0438\u044F"
+- common_names: []
+  formula: Cd(N3)2
+  name: "\u0430\u0437\u0438\u0434 \u043A\u0430\u0434\u043C\u0438\u044F"
+- common_names: []
+  formula: CdO
+  name: "\u043E\u043A\u0441\u0438\u0434 \u043A\u0430\u0434\u043C\u0438\u044F"
+- common_names: []
+  formula: Cd(OH)2
+  name: "\u0433\u0438\u0434\u0440\u043E\u043A\u0441\u0438\u0434 \u043A\u0430\u0434\
+    \u043C\u0438\u044F"
+- common_names: ["\u043A\u0430\u0434\u043C\u0438\u0435\u0432\u0430\u044F \u043E\u0431\
+      \u043C\u0430\u043D\u043A\u0430"]
+  formula: CdS
+  name: "\u0441\u0443\u043B\u044C\u0444\u0438\u0434 \u043A\u0430\u0434\u043C\u0438\
+    \u044F"
+- common_names: []
+  formula: CdSO3
+  name: "\u0441\u0443\u043B\u044C\u0444\u0438\u0442 \u043A\u0430\u0434\u043C\u0438\
+    \u044F"
+- common_names: []
+  formula: CdSO4
+  name: "\u0441\u0443\u043B\u044C\u0444\u0430\u0442 \u043A\u0430\u0434\u043C\u0438\
+    \u044F"
+- common_names: []
+  formula: CdSb
+  name: "\u0430\u043D\u0442\u0438\u043C\u043E\u043D\u0438\u0434 \u043A\u0430\u0434\
+    \u043C\u0438\u044F"
+- common_names: ["\u043A\u0430\u0434\u043C\u043E\u0441\u0435\u043B\u0438\u0442"]
+  formula: CdSe
+  name: "\u0441\u0435\u043B\u0435\u043D\u0438\u0434 \u043A\u0430\u0434\u043C\u0438\
+    \u044F"
+- common_names: []
+  formula: CdSeO3
+  name: "\u0441\u0435\u043B\u0435\u043D\u0438\u0442 \u043A\u0430\u0434\u043C\u0438\
+    \u044F"
+- common_names: []
+  formula: CdSiO3
+  name: "\u043C\u0435\u0442\u0430\u0441\u0438\u043B\u0438\u043A\u0430\u0442 \u043A\
+    \u0430\u0434\u043C\u0438\u044F"
+- common_names: []
+  formula: Cd(TaO3)2
+  name: "\u043C\u0435\u0442\u0430\u0442\u0430\u043D\u0442\u0430\u043B\u0430\u0442\
+    \ \u043A\u0430\u0434\u043C\u0438\u044F"
+- common_names: []
+  formula: CdTe
+  name: "\u0442\u0435\u043B\u043B\u0443\u0440\u0438\u0434 \u043A\u0430\u0434\u043C\
+    \u0438\u044F"
+- common_names: []
+  formula: CdTeO4
+  name: "\u0442\u0435\u043B\u043B\u0443\u0440\u0430\u0442 \u043A\u0430\u0434\u043C\
+    \u0438\u044F"
+- common_names: []
+  formula: CdTiO3
+  name: "\u0442\u0438\u0442\u0430\u043D\u0430\u0442 \u043A\u0430\u0434\u043C\u0438\
+    \u044F"
+- common_names: []
+  formula: CdWO4
+  name: "\u0432\u043E\u043B\u044C\u0444\u0440\u0430\u043C\u0430\u0442 \u043A\u0430\
+    \u0434\u043C\u0438\u044F"
+- common_names: []
+  formula: CdZrO3
+  name: "\u043C\u0435\u0442\u0430\u0446\u0438\u0440\u043A\u043E\u043D\u0430\u0442\
+    \ \u043A\u0430\u0434\u043C\u0438\u044F"
+- common_names: []
+  formula: Cd2Nb2O7
+  name: "\u043D\u0438\u043E\u0431\u0430\u0442 \u043A\u0430\u0434\u043C\u0438\u044F"
+- common_names: []
+  formula: Cd3As2
+  name: "\u0430\u0440\u0441\u0435\u043D\u0438\u0434 \u043A\u0430\u0434\u043C\u0438\
+    \u044F"
+- common_names: []
+  formula: Cd3P2
+  name: "\u0444\u043E\u0441\u0444\u0438\u0434 \u043A\u0430\u0434\u043C\u0438\u044F"
+- common_names: []
+  formula: Cd3(PO4)2
+  name: "\u0444\u043E\u0441\u0444\u0430\u0442 \u043A\u0430\u0434\u043C\u0438\u044F"
+- common_names: []
+  formula: CeB6
+  name: "\u0431\u043E\u0440\u0438\u0434 \u0446\u0435\u0440\u0438\u044F"
+- common_names: []
+  formula: CeBr3
+  name: "\u0431\u0440\u043E\u043C\u0438\u0434 \u0446\u0435\u0440\u0438\u044F(III)"
+- common_names: []
+  formula: CeC
+  name: "\u043A\u0430\u0440\u0431\u0438\u0434 \u0446\u0435\u0440\u0438\u044F"
+- common_names: []
+  formula: CeCl3
+  name: "\u0445\u043B\u043E\u0440\u0438\u0434 \u0446\u0435\u0440\u0438\u044F(III)"
+- common_names: []
+  formula: CeF3
+  name: "\u0444\u0442\u043E\u0440\u0438\u0434 \u0446\u0435\u0440\u0438\u044F(III)"
+- common_names: []
+  formula: CeF4
+  name: "\u0444\u0442\u043E\u0440\u0438\u0434 \u0446\u0435\u0440\u0438\u044F(IV)"
+- common_names: []
+  formula: CeI2
+  name: "\u0438\u043E\u0434\u0438\u0434 \u0446\u0435\u0440\u0438\u044F(II)"
+- common_names: []
+  formula: CeI3
+  name: "\u0438\u043E\u0434\u0438\u0434 \u0446\u0435\u0440\u0438\u044F(III)"
+- common_names: []
+  formula: CeN
+  name: "\u043D\u0438\u0442\u0440\u0438\u0434 \u0446\u0435\u0440\u0438\u044F"
+- common_names: ["\u0446\u0435\u0440\u0438\u0430\u043D\u0438\u0442"]
+  formula: CeO2
+  name: "\u043E\u043A\u0441\u0438\u0434 \u0446\u0435\u0440\u0438\u044F(IV)"
+- common_names: []
+  formula: CeS
+  name: "\u0441\u0443\u043B\u044C\u0444\u0438\u0434 \u0446\u0435\u0440\u0438\u044F\
+    (II)"
+- common_names: []
+  formula: Ce(SO4)2
+  name: "\u0441\u0443\u043B\u044C\u0444\u0430\u0442 \u0446\u0435\u0440\u0438\u044F\
+    (IV)"
+- common_names: []
+  formula: CeSi2
+  name: "\u0441\u0438\u043B\u0438\u0446\u0438\u0434 \u0446\u0435\u0440\u0438\u044F"
+- common_names: []
+  formula: Ce2C3
+  name: "\u043A\u0430\u0440\u0431\u0438\u0434 \u0446\u0435\u0440\u0438\u044F(III)"
+- common_names: []
+  formula: Ce2O3
+  name: "\u043E\u043A\u0441\u0438\u0434 \u0446\u0435\u0440\u0438\u044F(III)"
+- common_names: []
+  formula: Ce2S3
+  name: "\u0441\u0443\u043B\u044C\u0444\u0438\u0434 \u0446\u0435\u0440\u0438\u044F\
+    (III)"
+- common_names: []
+  formula: ClF
+  name: "\u0444\u0442\u043E\u0440\u0438\u0434 \u0445\u043B\u043E\u0440\u0430"
+- common_names: []
+  formula: ClF3
+  name: "\u0442\u0440\u0438\u0444\u0442\u043E\u0440\u0438\u0434 \u0445\u043B\u043E\
+    \u0440\u0430"
+- common_names: []
+  formula: ClF5
+  name: "\u043F\u0435\u043D\u0442\u0430\u0444\u0442\u043E\u0440\u0438\u0434 \u0445\
+    \u043B\u043E\u0440\u0430"
+- common_names: ["\u0446\u0438\u0445\u043B\u043E\u0440\u043E\u0442\u0435\u0442\u0440\
+      \u0430\u043E\u043A\u0441\u0438\u0434"]
+  formula: ClOClO3
+  name: "\u043F\u0435\u0440\u0445\u043B\u043E\u0440\u0430\u0442 \u0445\u043B\u043E\
+    \u0440\u0430"
+- common_names: []
+  formula: ClO2
+  name: "\u0434\u0438\u043E\u043A\u0441\u0438\u0434 \u0445\u043B\u043E\u0440\u0430"
+- common_names: []
+  formula: ClO3F
+  name: "\u0442\u0440\u0438\u043E\u043A\u0441\u043E\u0444\u0442\u043E\u0440\u0438\u0434\
+    \ \u0445\u043B\u043E\u0440\u0430"
+- common_names: []
+  formula: Cl2
+  name: "\u0445\u043B\u043E\u0440"
+- common_names: []
+  formula: Cl2O3
+  name: "\u043E\u043A\u0441\u0438\u0434 \u0445\u043B\u043E\u0440\u0430(III)"
+- common_names: ["\u0434\u0438\u0445\u043B\u043E\u0440\u043E\u0433\u0435\u043A\u0441\
+      \u0430\u043E\u043A\u0441\u0438\u0434"]
+  formula: Cl2O6
+  name: "\u043E\u043A\u0441\u0438\u0434 \u0445\u043B\u043E\u0440\u0430(VI)"
+- common_names: []
+  formula: Cl2O7
+  name: "\u043E\u043A\u0441\u0438\u0434 \u0445\u043B\u043E\u0440\u0430(VII)"
+- common_names: []
+  formula: CoAl2O4
+  name: "\u0430\u043B\u044E\u043C\u0438\u043D\u0430\u0442 \u043A\u043E\u0431\u0430\
+    \u043B\u044C\u0442\u0430(II)"
+- common_names: []
+  formula: CoAs
+  name: "\u0430\u0440\u0441\u0435\u043D\u0438\u0434 \u043A\u043E\u0431\u0430\u043B\
+    \u044C\u0442\u0430"
+- common_names: []
+  formula: CoAs2
+  name: "\u0430\u0440\u0441\u0435\u043D\u0438\u0434 \u043A\u043E\u0431\u0430\u043B\
+    \u044C\u0442\u0430(II)"
+- common_names: []
+  formula: CoB
+  name: "\u0431\u043E\u0440\u0438\u0434 \u043A\u043E\u0431\u0430\u043B\u044C\u0442\
+    \u0430(II)"
+- common_names: []
+  formula: CoBr2
+  name: "\u0431\u0440\u043E\u043C\u0438\u0434 \u043A\u043E\u0431\u0430\u043B\u044C\
+    \u0442\u0430(II)"
+- common_names: []
+  formula: Co(CN)2
+  name: "\u0446\u0438\u0430\u043D\u0438\u0434 \u043A\u043E\u0431\u0430\u043B\u044C\
+    \u0442\u0430(II)"
+- common_names: []
+  formula: Co(C2H3O2)2
+  name: "\u0430\u0446\u0435\u0442\u0430\u0442 \u043A\u043E\u0431\u0430\u043B\u044C\
+    \u0442\u0430(II)"
+- common_names: []
+  formula: Co(C2H3O2)3
+  name: "\u0446\u0438\u0430\u043D\u0438\u0434 \u043A\u043E\u0431\u0430\u043B\u044C\
+    \u0442\u0430(III)"
+- common_names: []
+  formula: CoC2O4
+  name: "\u043E\u043A\u0441\u0430\u043B\u0430\u0442 \u043A\u043E\u0431\u0430\u043B\
+    \u044C\u0442\u0430(II)"
+- common_names: []
+  formula: Co(ClO4)2
+  name: "\u043F\u0435\u0440\u0445\u043B\u043E\u0440\u0430\u0442 \u043A\u043E\u0431\
+    \u0430\u043B\u044C\u0442\u0430(II)"
+- common_names: []
+  formula: CoCl2
+  name: "\u0445\u043B\u043E\u0440\u0438\u0434 \u043A\u043E\u0431\u0430\u043B\u044C\
+    \u0442\u0430(II)"
+- common_names: []
+  formula: CoCrO4
+  name: "\u0445\u0440\u043E\u043C\u0430\u0442 \u043A\u043E\u0431\u0430\u043B\u044C\
+    \u0442\u0430(II)"
+- common_names: []
+  formula: CoCr2O4
+  name: "\u0445\u0440\u043E\u043C\u0438\u0442 \u043A\u043E\u0431\u0430\u043B\u044C\
+    \u0442\u0430(II)"
+- common_names: []
+  formula: CoF2
+  name: "\u0444\u0442\u043E\u0440\u0438\u0434 \u043A\u043E\u0431\u0430\u043B\u044C\
+    \u0442\u0430(II)"
+- common_names: []
+  formula: CoF3
+  name: "\u0444\u0442\u043E\u0440\u0438\u0434 \u043A\u043E\u0431\u0430\u043B\u044C\
+    \u0442\u0430(III)"
+- common_names: []
+  formula: Co(IO3)2
+  name: "\u0438\u043E\u0434\u0430\u0442 \u043A\u043E\u0431\u0430\u043B\u044C\u0442\
+    \u0430(II)"
+- common_names: []
+  formula: CoI2
+  name: "\u0438\u043E\u0434\u0438\u0434 \u043A\u043E\u0431\u0430\u043B\u044C\u0442\
+    \u0430(II)"
+- common_names: []
+  formula: CoMoO4
+  name: "\u043C\u043E\u043B\u0438\u0431\u0434\u0430\u0442 \u043A\u043E\u0431\u0430\
+    \u043B\u044C\u0442\u0430(II)"
+- common_names: []
+  formula: Co(NO3)2
+  name: "\u043D\u0438\u0442\u0440\u0430\u0442 \u043A\u043E\u0431\u0430\u043B\u044C\
+    \u0442\u0430(II)"
+- common_names: []
+  formula: Co(NO3)3
+  name: "\u043D\u0438\u0442\u0440\u0430\u0442 \u043A\u043E\u0431\u0430\u043B\u044C\
+    \u0442\u0430(III)"
+- common_names: []
+  formula: CoO
+  name: "\u043E\u043A\u0441\u0438\u0434 \u043A\u043E\u0431\u0430\u043B\u044C\u0442\
+    \u0430(II)"
+- common_names: []
+  formula: Co(OH)2
+  name: "\u0433\u0438\u0434\u0440\u043E\u043A\u0441\u0438\u0434 \u043A\u043E\u0431\
+    \u0430\u043B\u044C\u0442\u0430(II)"
+- common_names: []
+  formula: Co(OH)3
+  name: "\u0433\u0438\u0434\u0440\u043E\u043A\u0441\u0438\u0434 \u043A\u043E\u0431\
+    \u0430\u043B\u044C\u0442\u0430(III)"
+- common_names: []
+  formula: CoS
+  name: "\u0441\u0443\u043B\u044C\u0444\u0438\u0434 \u043A\u043E\u0431\u0430\u043B\
+    \u044C\u0442\u0430(II)"
+- common_names: []
+  formula: CoS2
+  name: "\u0434\u0438\u0441\u0443\u043B\u044C\u0444\u0438\u0434 \u043A\u043E\u0431\
+    \u0430\u043B\u044C\u0442\u0430"
+- common_names: []
+  formula: CoSb
+  name: "\u0430\u043D\u0442\u0438\u043C\u043E\u043D\u0438\u0434 \u043A\u043E\u0431\
+    \u0430\u043B\u044C\u0442\u0430"
+- common_names: []
+  formula: CoSe
+  name: "\u0441\u0435\u043B\u0435\u043D\u0438\u0434 \u043A\u043E\u0431\u0430\u043B\
+    \u044C\u0442\u0430(II)"
+- common_names: []
+  formula: CoSeO3
+  name: "\u0441\u0435\u043B\u0435\u043D\u0438\u0442 \u043A\u043E\u0431\u0430\u043B\
+    \u044C\u0442\u0430(II)"
+- common_names: []
+  formula: CoTe
+  name: "\u0442\u0435\u043B\u043B\u0443\u0440\u0438\u0434 \u043A\u043E\u0431\u0430\
+    \u043B\u044C\u0442\u0430(II)"
+- common_names: []
+  formula: CoTiO3
+  name: "\u0442\u0438\u0442\u0430\u043D\u0430\u0442 \u043A\u043E\u0431\u0430\u043B\
+    \u044C\u0442\u0430(II)"
+- common_names: []
+  formula: CoWO4
+  name: "\u0432\u043E\u043B\u044C\u0444\u0440\u0430\u043C\u0430\u0442 \u043A\u043E\
+    \u0431\u0430\u043B\u044C\u0442\u0430(II)"
+- common_names: []
+  formula: Co2B
+  name: "\u0431\u043E\u0440\u0438\u0434 \u043A\u043E\u0431\u0430\u043B\u044C\u0442\
+    \u0430"
+- common_names: []
+  formula: Co2SO4
+  name: "\u0441\u0443\u043B\u044C\u0444\u0430\u0442 \u043A\u043E\u0431\u0430\u043B\
+    \u044C\u0442\u0430(II)"
+- common_names: []
+  formula: Co2S3
+  name: "\u0441\u0443\u043B\u044C\u0444\u0438\u0434 \u043A\u043E\u0431\u0430\u043B\
+    \u044C\u0442\u0430(II)"
+- common_names: []
+  formula: Co2SiO4
+  name: "\u043E\u0440\u0442\u043E\u0441\u0438\u043B\u0438\u043A\u0430\u0442 \u043A\
+    \u043E\u0431\u0430\u043B\u044C\u0442\u0430(II)"
+- common_names: []
+  formula: Co2SnO4
+  name: "\u0441\u0442\u0430\u043D\u043D\u0430\u0442 \u043A\u043E\u0431\u0430\u043B\
+    \u044C\u0442\u0430(II)"
+- common_names: []
+  formula: Co2TiO4
+  name: "\u0442\u0438\u0442\u0430\u043D\u0438\u0442 \u043A\u043E\u0431\u0430\u043B\
+    \u044C\u0442\u0430(II)"
+- common_names: []
+  formula: Co3(Fe(CN)6)2
+  name: "\u0433\u0435\u043A\u0441\u0430\u0446\u0438\u0430\u043D\u043E\u0444\u0435\u0440\
+    \u0440\u0430\u0442(III) \u043A\u043E\u0431\u0430\u043B\u044C\u0442\u0430(II)"
+- common_names: []
+  formula: CrBr2
+  name: "\u0431\u0440\u043E\u043C\u0438\u0434 \u0445\u0440\u043E\u043C\u0430(II)"
+- common_names: []
+  formula: CrBr3
+  name: "\u0431\u0440\u043E\u043C\u0438\u0434 \u0445\u0440\u043E\u043C\u0430(III)"
+- common_names: []
+  formula: CrCl2
+  name: "\u0445\u043B\u043E\u0440\u0438\u0434 \u0445\u0440\u043E\u043C\u0430(II)"
+- common_names: []
+  formula: CrCl3
+  name: "\u0445\u043B\u043E\u0440\u0438\u0434 \u0445\u0440\u043E\u043C\u0430(III)"
+- common_names: []
+  formula: CrCl4
+  name: "\u0445\u043B\u043E\u0440\u0438\u0434 \u0445\u0440\u043E\u043C\u0430(IV)"
+- common_names: []
+  formula: CrF2
+  name: "\u0444\u0442\u043E\u0440\u0438\u0434 \u0445\u0440\u043E\u043C\u0430(II)"
+- common_names: []
+  formula: CrF3
+  name: "\u0444\u0442\u043E\u0440\u0438\u0434 \u0445\u0440\u043E\u043C\u0430(III)"
+- common_names: []
+  formula: CrF4
+  name: "\u0444\u0442\u043E\u0440\u0438\u0434 \u0445\u0440\u043E\u043C\u0430(IV)"
+- common_names: []
+  formula: CrF5
+  name: "\u0444\u0442\u043E\u0440\u0438\u0434 \u0445\u0440\u043E\u043C\u0430(V)"
+- common_names: []
+  formula: CrF6
+  name: "\u0444\u0442\u043E\u0440\u0438\u0434 \u0445\u0440\u043E\u043C\u0430(VI)"
+- common_names: []
+  formula: CrI2
+  name: "\u0438\u043E\u0434\u0438\u0434 \u0445\u0440\u043E\u043C\u0430(II)"
+- common_names: []
+  formula: CrI3
+  name: "\u0438\u043E\u0434\u0438\u0434 \u0445\u0440\u043E\u043C\u0430(III)"
+- common_names: []
+  formula: Cr(NO3)3
+  name: "\u043D\u0438\u0442\u0440\u0430\u0442 \u0445\u0440\u043E\u043C\u0430(III)"
+- common_names: []
+  formula: CrO2
+  name: "\u043E\u043A\u0441\u0438\u0434 \u0445\u0440\u043E\u043C\u0430(IV)"
+- common_names: []
+  formula: CrO3
+  name: "\u043E\u043A\u0441\u0438\u0434 \u0445\u0440\u043E\u043C\u0430(VI)"
+- common_names: []
+  formula: CrO2Cl2
+  name: "\u0445\u0440\u043E\u043C\u0438\u043B\u0445\u043B\u043E\u0440\u0438\u0434"
+- common_names: []
+  formula: CrPO4
+  name: "\u0444\u043E\u0441\u0444\u0430\u0442 \u0445\u0440\u043E\u043C\u0430(III)"
+- common_names: []
+  formula: CrSb
+  name: "\u0430\u043D\u0442\u0438\u043C\u043E\u043D\u0438\u0434 \u0445\u0440\u043E\
+    \u043C\u0430"
+- common_names: []
+  formula: CrVO4
+  name: "\u043E\u0440\u0442\u043E\u0432\u0430\u043D\u0430\u0434\u0430\u0442 \u0445\
+    \u0440\u043E\u043C\u0430(III)"
+- common_names: ["\u044D\u0441\u043A\u043E\u043B\u0430\u0438\u0442"]
+  formula: Cr2O3
+  name: "\u043E\u043A\u0441\u0438\u0434 \u0445\u0440\u043E\u043C\u0430(III)"
+- common_names: []
+  formula: Cr2(SO4)3
+  name: "\u0441\u0443\u043B\u044C\u0444\u0430\u0442 \u0445\u0440\u043E\u043C\u0430\
+    (III)"
+- common_names: []
+  formula: Cr2S3
+  name: "\u0441\u0443\u043B\u044C\u0444\u0438\u0434 \u0445\u0440\u043E\u043C\u0430\
+    (III)"
+- common_names: []
+  formula: Cr2Se3
+  name: "\u0441\u0435\u043B\u0435\u043D\u0438\u0434 \u0445\u0440\u043E\u043C\u0430\
+    (III)"
+- common_names: []
+  formula: Cr2(TeO4)3
+  name: "\u0442\u0435\u043B\u043B\u0443\u0440\u0430\u0442 \u0445\u0440\u043E\u043C\
+    \u0430(III)"
+- common_names: []
+  formula: Cr2Te3
+  name: "\u0442\u0435\u043B\u043B\u0443\u0440\u0438\u0434 \u0445\u0440\u043E\u043C\
+    \u0430(III)"
+- common_names: []
+  formula: Cr3As2
+  name: "\u0430\u0440\u0441\u0435\u043D\u0438\u0434 \u0445\u0440\u043E\u043C\u0430\
+    (II)"
+- common_names: []
+  formula: Cr3C2
+  name: "\u043A\u0430\u0440\u0431\u0438\u0434 \u0445\u0440\u043E\u043C\u0430(II)"
+- common_names: []
+  formula: Cr3Sb2
+  name: "\u0430\u043D\u0442\u0438\u043C\u043E\u043D\u0438\u0434 \u0445\u0440\u043E\
+    \u043C\u0430(II)"
+- common_names: []
+  formula: Cr3Si2
+  name: "\u0441\u0438\u043B\u0438\u0446\u0438\u0434 \u0445\u0440\u043E\u043C\u0430\
+    (II)"
+- common_names: []
+  formula: CsBO2
+  name: "\u0431\u043E\u0440\u0430\u0442 \u0446\u0435\u0437\u0438\u044F"
+- common_names: []
+  formula: CsBr
+  name: "\u0431\u0440\u043E\u043C\u0438\u0434 \u0446\u0435\u0437\u0438\u044F"
+- common_names: []
+  formula: CsBrO3
+  name: "\u0431\u0440\u043E\u043C\u0430\u0442 \u0446\u0435\u0437\u0438\u044F"
+- common_names: []
+  formula: CsBr3
+  name: "\u0442\u0440\u0438\u0431\u0440\u043E\u043C\u0438\u0434 \u0446\u0435\u0437\
+    \u0438\u044F"
+- common_names: []
+  formula: CsCN
+  name: "\u0446\u0438\u0430\u043D\u0438\u0434 \u0446\u0435\u0437\u0438\u044F"
+- common_names: []
+  formula: CsC2H3O2
+  name: "\u0430\u0446\u0435\u0442\u0430\u0442 \u0446\u0435\u0437\u0438\u044F"
+- common_names: []
+  formula: CsCl
+  name: "\u0445\u043B\u043E\u0440\u0438\u0434 \u0446\u0435\u0437\u0438\u044F"
+- common_names: []
+  formula: CsClO3
+  name: "\u0445\u043B\u043E\u0440\u0430\u0442 \u0446\u0435\u0437\u0438\u044F"
+- common_names: []
+  formula: CsClO4
+  name: "\u043F\u0435\u0440\u0445\u043B\u043E\u0440\u0430\u0442 \u0446\u0435\u0437\
+    \u0438\u044F"
+- common_names: []
+  formula: CsF
+  name: "\u0444\u0442\u043E\u0440\u0438\u0434 \u0446\u0435\u0437\u0438\u044F"
+- common_names: []
+  formula: CsI
+  name: "\u0438\u043E\u0434\u0438\u0434 \u0446\u0435\u0437\u0438\u044F"
+- common_names: []
+  formula: CsI3
+  name: "\u0442\u0440\u0438\u0438\u043E\u0434\u0438\u0434 \u0446\u0435\u0437\u0438\
+    \u044F"
+- common_names: []
+  formula: CsNH2
+  name: "\u0430\u043C\u0438\u0434 \u0446\u0435\u0437\u0438\u044F"
+- common_names: []
+  formula: CsNO3
+  name: "\u043D\u0438\u0442\u0440\u0430\u0442 \u0446\u0435\u0437\u0438\u044F"
+- common_names: []
+  formula: CsN3
+  name: "\u0430\u0437\u0438\u0434 \u0446\u0435\u0437\u0438\u044F"
+- common_names: []
+  formula: CsNbO3
+  name: "\u043C\u0435\u0442\u0430\u043D\u0438\u043E\u0431\u0430\u0442 \u0446\u0435\
+    \u0437\u0438\u044F"
+- common_names: []
+  formula: CsOH
+  name: "\u0433\u0438\u0434\u0440\u043E\u043A\u0441\u0438\u0434 \u0446\u0435\u0437\
+    \u0438\u044F"
+- common_names: []
+  formula: CsO2
+  name: "\u0441\u0443\u043F\u0435\u0440\u043E\u043A\u0441\u0438\u0434 \u0446\u0435\
+    \u0437\u0438\u044F"
+- common_names: []
+  formula: Cs2S
+  name: "\u0441\u0443\u043B\u044C\u0444\u0438\u0434 \u0446\u0435\u0437\u0438\u044F"
+- common_names: []
+  formula: CsSCN
+  name: "\u0442\u0438\u043E\u0446\u0438\u0430\u043D\u0430\u0442 \u0446\u0435\u0437\
+    \u0438\u044F"
+- common_names: []
+  formula: CsSeO4
+  name: "\u0441\u0435\u043B\u0435\u043D\u0430\u0442 \u0446\u0435\u0437\u0438\u044F"
+- common_names: []
+  formula: CsTaO3
+  name: "\u043C\u0435\u0442\u0430\u0442\u0438\u0442\u0430\u043D\u0430\u0442 \u0446\
+    \u0435\u0437\u0438\u044F"
+- common_names: []
+  formula: Cs2CO3
+  name: "\u043A\u0430\u0440\u0431\u043E\u043D\u0430\u0442 \u0446\u0435\u0437\u0438\
+    \u044F"
+- common_names: []
+  formula: Cs2C2O4
+  name: "\u043E\u043A\u0441\u0430\u043B\u0430\u0442 \u0446\u0435\u0437\u0438\u044F"
+- common_names: []
+  formula: Cs2CrO4
+  name: "\u0445\u0440\u043E\u043C\u0430\u0442 \u0446\u0435\u0437\u0438\u044F"
+- common_names: []
+  formula: Cs2Cr2O7
+  name: "\u0434\u0438\u0445\u0440\u043E\u043C\u0430\u0442 \u0446\u0435\u0437\u0438\
+    \u044F"
+- common_names: []
+  formula: Cs2HPO4
+  name: "\u0433\u0438\u0434\u0440\u043E\u0444\u043E\u0441\u0444\u0430\u0442 \u0446\
+    \u0435\u0437\u0438\u044F"
+- common_names: []
+  formula: Cs2MoO4
+  name: "\u043C\u043E\u043B\u0438\u0431\u0434\u0430\u0442 \u0446\u0435\u0437\u0438\
+    \u044F"
+- common_names: []
+  formula: Cs2O
+  name: "\u043E\u043A\u0441\u0438\u0434 \u0446\u0435\u0437\u0438\u044F"
+- common_names: []
+  formula: Cs2SO3
+  name: "\u0441\u0443\u043B\u044C\u0444\u0438\u0442 \u0446\u0435\u0437\u0438\u044F"
+- common_names: []
+  formula: Cs2SO4
+  name: "\u0441\u0443\u043B\u044C\u0444\u0430\u0442 \u0446\u0435\u0437\u0438\u044F"
+- common_names: []
+  formula: Cs2SiO3
+  name: "\u043C\u0435\u0442\u0430\u0441\u0438\u043B\u0438\u043A\u0430\u0442 \u0446\
+    \u0435\u0437\u0438\u044F"
+- common_names: []
+  formula: Cs2TeO4
+  name: "\u0442\u0435\u043B\u043B\u0443\u0440\u0430\u0442 \u0446\u0435\u0437\u0438\
+    \u044F"
+- common_names: []
+  formula: Cs2TiO3
+  name: "\u0442\u0438\u0442\u0430\u043D\u0430\u0442 \u0446\u0435\u0437\u0438\u044F"
+- common_names: []
+  formula: Cs2WO4
+  name: "\u0432\u043E\u043B\u044C\u0444\u0440\u0430\u043C\u0430\u0442 \u0446\u0435\
+    \u0437\u0438\u044F"
+- common_names: []
+  formula: Cs3PO4
+  name: "\u043E\u0440\u0442\u043E\u0444\u043E\u0441\u0444\u0430\u0442 \u0446\u0435\
+    \u0437\u0438\u044F"
+- common_names: []
+  formula: Cs3VO4
+  name: "\u043E\u0440\u0442\u043E\u0432\u0430\u043D\u0430\u0434\u0430\u0442 \u0446\
+    \u0435\u0437\u0438\u044F"
+- common_names: []
+  formula: CuBr
+  name: "\u0431\u0440\u043E\u043C\u0438\u0434 \u043C\u0435\u0434\u0438(I)"
+- common_names: []
+  formula: "Cu(BrO3)2 \xB7 6H2O"
+  name: "\u0433\u0435\u043A\u0441\u0430\u0433\u0438\u0434\u0440\u0430\u0442 \u0431\
+    \u0440\u043E\u043C\u0430\u0442\u0430 \u043C\u0435\u0434\u0438(II)"
+- common_names: []
+  formula: CuBr2
+  name: "\u0431\u0440\u043E\u043C\u0438\u0434 \u043C\u0435\u0434\u0438(II)"
+- common_names: []
+  formula: CuC2O4
+  name: "\u043E\u043A\u0441\u0430\u043B\u0430\u0442 \u043C\u0435\u0434\u0438 (II)"
+- common_names: []
+  formula: CuCl
+  name: "\u0445\u043B\u043E\u0440\u0438\u0434 \u043C\u0435\u0434\u0438(I)"
+- common_names: []
+  formula: "Cu(ClO3)2 \xB7 6H2O"
+  name: "\u0433\u0435\u043A\u0441\u0430\u0433\u0438\u0434\u0440\u0430\u0442 \u0445\
+    \u043B\u043E\u0440\u0430\u0442\u0430 \u043C\u0435\u0434\u0438(II)"
+- common_names: []
+  formula: CuCl2
+  name: "\u0445\u043B\u043E\u0440\u0438\u0434 \u043C\u0435\u0434\u0438(II)"
+- common_names: ["\u0445\u0430\u043B\u044C\u043A\u043E\u043F\u0438\u0440\u0438\u0442"]
+  formula: CuFeS2
+  name: "\u0441\u0443\u043B\u044C\u0444\u0438\u0434 \u0436\u0435\u043B\u0435\u0437\
+    \u0430-\u043C\u0435\u0434\u0438"
+- common_names: []
+  formula: CuFe2O4
+  name: "\u043E\u043A\u0441\u0438\u0434 \u043C\u0435\u0434\u0438(II)-\u0436\u0435\u043B\
+    \u0435\u0437\u0430(II)"
+- common_names: ["\u043A\u0443\u0431\u0430\u043D\u0438\u0442"]
+  formula: CuFe2S3
+  name: "\u0441\u0443\u043B\u044C\u0444\u0438\u0434 \u0436\u0435\u043B\u0435\u0437\
+    \u0430-\u043C\u0435\u0434\u0438"
+- common_names: []
+  formula: "[Cu(H2O)4]SO4 \xB7 H2O"
+  name: "\u043C\u0435\u0434\u043D\u044B\u0439 \u043A\u0443\u043F\u043E\u0440\u043E\
+    \u0441"
+- common_names: []
+  formula: CuI
+  name: "\u0438\u043E\u0434\u0438\u0434 \u043C\u0435\u0434\u0438(I)"
+- common_names: []
+  formula: CuIO3
+  name: "\u0438\u043E\u0434\u0430\u0442 \u043C\u0435\u0434\u0438(I)"
+- common_names: []
+  formula: Cu(IO3)2
+  name: "\u0438\u043E\u0434\u0430\u0442 \u043C\u0435\u0434\u0438(II)"
+- common_names: []
+  formula: CuMoO4
+  name: "\u043C\u043E\u043B\u0438\u0431\u0434\u0430\u0442 \u043C\u0435\u0434\u0438\
+    (II)"
+- common_names: []
+  formula: Cu(NO3)2
+  name: "\u043D\u0438\u0442\u0440\u0430\u0442 \u043C\u0435\u0434\u0438(II)"
+- common_names: []
+  formula: "Cu(NO3)2 \xB7 3H2O"
+  name: "\u0442\u0440\u0438\u0433\u0438\u0434\u0440\u0430\u0442 \u043D\u0438\u0442\
+    \u0440\u0430\u0442\u0430 \u043C\u0435\u0434\u0438(II)"
+- common_names: []
+  formula: Cu(NbO3)2
+  name: "\u043D\u0438\u043E\u0431\u0430\u0442 \u043C\u0435\u0434\u0438(II)"
+- common_names: []
+  formula: CuO
+  name: "\u043E\u043A\u0441\u0438\u0434 \u043C\u0435\u0434\u0438(II)"
+- common_names: []
+  formula: Cu(OH)2
+  name: "\u0433\u0438\u0434\u0440\u043E\u043A\u0441\u0438\u0434 \u043C\u0435\u0434\
+    \u0438(II)"
+- common_names: ["\u043A\u043E\u0432\u0435\u043B\u043B\u0438\u043D"]
+  formula: CuS
+  name: "\u0441\u0443\u043B\u044C\u0444\u0438\u0434 \u043C\u0435\u0434\u0438(II)"
+- common_names: []
+  formula: CuSCN
+  name: "\u0442\u0438\u043E\u0446\u0438\u0430\u043D\u0430\u0442 \u043C\u0435\u0434\
+    \u0438(I)"
+- common_names: []
+  formula: CuSO4
+  name: "\u0441\u0443\u043B\u044C\u0444\u0430\u0442 \u043C\u0435\u0434\u0438(II)"
+- common_names: []
+  formula: CuSe
+  name: "\u0441\u0435\u043B\u0435\u043D\u0438\u0434 \u043C\u0435\u0434\u0438(II)"
+- common_names: []
+  formula: "CuSeO3 \xB7 2H2O"
+  name: "\u0434\u0438\u0433\u0438\u0434\u0440\u0430\u0442 \u0441\u0435\u043B\u0435\
+    \u043D\u0438\u0442\u0430 \u043C\u0435\u0434\u0438(II)"
+- common_names: []
+  formula: "CuSeO4 \xB7 5H2O"
+  name: "\u043F\u0435\u043D\u0442\u0430\u0433\u0438\u0434\u0440\u0430\u0442 \u0441\
+    \u0435\u043B\u0435\u043D\u0430\u0442\u0430 \u043C\u0435\u0434\u0438(II)"
+- common_names: []
+  formula: CuSiO3
+  name: "\u043C\u0435\u0442\u0430\u0441\u0438\u043B\u0438\u043A\u0430\u0442 \u043C\
+    \u0435\u0434\u0438(II)"
+- common_names: []
+  formula: CuTe
+  name: "\u0442\u0435\u043B\u043B\u0443\u0440\u0438\u0434 \u043C\u0435\u0434\u0438\
+    (II)"
+- common_names: []
+  formula: CuTeO3
+  name: "\u0442\u0435\u043B\u043B\u0443\u0440\u0438\u0442 \u043C\u0435\u0434\u0438\
+    (II)"
+- common_names: []
+  formula: CuTiO3
+  name: "\u0442\u0438\u0442\u0430\u043D\u0430\u0442 \u043C\u0435\u0434\u0438(II)"
+- common_names: []
+  formula: Cu(VO3)2
+  name: "\u043C\u0435\u0442\u0430\u0432\u0430\u043D\u0430\u0434\u0430\u0442 \u043C\
+    \u0435\u0434\u0438(II)"
+- common_names: []
+  formula: CuWO4
+  name: "\u0432\u043E\u043B\u044C\u0444\u0440\u0430\u043C\u0430\u0442 \u043C\u0435\
+    \u0434\u0438(II)"
+- common_names: []
+  formula: Cu2CO3(OH)2
+  name: "\u043C\u0430\u043B\u0430\u0445\u0438\u0442"
+- common_names: ["\u0445\u0430\u043B\u044C\u043A\u043E\u0437\u0438\u0442"]
+  formula: Cu2S
+  name: "\u0441\u0443\u043B\u044C\u0444\u0438\u0434 \u043C\u0435\u0434\u0438(I)"
+- common_names: []
+  formula: Cu2Se
+  name: "\u0441\u0435\u043B\u0435\u043D\u0438\u0434 \u043C\u0435\u0434\u0438(I)"
+- common_names: []
+  formula: Cu2Te
+  name: "\u0442\u0435\u043B\u043B\u0443\u0440\u0438\u0434 \u043C\u0435\u0434\u0438\
+    (I)"
+- common_names: []
+  formula: Cu3As
+  name: "\u0430\u0440\u0441\u0435\u043D\u0438\u0434 \u043C\u0435\u0434\u0438(I)"
+- common_names: []
+  formula: Cu3P
+  name: "\u0444\u043E\u0441\u0444\u0438\u0434 \u043C\u0435\u0434\u0438(I)"
+- common_names: []
+  formula: Cu3(PO4)2
+  name: "\u043E\u0440\u0442\u043E\u0444\u043E\u0441\u0444\u0430\u0442 \u043C\u0435\
+    \u0434\u0438(II)"
+- common_names: []
+  formula: Cu3Sb
+  name: "\u0430\u043D\u0442\u0438\u043C\u043E\u043D\u0438\u0434 \u043C\u0435\u0434\
+    \u0438(III)"
+- common_names: ["\u0434\u0438\u0433\u0435\u043D\u0438\u0442"]
+  formula: Cu9S5
+  name: "\u0441\u0443\u043B\u044C\u0444\u0438\u0434 \u043C\u0435\u0434\u0438"
+- common_names: []
+  formula: D2O
+  name: "\u043E\u043A\u0441\u0438\u0434 \u0434\u0435\u0439\u0442\u0435\u0440\u0438\
+    \u044F"
+- common_names: []
+  formula: Fe(CNS)3
+  name: "\u0442\u0438\u043E\u0446\u0438\u0430\u043D\u0430\u0442 \u0436\u0435\u043B\
+    \u0435\u0437\u0430"
+- common_names: []
+  formula: FeCl2
+  name: "\u0445\u043B\u043E\u0440\u0438\u0434 \u0436\u0435\u043B\u0435\u0437\u0430\
+    (II)"
+- common_names: []
+  formula: FeO4
+  name: "\u043C\u0430\u0433\u043D\u0435\u0442\u0438\u0442"
+- common_names: []
+  formula: FeO2
+  name: "\u0434\u0438\u043E\u043A\u0441\u0438\u0434 \u0436\u0435\u043B\u0435\u0437\
+    \u0430"
+- common_names: []
+  formula: FeS
+  name: "\u0421\u0443\u043B\u044C\u0444\u0438\u0434 \u0436\u0435\u043B\u0435\u0437\
+    \u0430(II)"
+- common_names: []
+  formula: GaAs
+  name: "\u0430\u0440\u0441\u0435\u043D\u0438\u0434 \u0433\u0430\u043B\u043B\u0438\
+    \u044F"
+- common_names: []
+  formula: GaAsO4
+  name: "\u043E\u0440\u0442\u043E\u0430\u0440\u0441\u0435\u043D\u0430\u0442 \u0433\
+    \u0430\u043B\u043B\u0438\u044F"
+- common_names: []
+  formula: GaBr3
+  name: "\u0431\u0440\u043E\u043C\u0438\u0434 \u0433\u0430\u043B\u043B\u0438\u044F"
+- common_names: []
+  formula: Ga(C2H3O2)3
+  name: "\u0430\u0446\u0435\u0442\u0430\u0442 \u0433\u0430\u043B\u043B\u0438\u044F"
+- common_names: []
+  formula: GaCl2
+  name: "\u0434\u0438\u0445\u043B\u043E\u0440\u0438\u0434 \u0433\u0430\u043B\u043B\
+    \u0438\u044F"
+- common_names: []
+  formula: GaCl3
+  name: "\u0445\u043B\u043E\u0440\u0438\u0434 \u0433\u0430\u043B\u043B\u0438\u044F"
+- common_names: []
+  formula: GaI2
+  name: "\u0434\u0438\u0438\u043E\u0434\u0438\u0434 \u0433\u0430\u043B\u043B\u0438\
+    \u044F"
+- common_names: []
+  formula: GaI3
+  name: "\u0438\u043E\u0434\u0438\u0434 \u0433\u0430\u043B\u043B\u0438\u044F"
+- common_names: []
+  formula: GaN
+  name: "\u043D\u0438\u0442\u0440\u0438\u0434 \u0433\u0430\u043B\u043B\u0438\u044F"
+- common_names: []
+  formula: Ga(OH)3
+  name: "\u0433\u0438\u0434\u0440\u043E\u043A\u0441\u0438\u0434 \u0433\u0430\u043B\
+    \u043B\u0438\u044F"
+- common_names: []
+  formula: GaPO4
+  name: "\u043E\u0440\u0442\u043E\u0444\u043E\u0441\u0444\u0430\u0442 \u0433\u0430\
+    \u043B\u043B\u0438\u044F"
+- common_names: []
+  formula: GaSb
+  name: "\u0430\u043D\u0442\u0438\u043C\u043E\u043D\u0438\u0434 \u0433\u0430\u043B\
+    \u043B\u0438\u044F"
+- common_names: []
+  formula: GaTe
+  name: "\u0442\u0435\u043B\u043B\u0443\u0440\u0438\u0434 \u0433\u0430\u043B\u043B\
+    \u0438\u044F(II)"
+- common_names: []
+  formula: Ga2O3
+  name: "\u043E\u043A\u0441\u0438\u0434 \u0433\u0430\u043B\u043B\u0438\u044F"
+- common_names: []
+  formula: "Ga2(SO4)3\xB718H2O"
+  name: "\u043E\u043A\u0442\u0430\u0434\u0435\u043A\u0430\u0433\u0438\u0434\u0440\u0430\
+    \u0442 \u0441\u0443\u043B\u044C\u0444\u0430\u0442\u0430 \u0433\u0430\u043B\u043B\
+    \u0438\u044F"
+- common_names: []
+  formula: Ga2S3
+  name: "\u0441\u0443\u043B\u044C\u0444\u0438\u0434 \u0433\u0430\u043B\u043B\u0438\
+    \u044F"
+- common_names: []
+  formula: Ga2Te3
+  name: "\u0442\u0435\u043B\u043B\u0443\u0440\u0438\u0434 \u0433\u0430\u043B\u043B\
+    \u0438\u044F"
+- common_names: []
+  formula: GeBr4
+  name: "\u0431\u0440\u043E\u043C\u0438\u0434 \u0433\u0435\u0440\u043C\u0430\u043D\
+    \u0438\u044F"
+- common_names: []
+  formula: GeH3COOH
+  name: "2-\u0433\u0435\u0440\u043C\u0430\u0443\u043A\u0441\u0443\u0441\u043D\u0430\
+    \u044F \u043A\u0438\u0441\u043B\u043E\u0442\u0430"
+- common_names: []
+  formula: GeI2
+  name: "\u043E\u0434\u0438\u0434 \u0433\u0435\u0440\u043C\u0430\u043D\u0438\u044F\
+    (II)"
+- common_names: []
+  formula: GeI4
+  name: "\u0438\u043E\u0434\u0438\u0434 \u0433\u0435\u0440\u043C\u0430\u043D\u0438\
+    \u044F(IV)"
+- common_names: []
+  formula: GeO
+  name: "\u043E\u043A\u0441\u0438\u0434 \u0433\u0435\u0440\u043C\u0430\u043D\u0438\
+    \u044F(II)"
+- common_names: []
+  formula: GeO2
+  name: "\u043E\u043A\u0441\u0438\u0434 \u0433\u0435\u0440\u043C\u0430\u043D\u0438\
+    \u044F(IV)"
+- common_names: []
+  formula: HBr
+  name: "\u0431\u0440\u043E\u043C\u043E\u0432\u043E\u0434\u043E\u0440\u043E\u0434"
+- common_names: []
+  formula: "HCCH \u0438\u043B\u0438 C2H2"
+  name: "\u0430\u0446\u0435\u0442\u0438\u043B\u0435\u043D"
+- common_names: []
+  formula: HCN
+  name: "\u0446\u0438\u0430\u043D\u043E\u0432\u043E\u0434\u043E\u0440\u043E\u0434"
+- common_names: []
+  formula: HCONH2
+  name: "\u0444\u043E\u0440\u043C\u0430\u043C\u0438\u0434"
+- common_names: []
+  formula: "HCOO\u2212"
+  name: "\u0444\u043E\u0440\u043C\u0438\u0430\u0442"
+- common_names: ["\u043C\u0435\u0442\u0430\u043D\u043E\u0432\u0430\u044F \u043A\u0438\
+      \u0441\u043B\u043E\u0442\u0430"]
+  formula: HCOOH
+  name: "\u043C\u0443\u0440\u0430\u0432\u044C\u0438\u043D\u0430\u044F \u043A\u0438\
+    \u0441\u043B\u043E\u0442\u0430"
+- common_names: []
+  formula: HCOONH4
+  name: "\u0444\u043E\u0440\u043C\u0438\u0430\u0442 \u0430\u043C\u043C\u043E\u043D\
+    \u0438\u044F"
+- common_names: []
+  formula: "HCO3\u2212"
+  name: "\u0433\u0438\u0434\u0440\u043E\u043A\u0430\u0440\u0431\u043E\u043D\u0430\u0442"
+- common_names: []
+  formula: HC3H5O3
+  name: "\u043C\u043E\u043B\u043E\u0447\u043D\u0430\u044F \u043A\u0438\u0441\u043B\
+    \u043E\u0442\u0430"
+- common_names: []
+  formula: HC5H5N+
+  name: "\u043F\u0438\u0440\u0438\u0434\u0438\u043D\u0438\u0439"
+- common_names: []
+  formula: HC6H7O6
+  name: "\u0430\u0441\u043A\u043E\u0440\u0431\u0438\u043D\u043E\u0432\u0430\u044F\
+    \ \u043A\u0438\u0441\u043B\u043E\u0442\u0430"
+- common_names: []
+  formula: HC9H7O4
+  name: "\u0430\u0446\u0435\u0442\u0438\u043B\u0441\u0430\u043B\u0438\u0446\u0438\u043B\
+    \u043E\u0432\u0430\u044F \u043A\u0438\u0441\u043B\u043E\u0442\u0430"
+- common_names: ["\u0432\u0438\u0442\u0430\u043C\u0438\u043D B1"]
+  formula: HC12H17ON4SCl2
+  name: "\u0442\u0438\u0430\u043C\u0438\u043D\u0430 \u0433\u0438\u0434\u0440\u043E\
+    \u0445\u043B\u043E\u0440\u0438\u0434"
+- common_names: ["\u0445\u043B\u043E\u0440\u043E\u0432\u043E\u0434\u043E\u0440\u043E\
+      \u0434"]
+  formula: HCl
+  name: "\u0441\u043E\u043B\u044F\u043D\u0430\u044F \u043A\u0438\u0441\u043B\u043E\
+    \u0442\u0430"
+- common_names: []
+  formula: HClO
+  name: "\u0445\u043B\u043E\u0440\u043D\u043E\u0432\u0430\u0442\u0438\u0441\u0442\u0430\
+    \u044F \u043A\u0438\u0441\u043B\u043E\u0442\u0430"
+- common_names: []
+  formula: HClO2
+  name: "\u0445\u043B\u043E\u0440\u0438\u0441\u0442\u0430\u044F \u043A\u0438\u0441\
+    \u043B\u043E\u0442\u0430"
+- common_names: []
+  formula: HClO3
+  name: "\u0445\u043B\u043E\u0440\u043D\u043E\u0432\u0430\u0442\u0430\u044F \u043A\
+    \u0438\u0441\u043B\u043E\u0442\u0430"
+- common_names: []
+  formula: HClO4
+  name: "\u0445\u043B\u043E\u0440\u043D\u0430\u044F \u043A\u0438\u0441\u043B\u043E\
+    \u0442\u0430"
+- common_names: []
+  formula: HDO
+  name: "\u043F\u043E\u043B\u0443\u0442\u044F\u0436\u0451\u043B\u0430\u044F \u0432\
+    \u043E\u0434\u0430"
+- common_names: ["\u0444\u0442\u043E\u0440\u043E\u0432\u043E\u0434\u043E\u0440\u043E\
+      \u0434"]
+  formula: HF
+  name: "\u043F\u043B\u0430\u0432\u0438\u043A\u043E\u0432\u0430\u044F \u043A\u0438\
+    \u0441\u043B\u043E\u0442\u0430"
+- common_names: []
+  formula: HI
+  name: "\u0438\u043E\u0434\u043E\u0432\u043E\u0434\u043E\u0440\u043E\u0434"
+- common_names: []
+  formula: HIO3
+  name: "\u0438\u043E\u0434\u043D\u043E\u0432\u0430\u0442\u0430\u044F \u043A\u0438\
+    \u0441\u043B\u043E\u0442\u0430"
+- common_names: []
+  formula: HNO2
+  name: "\u0430\u0437\u043E\u0442\u0438\u0441\u0442\u0430\u044F \u043A\u0438\u0441\
+    \u043B\u043E\u0442\u0430"
+- common_names: []
+  formula: HNO3
+  name: "\u0430\u0437\u043E\u0442\u043D\u0430\u044F \u043A\u0438\u0441\u043B\u043E\
+    \u0442\u0430"
+- common_names: []
+  formula: HN3
+  name: "\u0430\u0437\u043E\u0442\u0438\u0441\u0442\u043E\u0432\u043E\u0434\u043E\u0440\
+    \u043E\u0434\u043D\u0430\u044F \u043A\u0438\u0441\u043B\u043E\u0442\u0430"
+- common_names: []
+  formula: HOF
+  name: "\u0444\u0442\u043E\u0440\u043D\u043E\u0432\u0430\u0442\u0438\u0441\u0442\u0430\
+    \u044F \u043A\u0438\u0441\u043B\u043E\u0442\u0430"
+- common_names: []
+  formula: HOOCCOOH
+  name: "\u0449\u0430\u0432\u0435\u043B\u0435\u0432\u0430\u044F \u043A\u0438\u0441\
+    \u043B\u043E\u0442\u0430"
+- common_names: []
+  formula: "HPO42\u2212"
+  name: "\u0433\u0438\u0434\u0440\u043E\u0444\u043E\u0441\u0444\u0430\u0442"
+- common_names: []
+  formula: "HSO3\u2212"
+  name: "\u0433\u0438\u0434\u0440\u043E\u0441\u0443\u043B\u044C\u0444\u0438\u0442"
+- common_names: []
+  formula: "HSO4\u2212"
+  name: "\u0433\u0438\u0434\u0440\u043E\u0441\u0443\u043B\u044C\u0444\u0430\u0442"
+- common_names: []
+  formula: HTO
+  name: "\u0447\u0430\u0441\u0442\u0438\u0447\u043D\u043E \u0442\u0440\u0438\u0442\
+    \u0438\u0440\u043E\u0432\u0430\u043D\u043D\u0430\u044F \u0432\u043E\u0434\u0430"
+- common_names: []
+  formula: H2
+  name: "\u0432\u043E\u0434\u043E\u0440\u043E\u0434"
+- common_names: []
+  formula: H2C(CH)CN
+  name: "\u0430\u043A\u0440\u0438\u043B\u043E\u043D\u0438\u0442\u0440\u0438\u043B"
+- common_names: []
+  formula: H2CO
+  name: "\u0444\u043E\u0440\u043C\u0430\u043B\u044C\u0434\u0435\u0433\u0438\u0434"
+- common_names: []
+  formula: H2CO3
+  name: "\u0443\u0433\u043E\u043B\u044C\u043D\u0430\u044F \u043A\u0438\u0441\u043B\
+    \u043E\u0442\u0430"
+- common_names: []
+  formula: H2CSO
+  name: "\u0441\u0443\u043B\u044C\u0444\u0438\u043D"
+- common_names: []
+  formula: H2C4H4O6
+  name: "\u0432\u0438\u043D\u043D\u0430\u044F \u043A\u0438\u0441\u043B\u043E\u0442\
+    \u0430"
+- common_names: [H2Ph]
+  formula: H2C8H4O4
+  name: "\u0444\u0442\u0430\u043B\u0435\u0432\u0430\u044F \u043A\u0438\u0441\u043B\
+    \u043E\u0442\u0430"
+- common_names: []
+  formula: H2CrO4
+  name: "\u0445\u0440\u043E\u043C\u043E\u0432\u0430\u044F \u043A\u0438\u0441\u043B\
+    \u043E\u0442\u0430"
+- common_names: []
+  formula: H2NCH2COOH
+  name: "\u0433\u043B\u0438\u0446\u0438\u043D"
+- common_names: []
+  formula: H2NNH2
+  name: "\u0433\u0438\u0434\u0440\u0430\u0437\u0438\u043D"
+- common_names: []
+  formula: H2O
+  name: "\u0432\u043E\u0434\u0430"
+- common_names: []
+  formula: H2O2
+  name: "\u043F\u0435\u0440\u0435\u043A\u0438\u0441\u044C \u0432\u043E\u0434\u043E\
+    \u0440\u043E\u0434\u0430"
+- common_names: []
+  formula: "H2PO4\u2212"
+  name: "\u0434\u0438\u0433\u0438\u0434\u0440\u043E\u0444\u043E\u0441\u0444\u0430\u0442"
+- common_names: []
+  formula: H2S
+  name: "\u0441\u0435\u0440\u043E\u0432\u043E\u0434\u043E\u0440\u043E\u0434"
+- common_names: []
+  formula: H2SO3
+  name: "\u0441\u0435\u0440\u043D\u0438\u0441\u0442\u0430\u044F \u043A\u0438\u0441\
+    \u043B\u043E\u0442\u0430"
+- common_names: []
+  formula: H2SO4
+  name: "\u0441\u0435\u0440\u043D\u0430\u044F \u043A\u0438\u0441\u043B\u043E\u0442\
+    \u0430"
+- common_names: []
+  formula: H2S2O7
+  name: "\u0434\u0438\u0441\u0435\u0440\u043D\u0430\u044F \u043A\u0438\u0441\u043B\
+    \u043E\u0442\u0430"
+- common_names: []
+  formula: H2S2O8
+  name: "\u043F\u0435\u0440\u043E\u043A\u0441\u043E\u0434\u0438\u0441\u0435\u0440\u043D\
+    \u0430\u044F \u043A\u0438\u0441\u043B\u043E\u0442\u0430"
+- common_names: []
+  formula: H2SeO4
+  name: "\u0441\u0435\u043B\u0435\u043D\u043E\u0432\u0430\u044F \u043A\u0438\u0441\
+    \u043B\u043E\u0442\u0430"
+- common_names: []
+  formula: H2SiO3
+  name: "\u043A\u0440\u0435\u043C\u043D\u0438\u0435\u0432\u0430\u044F \u043A\u0438\
+    \u0441\u043B\u043E\u0442\u0430"
+- common_names: []
+  formula: H2TeO3
+  name: "\u0442\u0435\u043B\u043B\u0443\u0440\u0438\u0441\u0442\u0430\u044F \u043A\
+    \u0438\u0441\u043B\u043E\u0442\u0430"
+- common_names: []
+  formula: H2TiO3
+  name: "\u0442\u0438\u0442\u0430\u043D\u043E\u0432\u0430\u044F \u043A\u0438\u0441\
+    \u043B\u043E\u0442\u0430"
+- common_names: []
+  formula: H3AsO4
+  name: "\u043C\u044B\u0448\u044C\u044F\u043A\u043E\u0432\u0430\u044F \u043A\u0438\
+    \u0441\u043B\u043E\u0442\u0430"
+- common_names: []
+  formula: H3CCH2CH3
+  name: "\u043F\u0440\u043E\u043F\u0430\u043D"
+- common_names: []
+  formula: "H3N+CH2COO\u2212"
+  name: "\u0446\u0432\u0438\u0442\u0442\u0435\u0440-\u0438\u043E\u043D"
+- common_names: []
+  formula: H3O+
+  name: "\u0433\u0438\u0434\u0440\u043E\u043A\u0441\u043E\u043D\u0438\u0439"
+- common_names: []
+  formula: H3PO4
+  name: "\u0444\u043E\u0441\u0444\u043E\u0440\u043D\u0430\u044F \u043A\u0438\u0441\
+    \u043B\u043E\u0442\u0430"
+- common_names: []
+  formula: H4XeO6
+  name: "\u043F\u0435\u0440\u043A\u0441\u0435\u043D\u043E\u043D\u043E\u0432\u0430\u044F\
+    \ \u043A\u0438\u0441\u043B\u043E\u0442\u0430"
+- common_names: []
+  formula: H6TeO6
+  name: "\u0442\u0435\u043B\u043B\u0443\u0440\u043E\u0432\u0430\u044F \u043A\u0438\
+    \u0441\u043B\u043E\u0442\u0430"
+- common_names: []
+  formula: HfBr4
+  name: "\u0431\u0440\u043E\u043C\u0438\u0434 \u0433\u0430\u0444\u043D\u0438\u044F\
+    (IV)"
+- common_names: []
+  formula: HfF4
+  name: "\u0444\u0442\u043E\u0440\u0438\u0434 \u0433\u0430\u0444\u043D\u0438\u044F\
+    (IV)"
+- common_names: []
+  formula: "HfOCl2 \xB7 8H2O"
+  name: "\u043E\u043A\u0442\u0430\u0433\u0438\u0434\u0440\u0430\u0442 \u043E\u043A\
+    \u0441\u043E\u0445\u043B\u043E\u0440\u0438\u0434\u0430 \u0433\u0430\u0444\u043D\
+    \u0438\u044F(IV)"
+- common_names: []
+  formula: HfOH(C2H3O2)3
+  name: "\u043E\u0441\u043D\u043E\u0432\u043D\u043E\u0439 \u0430\u0446\u0435\u0442\
+    \u0430\u0442 \u0433\u0430\u0444\u043D\u0438\u044F(IV)"
+- common_names: []
+  formula: Hf(SO4)2
+  name: "\u0441\u0443\u043B\u044C\u0444\u0430\u0442 \u0433\u0430\u0444\u043D\u0438\
+    \u044F(IV)"
+- common_names: []
+  formula: "Hg(BrO3)2 \xB7 2H2O"
+  name: "\u0434\u0438\u0433\u0438\u0434\u0440\u0430\u0442 \u0431\u0440\u043E\u043C\
+    \u0430\u0442\u0430 \u0440\u0442\u0443\u0442\u0438(II)"
+- common_names: []
+  formula: HgBr2
+  name: "\u0431\u0440\u043E\u043C\u0438\u0434 \u0440\u0442\u0443\u0442\u0438(II)"
+- common_names: []
+  formula: Hg(C2H3O2)2
+  name: "\u0430\u0446\u0435\u0442\u0430\u0442 \u0440\u0442\u0443\u0442\u0438(II)"
+- common_names: []
+  formula: "Hg(C7H5O2)2 \xB7 H2O"
+  name: "\u043C\u043E\u043D\u043E\u0433\u0438\u0434\u0440\u0430\u0442 \u0431\u0435\
+    \u043D\u0437\u043E\u0430\u0442\u0430 \u0440\u0442\u0443\u0442\u0438(II)"
+- common_names: []
+  formula: "HgClO4 \xB7 4H2O"
+  name: "\u0442\u0435\u0442\u0440\u0430\u0433\u0438\u0434\u0440\u0430\u0442 \u043F\
+    \u0435\u0440\u0445\u043B\u043E\u0440\u0430\u0442\u0430 \u0440\u0442\u0443\u0442\
+    \u0438(I)"
+- common_names: []
+  formula: "Hg(ClO4)2 \xB7 3H2O"
+  name: "\u0442\u0440\u0438\u0433\u0438\u0434\u0440\u0430\u0442 \u043F\u0435\u0440\
+    \u0445\u043B\u043E\u0440\u0430\u0442\u0430 \u0440\u0442\u0443\u0442\u0438(II)"
+- common_names: []
+  formula: HgCl2
+  name: "\u0445\u043B\u043E\u0440\u0438\u0434 \u0440\u0442\u0443\u0442\u0438(II)"
+- common_names: []
+  formula: Hg(IO3)2
+  name: "\u0438\u043E\u0434\u0430\u0442 \u0440\u0442\u0443\u0442\u0438(II)"
+- common_names: []
+  formula: HgI2
+  name: "\u0438\u043E\u0434\u0438\u0434 \u0440\u0442\u0443\u0442\u0438(II)"
+- common_names: []
+  formula: "Hg(NO3)2 \xB7 H2O"
+  name: "\u043C\u043E\u043D\u043E\u0433\u0438\u0434\u0440\u0430\u0442 \u043D\u0438\
+    \u0442\u0440\u0430\u0442\u0430 \u0440\u0442\u0443\u0442\u0438(II)"
+- common_names: []
+  formula: HgO
+  name: "\u043E\u043A\u0441\u0438\u0434 \u0440\u0442\u0443\u0442\u0438(II)"
+- common_names: ["\u043A\u0438\u043D\u043E\u0432\u0430\u0440\u044C"]
+  formula: HgS
+  name: "\u0441\u0443\u043B\u044C\u0444\u0438\u0434 \u0440\u0442\u0443\u0442\u0438\
+    (II)"
+- common_names: []
+  formula: Hg(SCN)2
+  name: "\u0442\u0438\u043E\u0446\u0438\u0430\u043D\u0430\u0442 \u0440\u0442\u0443\
+    \u0442\u0438(II)"
+- common_names: []
+  formula: HgSe
+  name: "\u0441\u0435\u043B\u0435\u043D\u0438\u0434 \u0440\u0442\u0443\u0442\u0438\
+    (II)"
+- common_names: []
+  formula: HgSeO3
+  name: "\u0441\u0435\u043B\u0435\u043D\u0438\u0442 \u0440\u0442\u0443\u0442\u0438\
+    (II)"
+- common_names: []
+  formula: HgTe
+  name: "\u0442\u0435\u043B\u043B\u0443\u0440\u0438\u0434 \u0440\u0442\u0443\u0442\
+    \u0438(II)"
+- common_names: []
+  formula: HgTeO3
+  name: "\u0442\u0435\u043B\u043B\u0443\u0440\u0438\u0442 \u0440\u0442\u0443\u0442\
+    \u0438(II)"
+- common_names: []
+  formula: HgWO4
+  name: "\u0432\u043E\u043B\u044C\u0444\u0440\u0430\u043C\u0430\u0442 \u0440\u0442\
+    \u0443\u0442\u0438(II)"
+- common_names: []
+  formula: Hg2Br2
+  name: "\u0431\u0440\u043E\u043C\u0438\u0434 \u0440\u0442\u0443\u0442\u0438(I)"
+- common_names: []
+  formula: Hg2Cl2
+  name: "\u0445\u043B\u043E\u0440\u0438\u0434 \u0440\u0442\u0443\u0442\u0438(I)"
+- common_names: []
+  formula: Hg2I2
+  name: "\u0438\u043E\u0434\u0438\u0434 \u0440\u0442\u0443\u0442\u0438(I)"
+- common_names: []
+  formula: Hg3(AsO4)2
+  name: "\u043E\u0440\u0442\u043E\u0430\u0440\u0441\u0435\u043D\u0430\u0442 \u0440\
+    \u0442\u0443\u0442\u0438(II)"
+- common_names: []
+  formula: IBr
+  name: "\u0431\u0440\u043E\u043C\u0438\u0434 \u0438\u043E\u0434\u0430(I)"
+- common_names: []
+  formula: IBr3
+  name: "\u0431\u0440\u043E\u043C\u0438\u0434 \u0438\u043E\u0434\u0430(III)"
+- common_names: []
+  formula: ICl
+  name: "\u0445\u043B\u043E\u0440\u0438\u0434 \u0438\u043E\u0434\u0430(I)"
+- common_names: []
+  formula: ICl3
+  name: "\u0445\u043B\u043E\u0440\u0438\u0434 \u0438\u043E\u0434\u0430(III)"
+- common_names: []
+  formula: "IO3\u2212"
+  name: "\u0438\u043E\u0434\u0430\u0442"
+- common_names: []
+  formula: I2
+  name: "\u0418\u043E\u0434"
+- common_names: []
+  formula: "I3\u2212"
+  name: "\u0442\u0440\u0438\u0438\u043E\u0434\u0438\u0434"
+- common_names: []
+  formula: InAs
+  name: "\u0430\u0440\u0441\u0435\u043D\u0438\u0434 \u0438\u043D\u0434\u0438\u044F"
+- common_names: []
+  formula: InBr
+  name: "\u0431\u0440\u043E\u043C\u0438\u0434 \u0438\u043D\u0434\u0438\u044F(I)"
+- common_names: []
+  formula: InBrI2
+  name: "\u0431\u0440\u043E\u043C\u0434\u0438\u0438\u043E\u0434\u0438\u0434 \u0438\
+    \u043D\u0434\u0438\u044F(III)"
+- common_names: []
+  formula: InBr2I
+  name: "\u0434\u0438\u0431\u0440\u043E\u043C\u0438\u043E\u0434\u0438\u0434 \u0438\
+    \u043D\u0434\u0438\u044F(III)"
+- common_names: []
+  formula: InBr3
+  name: "\u0431\u0440\u043E\u043C\u0438\u0434 \u0438\u043D\u0434\u0438\u044F(III)"
+- common_names: []
+  formula: InCl
+  name: "\u0445\u043B\u043E\u0440\u0438\u0434 \u0438\u043D\u0434\u0438\u044F(I)"
+- common_names: []
+  formula: InCl2
+  name: "\u0445\u043B\u043E\u0440\u0438\u0434 \u0438\u043D\u0434\u0438\u044F(II)"
+- common_names: []
+  formula: InCl3
+  name: "\u0445\u043B\u043E\u0440\u0438\u0434 \u0438\u043D\u0434\u0438\u044F(III)"
+- common_names: []
+  formula: "InCl3\xB74H2O"
+  name: "\u0442\u0435\u0442\u0440\u0430\u0433\u0438\u0434\u0440\u0430\u0442 \u0445\
+    \u043B\u043E\u0440\u0438\u0434\u0430 \u0438\u043D\u0434\u0438\u044F(III)"
+- common_names: []
+  formula: InI
+  name: "\u0438\u043E\u0434\u0438\u0434 \u0438\u043D\u0434\u0438\u044F(I)"
+- common_names: []
+  formula: In(IO3)3
+  name: "\u0438\u043E\u0434\u0438\u0434 \u0438\u043D\u0434\u0438\u044F(III)"
+- common_names: []
+  formula: InI2
+  name: "\u0438\u043E\u0434\u0438\u0434 \u0438\u043D\u0434\u0438\u044F(II)"
+- common_names: []
+  formula: InI3
+  name: "\u0438\u043E\u0434\u0438\u0434 \u0438\u043D\u0434\u0438\u044F(III)"
+- common_names: []
+  formula: "In(NO3)3\xB74,5H2O"
+  name: "\u0442\u0435\u0442\u0440\u0430\u0433\u0435\u043C\u0438\u0433\u0438\u0434\u0440\
+    \u0430\u0442 \u043D\u0438\u0442\u0440\u0430\u0442\u0430 \u0438\u043D\u0434\u0438\
+    \u044F(III)"
+- common_names: []
+  formula: In(OH)3
+  name: "\u0433\u0438\u0434\u0440\u043E\u043A\u0441\u0438\u0434 \u0438\u043D\u0434\
+    \u0438\u044F(III)"
+- common_names: []
+  formula: InP
+  name: "\u0444\u043E\u0441\u0444\u0438\u0434 \u0438\u043D\u0434\u0438\u044F"
+- common_names: []
+  formula: InPO4
+  name: "\u0444\u043E\u0441\u0444\u0430\u0442 \u0438\u043D\u0434\u0438\u044F(III)"
+- common_names: []
+  formula: InS
+  name: "\u0441\u0443\u043B\u044C\u0444\u0438\u0434 \u0438\u043D\u0434\u0438\u044F\
+    (II)"
+- common_names: []
+  formula: InSb
+  name: "\u0430\u043D\u0442\u0438\u043C\u043E\u043D\u0438\u0434 \u0438\u043D\u0434\
+    \u0438\u044F"
+- common_names: []
+  formula: InTe
+  name: "\u0442\u0435\u043B\u043B\u0443\u0440\u0438\u0434 \u0438\u043D\u0434\u0438\
+    \u044F(II)"
+- common_names: []
+  formula: In2O3
+  name: "\u043E\u043A\u0441\u0438\u0434 \u0438\u043D\u0434\u0438\u044F(III)"
+- common_names: []
+  formula: "In2(SO4)3\xB7H2O"
+  name: "\u043C\u043E\u043D\u043E\u0433\u0438\u0434\u0440\u0430\u0442 \u0441\u0443\
+    \u043B\u044C\u0444\u0430\u0442\u0430 \u0438\u043D\u0434\u0438\u044F(III)"
+- common_names: []
+  formula: In2S3
+  name: "\u0441\u0443\u043B\u044C\u0444\u0438\u0434 \u0438\u043D\u0434\u0438\u044F\
+    (III)"
+- common_names: []
+  formula: In2Se3
+  name: "\u0441\u0435\u043B\u0435\u043D\u0438\u0434 \u0438\u043D\u0434\u0438\u044F\
+    (III)"
+- common_names: []
+  formula: In2Te3
+  name: "\u0442\u0435\u043B\u043B\u0443\u0440\u0438\u0434 \u0438\u043D\u0434\u0438\
+    \u044F(III)"
+- common_names: []
+  formula: KCNS
+  name: "\u0442\u0438\u043E\u0446\u0438\u0430\u043D\u0430\u0442 \u043A\u0430\u043B\
+    \u0438\u044F"
+- common_names: []
+  formula: KCl
+  name: "\u0445\u043B\u043E\u0440\u0438\u0434 \u043A\u0430\u043B\u0438\u044F"
+- common_names: []
+  formula: KCl
+  name: "\u0445\u043B\u043E\u0440\u0438\u0434 \u043A\u0430\u043B\u0438\u044F"
+- common_names: []
+  formula: KClO3
+  name: "\u0431\u0435\u0440\u0442\u043E\u043B\u0435\u0442\u043E\u0432\u0430 \u0441\
+    \u043E\u043B\u044C (\u0445\u043B\u043E\u0440\u0430\u0442 \u043A\u0430\u043B\u0438\
+    \u044F)"
+- common_names: []
+  formula: KClO4
+  name: "(\u043F\u0435\u0440\u0445\u043B\u043E\u0440\u0430\u0442 \u043A\u0430\u043B\
+    \u0438\u044F)"
+- common_names: []
+  formula: "\u041A3\u0420\u041E4"
+  name: "\u043E\u0440\u0442\u043E\u0444\u043E\u0441\u0444\u0430\u0442 \u043A\u0430\
+    \u043B\u0438\u044F"
+- common_names: []
+  formula: KCN
+  name: "\u0446\u0438\u0430\u043D\u0438\u0434 \u043A\u0430\u043B\u0438\u044F"
+- common_names: []
+  formula: KF
+  name: "\u0444\u0442\u043E\u0440\u0438\u0434 \u043A\u0430\u043B\u0438\u044F"
+- common_names: []
+  formula: LaCl3
+  name: "\u0425\u043B\u043E\u0440\u0438\u0434 \u043B\u0430\u043D\u0442\u0430\u043D\
+    \u0430 (III)"
+- common_names: []
+  formula: LaPO4
+  name: "\u0424\u043E\u0441\u0444\u0430\u0442 \u043B\u0430\u043D\u0442\u0430\u043D\
+    \u0430 (III)"
+- common_names: []
+  formula: Li(AlSi2O6)
+  name: "\u041A\u0435\u0430\u0442\u0438\u0442"
+- common_names: []
+  formula: LiBr
+  name: "\u0411\u0440\u043E\u043C\u0438\u0434 \u043B\u0438\u0442\u0438\u044F"
+- common_names: []
+  formula: LiBrO3
+  name: "\u0411\u0440\u043E\u043C\u0430\u0442 \u043B\u0438\u0442\u0438\u044F"
+- common_names: []
+  formula: LiCN
+  name: "\u0426\u0438\u0430\u043D\u0438\u0434 \u043B\u0438\u0442\u0438\u044F"
+- common_names: []
+  formula: LiC2H5O
+  name: "\u042D\u0442\u0438\u043B\u0430\u0442 \u043B\u0438\u0442\u0438\u044F"
+- common_names: []
+  formula: LiF
+  name: "\u0444\u0442\u043E\u0440\u0438\u0434 \u043B\u0438\u0442\u0438\u044F"
+- common_names: []
+  formula: LiHSO4
+  name: "\u0413\u0438\u0434\u0440\u043E\u0441\u0443\u043B\u044C\u0444\u0430\u0442\
+    \ \u043B\u0438\u0442\u0438\u044F"
+- common_names: []
+  formula: LiIO3
+  name: "\u0418\u043E\u0434\u0430\u0442 \u043B\u0438\u0442\u0438\u044F"
+- common_names: []
+  formula: LiNO3
+  name: "\u041D\u0438\u0442\u0440\u0430\u0442 \u043B\u0438\u0442\u0438\u044F"
+- common_names: []
+  formula: LiTaO3
+  name: "\u0422\u0430\u043D\u0442\u0430\u043B\u0430\u0442 \u043B\u0438\u0442\u0438\
+    \u044F"
+- common_names: []
+  formula: Li2CrO4
+  name: "\u0425\u0440\u043E\u043C\u0430\u0442 \u043B\u0438\u0442\u0438\u044F"
+- common_names: []
+  formula: Li2Cr2O7
+  name: "\u0414\u0438\u0445\u0440\u043E\u043C\u0430\u0442 \u043B\u0438\u0442\u0438\
+    \u044F"
+- common_names: []
+  formula: Li2MoO4
+  name: "\u041E\u0440\u0442\u043E\u043C\u043E\u043B\u0438\u0431\u0434\u0430\u0442\
+    \ \u043B\u0438\u0442\u0438\u044F"
+- common_names: []
+  formula: Li2NbO3
+  name: "\u041C\u0435\u0442\u0430\u043D\u0438\u043E\u0431\u0430\u0442 \u043B\u0438\
+    \u0442\u0438\u044F"
+- common_names: []
+  formula: Li2SO4
+  name: "\u0421\u0443\u043B\u044C\u0444\u0430\u0442 \u043B\u0438\u0442\u0438\u044F"
+- common_names: []
+  formula: Li2SeO3
+  name: "\u0421\u0435\u043B\u0435\u043D\u0438\u0442 \u043B\u0438\u0442\u0438\u044F"
+- common_names: []
+  formula: Li2SeO4
+  name: "\u0421\u0435\u043B\u0435\u043D\u0430\u0442 \u043B\u0438\u0442\u0438\u044F"
+- common_names: []
+  formula: Li2SiO3
+  name: "\u041C\u0435\u0442\u0430\u0441\u0438\u043B\u0438\u043A\u0430\u0442 \u043B\
+    \u0438\u0442\u0438\u044F"
+- common_names: []
+  formula: Li2SiO4
+  name: "\u041E\u0440\u0442\u043E\u0441\u0438\u043B\u0438\u043A\u0430\u0442 \u043B\
+    \u0438\u0442\u0438\u044F"
+- common_names: []
+  formula: Li2TeO3
+  name: "\u0422\u0435\u043B\u043B\u0443\u0440\u0438\u0442 \u043B\u0438\u0442\u0438\
+    \u044F"
+- common_names: []
+  formula: Li2TeO4
+  name: "\u0422\u0435\u043B\u043B\u0443\u0440\u0430\u0442 \u043B\u0438\u0442\u0438\
+    \u044F"
+- common_names: []
+  formula: Li2TiO3
+  name: "\u041C\u0435\u0442\u0430\u0442\u0438\u0442\u0430\u043D\u0430\u0442 \u043B\
+    \u0438\u0442\u0438\u044F"
+- common_names: []
+  formula: Li2WO4
+  name: "\u041E\u0440\u0442\u043E\u0432\u043E\u043B\u044C\u0444\u0440\u0430\u043C\u0430\
+    \u0442 \u043B\u0438\u0442\u0438\u044F"
+- common_names: []
+  formula: Li2ZrO3
+  name: "\u041C\u0435\u0442\u0430\u0446\u0438\u0440\u043A\u043E\u043D\u0430\u0442\
+    \ \u043B\u0438\u0442\u0438\u044F"
+- common_names: []
+  formula: Mg(AlO2)2
+  name: "\u0410\u043B\u044E\u043C\u0438\u043D\u0430\u0442 \u043C\u0430\u0433\u043D\
+    \u0438\u044F"
+- common_names: []
+  formula: MgCO3
+  name: "\u041A\u0430\u0440\u0431\u043E\u043D\u0430\u0442 \u043C\u0430\u0433\u043D\
+    \u0438\u044F"
+- common_names: []
+  formula: MgC2O4
+  name: "\u041E\u043A\u0441\u0430\u043B\u0430\u0442 \u043C\u0430\u0433\u043D\u0438\
+    \u044F"
+- common_names: []
+  formula: Mg(ClO3)2
+  name: "\u0425\u043B\u043E\u0440\u0430\u0442 \u043C\u0430\u0433\u043D\u0438\u044F"
+- common_names: []
+  formula: MgCl2
+  name: "\u0425\u043B\u043E\u0440\u0438\u0434 \u043C\u0430\u0433\u043D\u0438\u044F"
+- common_names: []
+  formula: MgCrO4
+  name: "\u0425\u0440\u043E\u043C\u0430\u0442 \u043C\u0430\u0433\u043D\u0438\u044F"
+- common_names: []
+  formula: MgF2
+  name: "\u0424\u0442\u043E\u0440\u0438\u0434 \u043C\u0430\u0433\u043D\u0438\u044F"
+- common_names: []
+  formula: MgI2
+  name: "\u0418\u043E\u0434\u0438\u0434 \u043C\u0430\u0433\u043D\u0438\u044F"
+- common_names: []
+  formula: MgMoO4
+  name: "\u041C\u043E\u043B\u0438\u0431\u0434\u0430\u0442 \u043C\u0430\u0433\u043D\
+    \u0438\u044F"
+- common_names: []
+  formula: Mg(NO3)2
+  name: "\u041D\u0438\u0442\u0440\u0430\u0442 \u043C\u0430\u0433\u043D\u0438\u044F"
+- common_names: []
+  formula: MgO
+  name: "\u043E\u043A\u0441\u0438\u0434 \u043C\u0430\u0433\u043D\u0438\u044F"
+- common_names: []
+  formula: Mg(OH)2
+  name: "\u0413\u0438\u0434\u0440\u043E\u043A\u0441\u0438\u0434 \u043C\u0430\u0433\
+    \u043D\u0438\u044F"
+- common_names: []
+  formula: MgS
+  name: "\u0421\u0443\u043B\u044C\u0444\u0438\u0434 \u043C\u0430\u0433\u043D\u0438\
+    \u044F"
+- common_names: []
+  formula: MgSO4
+  name: "\u0421\u0443\u043B\u044C\u0444\u0430\u0442 \u043C\u0430\u0433\u043D\u0438\
+    \u044F"
+- common_names: []
+  formula: MgSe
+  name: "\u0421\u0435\u043B\u0435\u043D\u0438\u0434 \u043C\u0430\u0433\u043D\u0438\
+    \u044F"
+- common_names: []
+  formula: MgSeO3
+  name: "\u0421\u0435\u043B\u0435\u043D\u0438\u0442 \u043C\u0430\u0433\u043D\u0438\
+    \u044F"
+- common_names: []
+  formula: MgSeO4
+  name: "\u0421\u0435\u043B\u0435\u043D\u0430\u0442 \u043C\u0430\u0433\u043D\u0438\
+    \u044F"
+- common_names: []
+  formula: MgSiO3
+  name: "\u041C\u0435\u0442\u0430\u0441\u0438\u043B\u0438\u043A\u0430\u0442 \u043C\
+    \u0430\u0433\u043D\u0438\u044F"
+- common_names: []
+  formula: MgTiO3
+  name: "\u041C\u0435\u0442\u0430\u0442\u0438\u0442\u0430\u043D\u0430\u0442 \u043C\
+    \u0430\u0433\u043D\u0438\u044F"
+- common_names: []
+  formula: Mg(VO3)2
+  name: "\u041C\u0435\u0442\u0430\u0432\u0430\u043D\u0430\u0434\u0430\u0442 \u043C\
+    \u0430\u0433\u043D\u0438\u044F"
+- common_names: []
+  formula: MgWO4
+  name: "\u0412\u043E\u043B\u044C\u0444\u0440\u0430\u043C\u0430\u0442 \u043C\u0430\
+    \u0433\u043D\u0438\u044F"
+- common_names: []
+  formula: Mg2P2O7
+  name: "\u041F\u0438\u0440\u043E\u0444\u043E\u0441\u0444\u0430\u0442 \u043C\u0430\
+    \u0433\u043D\u0438\u044F"
+- common_names: []
+  formula: Mg2SiO4
+  name: "\u041E\u0440\u0442\u043E\u0441\u0438\u043B\u0438\u043A\u0430\u0442 \u043C\
+    \u0430\u0433\u043D\u0438\u044F"
+- common_names: []
+  formula: Mg3As2
+  name: "\u0410\u0440\u0441\u0435\u043D\u0438\u0434 \u043C\u0430\u0433\u043D\u0438\
+    \u044F"
+- common_names: []
+  formula: Mg3Bi2
+  name: "\u0412\u0438\u0441\u043C\u0443\u0442\u0438\u0434 \u043C\u0430\u0433\u043D\
+    \u0438\u044F"
+- common_names: []
+  formula: Mg3P2
+  name: "\u0424\u043E\u0441\u0444\u0438\u0434 \u043C\u0430\u0433\u043D\u0438\u044F"
+- common_names: []
+  formula: Mg3(VO4)2
+  name: "\u041E\u0440\u0442\u043E\u0432\u0430\u043D\u0430\u0434\u0430\u0442 \u043C\
+    \u0430\u0433\u043D\u0438\u044F"
+- common_names: []
+  formula: MnAs
+  name: "\u0410\u0440\u0441\u0435\u043D\u0438\u0434 \u043C\u0430\u0440\u0433\u0430\
+    \u043D\u0446\u0430(III)"
+- common_names: []
+  formula: MnBi
+  name: "\u0412\u0438\u0441\u043C\u0443\u0442\u0438\u0434 \u043C\u0430\u0440\u0433\
+    \u0430\u043D\u0446\u0430(III)"
+- common_names: []
+  formula: MnBr2
+  name: "\u0411\u0440\u043E\u043C\u0438\u0434 \u043C\u0430\u0440\u0433\u0430\u043D\
+    \u0446\u0430(II)"
+- common_names: []
+  formula: Mn(CHO2)2
+  name: "\u0424\u043E\u0440\u043C\u0430\u0442 \u043C\u0430\u0440\u0433\u0430\u043D\
+    \u0446\u0430(II)"
+- common_names: []
+  formula: MnCO3
+  name: "\u041A\u0430\u0440\u0431\u043E\u043D\u0430\u0442 \u043C\u0430\u0440\u0433\
+    \u0430\u043D\u0446\u0430(II)"
+- common_names: []
+  formula: MnCl2
+  name: "\u0445\u043B\u043E\u0440\u0438\u0434 \u043C\u0430\u0440\u0433\u0430\u043D\
+    \u0446\u0430(II)"
+- common_names: []
+  formula: MnF2
+  name: "\u0424\u0442\u043E\u0440\u0438\u0434 \u043C\u0430\u0440\u0433\u0430\u043D\
+    \u0446\u0430(II)"
+- common_names: []
+  formula: MnI2
+  name: "\u0418\u043E\u0434\u0438\u0434 \u043C\u0430\u0440\u0433\u0430\u043D\u0446\
+    \u0430(II)"
+- common_names: []
+  formula: MnMoO4
+  name: "\u041E\u0440\u0442\u043E\u043C\u043E\u043B\u0438\u0431\u0434\u0430\u0442\
+    \ \u043C\u0430\u0440\u0433\u0430\u043D\u0446\u0430(II)"
+- common_names: []
+  formula: Mn(NO3)2
+  name: "\u041D\u0438\u0442\u0440\u0430\u0442 \u043C\u0430\u0440\u0433\u0430\u043D\
+    \u0446\u0430(II)"
+- common_names: []
+  formula: MnO
+  name: "\u041E\u043A\u0441\u0438\u0434 \u043C\u0430\u0440\u0433\u0430\u043D\u0446\
+    \u0430(II)"
+- common_names: []
+  formula: Mn(OH)2
+  name: "\u0413\u0438\u0434\u0440\u043E\u043A\u0441\u0438\u0434 \u043C\u0430\u0440\
+    \u0433\u0430\u043D\u0446\u0430(II)"
+- common_names: []
+  formula: MnOOH
+  name: "\u041C\u0430\u043D\u0433\u0430\u043D\u0438\u0442"
+- common_names: []
+  formula: MnO2
+  name: "\u041E\u043A\u0441\u0438\u0434 \u043C\u0430\u0440\u0433\u0430\u043D\u0446\
+    \u0430(IV)"
+- common_names: []
+  formula: MnS
+  name: "\u0421\u0443\u043B\u044C\u0444\u0438\u0434 \u043C\u0430\u0440\u0433\u0430\
+    \u043D\u0446\u0430(II)"
+- common_names: []
+  formula: MnTe
+  name: "\u0422\u0435\u043B\u043B\u0443\u0440\u0438\u0434 \u043C\u0430\u0440\u0433\
+    \u0430\u043D\u0446\u0430(II)"
+- common_names: []
+  formula: MnZrO3
+  name: "\u041C\u0435\u0442\u0430\u0446\u0438\u0440\u043A\u043E\u043D\u0430\u0442\
+    \ \u043C\u0430\u0440\u0433\u0430\u043D\u0446\u0430(II)"
+- common_names: []
+  formula: Mn2O3
+  name: "\u041E\u043A\u0441\u0438\u0434 \u043C\u0430\u0440\u0433\u0430\u043D\u0446\
+    \u0430(III)"
+- common_names: []
+  formula: Mn3As2
+  name: "\u0410\u0440\u0441\u0435\u043D\u0438\u0434 \u043C\u0430\u0440\u0433\u0430\
+    \u043D\u0446\u0430(II)"
+- common_names: []
+  formula: Mn3P2
+  name: "\u0424\u043E\u0441\u0444\u0438\u0434 \u043C\u0430\u0440\u0433\u0430\u043D\
+    \u0446\u0430(II)"
+- common_names: []
+  formula: Mn3Sb2
+  name: "\u0410\u043D\u0442\u0438\u043C\u043E\u043D\u0438\u0434 \u043C\u0430\u0440\
+    \u0433\u0430\u043D\u0446\u0430(II)"
+- common_names: []
+  formula: MoBr2
+  name: "\u0411\u0440\u043E\u043C\u0438\u0434 \u043C\u043E\u043B\u0438\u0431\u0434\
+    \u0435\u043D\u0430(II)"
+- common_names: []
+  formula: MoBr3
+  name: "\u0411\u0440\u043E\u043C\u0438\u0434 \u043C\u043E\u043B\u0438\u0431\u0434\
+    \u0435\u043D\u0430(III)"
+- common_names: []
+  formula: MoCl2
+  name: "\u0425\u043B\u043E\u0440\u0438\u0434 \u043C\u043E\u043B\u0438\u0431\u0434\
+    \u0435\u043D\u0430(II)"
+- common_names: []
+  formula: MoCl3
+  name: "\u0425\u043B\u043E\u0440\u0438\u0434 \u043C\u043E\u043B\u0438\u0431\u0434\
+    \u0435\u043D\u0430(III)"
+- common_names: []
+  formula: MoCl5
+  name: "\u0425\u043B\u043E\u0440\u0438\u0434 \u043C\u043E\u043B\u0438\u0431\u0434\
+    \u0435\u043D\u0430(V)"
+- common_names: []
+  formula: MoO2
+  name: "\u041E\u043A\u0441\u0438\u0434 \u043C\u043E\u043B\u0438\u0431\u0434\u0435\
+    \u043D\u0430(IV)"
+- common_names: []
+  formula: MoS2
+  name: "\u0421\u0443\u043B\u044C\u0444\u0438\u0434 \u043C\u043E\u043B\u0438\u0431\
+    \u0434\u0435\u043D\u0430(IV)"
+- common_names: []
+  formula: HgBr
+  name: "\u0411\u0440\u043E\u043C\u0438\u0434 \u0440\u0442\u0443\u0442\u0438(I)"
+- common_names: []
+  formula: "NH2\u2212"
+  name: "\u0430\u043C\u0438\u0434 \u0438\u043E\u043D"
+- common_names: []
+  formula: NH2CH2CH2NH2
+  name: "\u044D\u0442\u0438\u043B\u0435\u043D\u0434\u0438\u0430\u043C\u0438\u043D"
+- common_names: []
+  formula: NH2CONH2
+  name: "\u043C\u043E\u0447\u0435\u0432\u0438\u043D\u0430"
+- common_names: []
+  formula: NH2C6H4SO3H
+  name: "\u0441\u0443\u043B\u044C\u0444\u0430\u043D\u0438\u043B\u043E\u0432\u0430\u044F\
+    \ \u043A\u0438\u0441\u043B\u043E\u0442\u0430"
+- common_names: []
+  formula: NH2OH
+  name: "\u0433\u0438\u0434\u0440\u043E\u043A\u0441\u0438\u043B\u0430\u043C\u0438\u043D"
+- common_names: []
+  formula: (NH2)2CO
+  name: "\u043C\u043E\u0447\u0435\u0432\u0438\u043D\u0430"
+- common_names: []
+  formula: NH3
+  name: "\u0430\u043C\u043C\u0438\u0430\u043A"
+- common_names: []
+  formula: NH4+
+  name: "\u0438\u043E\u043D \u0430\u043C\u043C\u043E\u043D\u0438\u044F"
+- common_names: []
+  formula: (NH4)3N
+  name: "\u043D\u0438\u0442\u0440\u0438\u0434 \u0430\u043C\u043C\u043E\u043D\u0438\
+    \u044F"
+- common_names: []
+  formula: NH4Br
+  name: "\u0431\u0440\u043E\u043C\u0438\u0434 \u0430\u043C\u043C\u043E\u043D\u0438\
+    \u044F"
+- common_names: []
+  formula: NH4CO2NH2
+  name: "\u043A\u0430\u0440\u0431\u0430\u043C\u0430\u0442 \u0430\u043C\u043C\u043E\
+    \u043D\u0438\u044F"
+- common_names: []
+  formula: NH4Cl
+  name: "\u0445\u043B\u043E\u0440\u0438\u0434 \u0430\u043C\u043C\u043E\u043D\u0438\
+    \u044F"
+- common_names: []
+  formula: NH4ClO4
+  name: "\u043F\u0435\u0440\u0445\u043B\u043E\u0440\u0430\u0442 \u0430\u043C\u043C\
+    \u043E\u043D\u0438\u044F"
+- common_names: []
+  formula: NH4HS
+  name: "\u0433\u0438\u0434\u0440\u043E\u0441\u0443\u043B\u044C\u0444\u0438\u0434\
+    \ \u0430\u043C\u043C\u043E\u043D\u0438\u044F"
+- common_names: []
+  formula: (NH4)H2AsO4
+  name: "\u0434\u0438\u0433\u0438\u0434\u0440\u043E\u0430\u0440\u0441\u0435\u043D\u0430\
+    \u0442 \u0430\u043C\u043C\u043E\u043D\u0438\u044F"
+- common_names: []
+  formula: NH4NO3
+  name: "\u043D\u0438\u0442\u0440\u0430\u0442 \u0430\u043C\u043C\u043E\u043D\u0438\
+    \u044F"
+- common_names: []
+  formula: NH4Ce(NO3)5
+  name: "\u043D\u0438\u0442\u0440\u0430\u0442 \u0430\u043C\u043C\u043E\u043D\u0438\
+    \u044F-\u0446\u0435\u0440\u0438\u044F(IV)"
+- common_names: []
+  formula: (NH4)2CrO4
+  name: "\u0445\u0440\u043E\u043C\u0430\u0442 \u0430\u043C\u043C\u043E\u043D\u0438\
+    \u044F"
+- common_names: []
+  formula: (NH4)2Hg(SCN)4
+  name: "\u0442\u0438\u043E\u0446\u0438\u0430\u043D\u0430\u0442 \u0430\u043C\u043C\
+    \u043E\u043D\u0438\u0439-\u0440\u0442\u0443\u0442\u044C(II)"
+- common_names: []
+  formula: (NH4)2[PtCl6]
+  name: "\u0433\u0435\u043A\u0441\u0430\u0445\u043B\u043E\u0440\u043E\u043F\u043B\u0430\
+    \u0442\u0438\u043D\u0430\u0442(IV) \u0430\u043C\u043C\u043E\u043D\u0438\u044F"
+- common_names: []
+  formula: (NH4)2[Pt(SCN)6]
+  name: "\u0433\u0435\u043A\u0441\u0430\u0442\u0438\u043E\u0446\u0438\u0430\u043D\u043E\
+    \u043F\u043B\u0430\u0442\u0438\u043D\u0430\u0442(IV) \u0430\u043C\u043C\u043E\u043D\
+    \u0438\u044F"
+- common_names: []
+  formula: (NH4)2SO4
+  name: "\u0441\u0443\u043B\u044C\u0444\u0430\u0442 \u0430\u043C\u043C\u043E\u043D\
+    \u0438\u044F"
+- common_names: []
+  formula: NI3
+  name: "\u0442\u0440\u0438\u0438\u043E\u0434\u0438\u0434 \u0430\u0437\u043E\u0442\
+    \u0430"
+- common_names: []
+  formula: 'NO'
+  name: "\u043E\u043A\u0441\u0438\u0434 \u0430\u0437\u043E\u0442\u0430(II)"
+- common_names: []
+  formula: NO2
+  name: "\u043E\u043A\u0441\u0438\u0434 \u0430\u0437\u043E\u0442\u0430(IV)"
+- common_names: []
+  formula: "NO2\u2212"
+  name: "\u043D\u0438\u0442\u0440\u0438\u0442"
+- common_names: []
+  formula: NO2Cl
+  name: "\u0445\u043B\u043E\u0440\u0438\u0434 \u043D\u0438\u0442\u0440\u0438\u043B\
+    \u0430"
+- common_names: []
+  formula: "NO3\u2212"
+  name: "\u043D\u0438\u0442\u0440\u0430\u0442"
+- common_names: []
+  formula: N2
+  name: "\u0430\u0437\u043E\u0442"
+- common_names: []
+  formula: N2H4
+  name: "\u0433\u0438\u0434\u0440\u0430\u0437\u0438\u043D"
+- common_names: []
+  formula: N2O
+  name: "\u043E\u043A\u0441\u0438\u0434 \u0430\u0437\u043E\u0442\u0430(I)"
+- common_names: []
+  formula: N2O3
+  name: "\u043E\u043A\u0441\u0438\u0434 \u0430\u0437\u043E\u0442\u0430(III)"
+- common_names: []
+  formula: N2O4
+  name: "\u043E\u043A\u0441\u0438\u0434 \u0430\u0437\u043E\u0442\u0430(IV)"
+- common_names: []
+  formula: N2O5
+  name: "\u043E\u043A\u0441\u0438\u0434 \u0430\u0437\u043E\u0442\u0430(V)"
+- common_names: []
+  formula: N4H4
+  name: "\u0430\u043B\u044C\u0431\u0438\u0442"
+- common_names: []
+  formula: NaAsO2
+  name: "\u043C\u0435\u0442\u0430\u0430\u0440\u0441\u0435\u043D\u0438\u0442 \u043D\
+    \u0430\u0442\u0440\u0438\u044F"
+- common_names: []
+  formula: NaAu(CN)2
+  name: "\u0434\u0438\u0446\u0438\u0430\u043D\u043E\u0430\u0443\u0440\u0430\u0442\
+    (I) \u043D\u0430\u0442\u0440\u0438\u044F"
+- common_names: []
+  formula: "Na2Cr2O7 \xB7 2H2O"
+  name: Sodium dichromate dihydrate
+- common_names: []
+  formula: Na[B(NO3)4]
+  name: "\u0442\u0435\u0442\u0440\u0430\u043D\u0438\u0442\u0440\u043E\u0431\u043E\u0440\
+    \u0430\u0442(III) \u043D\u0430\u0442\u0440\u0438\u044F"
+- common_names: []
+  formula: NaBr
+  name: "\u0431\u0440\u043E\u043C\u0438\u0434 \u043D\u0430\u0442\u0440\u0438\u044F"
+- common_names: []
+  formula: NaCN
+  name: "\u0446\u0438\u0430\u043D\u0438\u0434 \u043D\u0430\u0442\u0440\u0438\u044F"
+- common_names: []
+  formula: NaC6F5COO
+  name: "\u043F\u0435\u043D\u0442\u0430\u0444\u0442\u043E\u0440\u0431\u0435\u043D\u0437\
+    \u043E\u0430\u0442"
+- common_names: []
+  formula: NaC6H5COO
+  name: "\u0431\u0435\u043D\u0437\u043E\u0430\u0442 \u043D\u0430\u0442\u0440\u0438\
+    \u044F"
+- common_names: []
+  formula: "NaCa2(Al5Si5O20) \xB7 6H2O"
+  name: thomsonite
+- common_names: ["\u043A\u0430\u043C\u0435\u043D\u043D\u0430\u044F \u0441\u043E\u043B\
+      \u044C", "\u0433\u0430\u043B\u0438\u0442"]
+  formula: NaCl
+  name: "\u0445\u043B\u043E\u0440\u0438\u0434 \u043D\u0430\u0442\u0440\u0438\u044F"
+- common_names: []
+  formula: NaH
+  name: "\u0433\u0438\u0434\u0440\u0438\u0434 \u043D\u0430\u0442\u0440\u0438\u044F"
+- common_names: []
+  formula: NaHCOO
+  name: "\u0444\u043E\u0440\u043C\u0430\u0442 \u043D\u0430\u0442\u0440\u0438\u044F"
+- common_names: []
+  formula: NaHCO3
+  name: "\u0433\u0438\u0434\u0440\u043E\u043A\u0430\u0440\u0431\u043E\u043D\u0430\u0442\
+    \ \u043D\u0430\u0442\u0440\u0438\u044F"
+- common_names: []
+  formula: NaI
+  name: "\u0438\u043E\u0434\u0438\u0434 \u043D\u0430\u0442\u0440\u0438\u044F"
+- common_names: []
+  formula: NaNH2C6H4SO3
+  name: "\u0441\u0443\u043B\u044C\u0444\u0430\u043D\u0438\u043B\u0430\u0442 \u043D\
+    \u0430\u0442\u0440\u0438\u044F"
+- common_names: []
+  formula: NaNO3
+  name: "\u043D\u0438\u0442\u0440\u0430\u0442 \u043D\u0430\u0442\u0440\u0438\u044F"
+- common_names: []
+  formula: NaNbO3
+  name: "\u043C\u0435\u0442\u0430\u043D\u0438\u043E\u0431\u0430\u0442 \u043D\u0430\
+    \u0442\u0440\u0438\u044F"
+- common_names: []
+  formula: "NaNbO3 \xB7 7H2O"
+  name: sodium metaniobate - heptahydrate
+- common_names: []
+  formula: NaOH
+  name: "\u0433\u0438\u0434\u0440\u043E\u043A\u0441\u0438\u0434 \u043D\u0430\u0442\
+    \u0440\u0438\u044F"
+- common_names: []
+  formula: "NaO2As(CH3)2 \xB7 3H2O"
+  name: sodium salt of cacodylic acid
+- common_names: []
+  formula: Na2SeO3
+  name: "\u0441\u0435\u043B\u0435\u043D\u0438\u0442 \u043D\u0430\u0442\u0440\u0438\
+    \u044F"
+- common_names: []
+  formula: NaTaO3
+  name: "\u043C\u0435\u0442\u0430\u0442\u0430\u043D\u0442\u0430\u043B\u0430\u0442\
+    \ \u043D\u0430\u0442\u0440\u0438\u044F"
+- common_names: []
+  formula: NaVO3
+  name: "\u043C\u0435\u0442\u0430\u0432\u0430\u043D\u0430\u0434\u0430\u0442 \u043D\
+    \u0430\u0442\u0440\u0438\u044F"
+- common_names: [soda ash]
+  formula: Na2CO3
+  name: "\u043A\u0430\u0440\u0431\u043E\u043D\u0430\u0442 \u043D\u0430\u0442\u0440\
+    \u0438\u044F"
+- common_names: []
+  formula: Na2C2O4
+  name: "\u043E\u043A\u0441\u0430\u043B\u0430\u0442 \u043D\u0430\u0442\u0440\u0438\
+    \u044F"
+- common_names: []
+  formula: Na2MoS4
+  name: "\u0442\u0438\u043E\u043C\u043E\u043B\u0438\u0431\u0434\u0430\u0442 \u043D\
+    \u0430\u0442\u0440\u0438\u044F"
+- common_names: []
+  formula: Na2O2
+  name: "\u043F\u0435\u0440\u043E\u043A\u0441\u0438\u0434 \u043D\u0430\u0442\u0440\
+    \u0438\u044F"
+- common_names: []
+  formula: Na2S
+  name: "\u0441\u0443\u043B\u044C\u0444\u0438\u0434 \u043D\u0430\u0442\u0440\u0438\
+    \u044F"
+- common_names: [salt cake]
+  formula: Na2SO4
+  name: "\u0441\u0443\u043B\u044C\u0444\u0430\u0442 \u043D\u0430\u0442\u0440\u0438\
+    \u044F"
+- common_names: []
+  formula: Na2S2O3
+  name: "\u0442\u0438\u043E\u0441\u0443\u043B\u044C\u0444\u0430\u0442 \u043D\u0430\
+    \u0442\u0440\u0438\u044F"
+- common_names: []
+  formula: Na2S2O5
+  name: sodium disulphite
+- common_names: []
+  formula: Na2S4
+  name: sodium tetrasulfide
+- common_names: []
+  formula: Na2SeO4
+  name: "\u0441\u0435\u043B\u0435\u043D\u0430\u0442 \u043D\u0430\u0442\u0440\u0438\
+    \u044F"
+- common_names: []
+  formula: Na2TeO3
+  name: "\u0442\u0435\u043B\u043B\u0443\u0440\u0438\u0442 \u043D\u0430\u0442\u0440\
+    \u0438\u044F"
+- common_names: []
+  formula: Na2TeO4
+  name: "\u0442\u0435\u043B\u043B\u0443\u0440\u0430\u0442 \u043D\u0430\u0442\u0440\
+    \u0438\u044F"
+- common_names: []
+  formula: Na2TiO3
+  name: "\u043C\u0435\u0442\u0430\u0442\u0438\u0442\u0430\u043D\u0430\u0442 \u043D\
+    \u0430\u0442\u0440\u0438\u044F"
+- common_names: []
+  formula: Na2ZnO2
+  name: "\u0446\u0438\u043D\u043A\u0430\u0442 \u043D\u0430\u0442\u0440\u0438\u044F"
+- common_names: []
+  formula: Na2ZrO3
+  name: "\u043C\u0435\u0442\u0430\u0446\u0438\u0440\u043A\u043E\u043D\u0430\u0442\
+    \ \u043D\u0430\u0442\u0440\u0438\u044F"
+- common_names: []
+  formula: Na3AlF6
+  name: "\u043A\u0440\u0438\u043E\u043B\u0438\u0442"
+- common_names: []
+  formula: Na3[Co(CO3)3]
+  name: "\u0442\u0440\u0438\u043A\u0430\u0440\u0431\u043E\u043D\u0430\u0442\u043E\u043A\
+    \u043E\u0431\u0430\u043B\u044C\u0442\u0430\u0442(III) \u043D\u0430\u0442\u0440\
+    \u0438\u044F"
+- common_names: []
+  formula: Na3VO4
+  name: "\u043E\u0440\u0442\u043E\u0432\u0430\u043D\u0430\u0434\u0430\u0442 \u043D\
+    \u0430\u0442\u0440\u0438\u044F"
+- common_names: []
+  formula: Na4V2O7
+  name: "\u043F\u0438\u0440\u043E\u0432\u0430\u043D\u0430\u0434\u0430\u0442 \u043D\
+    \u0430\u0442\u0440\u0438\u044F"
+- common_names: []
+  formula: NaOCl
+  name: "\u043D\u0430\u0442\u0440\u0438\u044F \u0433\u0438\u043F\u043E\u0445\u043B\
+    \u043E\u0440\u0438\u0442"
+- common_names: []
+  formula: NbBr5
+  name: "\u0431\u0440\u043E\u043C\u0438\u0434 \u043D\u0438\u043E\u0431\u0438\u044F\
+    (V)"
+- common_names: []
+  formula: NbCl3
+  name: "\u0445\u043B\u043E\u0440\u0438\u0434 \u043D\u0438\u043E\u0431\u0438\u044F\
+    (III)"
+- common_names: []
+  formula: NbCl5
+  name: "\u0445\u043B\u043E\u0440\u0438\u0434 \u043D\u0438\u043E\u0431\u0438\u044F\
+    (V)"
+- common_names: []
+  formula: NbI5
+  name: "\u0438\u043E\u0434\u0438\u0434 \u043D\u0438\u043E\u0431\u0438\u044F(V)"
+- common_names: []
+  formula: Nb2O3
+  name: "\u043E\u043A\u0441\u0438\u0434 \u043D\u0438\u043E\u0431\u0438\u044F(III)"
+- common_names: [neodymium dichloride]
+  formula: NdCl2
+  name: "\u0445\u043B\u043E\u0440\u0438\u0434 \u043D\u0435\u043E\u0434\u0438\u043C\
+    \u0430(II)"
+- common_names: [neodymium diiodide]
+  formula: NdI2
+  name: "\u0438\u043E\u0434\u0438\u0434 \u043D\u0435\u043E\u0434\u0438\u043C\u0430\
+    (III)"
+- common_names: []
+  formula: Nd(OH)3
+  name: "\u0433\u0438\u0434\u0440\u043E\u043A\u0441\u0438\u0434 \u043D\u0435\u043E\
+    \u0434\u0438\u043C\u0430"
+- common_names: [dineodymium trioxide]
+  formula: Nd2O3
+  name: "\u043E\u043A\u0441\u0438\u0434 \u043D\u0435\u043E\u0434\u0438\u043C\u0430\
+    (III)"
+- common_names: []
+  formula: NiAs
+  name: "\u0430\u0440\u0441\u0435\u043D\u0438\u0434 \u043D\u0438\u043A\u0435\u043B\
+    \u044F(III)"
+- common_names: [gersdorffite]
+  formula: NiAsS
+  name: "\u0441\u0443\u043B\u044C\u0444\u0438\u0434-\u0430\u0440\u0441\u0435\u043D\
+    \u0438\u0434 \u043D\u0438\u043A\u0435\u043B\u044F"
+- common_names: []
+  formula: NiBr2
+  name: "\u0431\u0440\u043E\u043C\u0438\u0434 \u043D\u0438\u043A\u0435\u043B\u044F\
+    (II)"
+- common_names: []
+  formula: "NiBr2 \xB7 3H2O"
+  name: nickel(II) bromide - trihydrate
+- common_names: []
+  formula: "NiBr2 \xB7 6H2O"
+  name: nickel(II) bromide - hexahydrate
+- common_names: []
+  formula: Ni(CO)4
+  name: "\u0442\u0435\u0442\u0440\u0430\u043A\u0430\u0440\u0431\u043E\u043D\u0438\u043B\
+    \ \u043D\u0438\u043A\u0435\u043B\u044F"
+- common_names: []
+  formula: "NiC2O4 \xB7 2H2O"
+  name: nickel(II) oxalate - dihydrate
+- common_names: []
+  formula: NiCl2
+  name: "\u0445\u043B\u043E\u0440\u0438\u0434 \u043D\u0438\u043A\u0435\u043B\u044F\
+    (II)"
+- common_names: []
+  formula: NiFe2O4
+  name: "\u043E\u043A\u0441\u0438\u0434 \u0436\u0435\u043B\u0435\u0437\u0430(III)\
+    \ \u043D\u0438\u043A\u0435\u043B\u044F(II)"
+- common_names: []
+  formula: NiI2
+  name: "\u0438\u043E\u0434\u0438\u0434 \u043D\u0438\u043A\u0435\u043B\u044F(II)"
+- common_names: []
+  formula: "Ni(H2PO)2 \xB7 6H2O"
+  name: nickel(II) hypophosphite - hexahydrate
+- common_names: []
+  formula: NiMoO4
+  name: "\u043E\u0440\u0442\u043E\u043C\u043E\u043B\u0438\u0431\u0434\u0430\u0442\
+    \ \u043D\u0438\u043A\u0435\u043B\u044F(II)"
+- common_names: []
+  formula: "Ni(NO3)2 \xB7 6H2O"
+  name: nickel(II) nitrate - hexahydrate
+- common_names: []
+  formula: NiOOH
+  name: nickel oxo-hydroxide
+- common_names: []
+  formula: NiO
+  name: "\u043E\u043A\u0441\u0438\u0434 \u043D\u0438\u043A\u0435\u043B\u044F(II)"
+- common_names: []
+  formula: Ni(OH)2
+  name: "\u0433\u0438\u0434\u0440\u043E\u043A\u0441\u0438\u0434 \u043D\u0438\u043A\
+    \u0435\u043B\u044F(II)"
+- common_names: []
+  formula: NiS
+  name: "\u0441\u0443\u043B\u044C\u0444\u0438\u0434 \u043D\u0438\u043A\u0435\u043B\
+    \u044F(II)"
+- common_names: []
+  formula: NiSO4
+  name: "\u0441\u0443\u043B\u044C\u0444\u0430\u0442 \u043D\u0438\u043A\u0435\u043B\
+    \u044F"
+- common_names: []
+  formula: NiS2
+  name: "\u0441\u0443\u043B\u044C\u0444\u0438\u0434 \u043D\u0438\u043A\u0435\u043B\
+    \u044F"
+- common_names: []
+  formula: NiSe
+  name: "\u0441\u0435\u043B\u0435\u043D\u0438\u0434 \u043D\u0438\u043A\u0435\u043B\
+    \u044F(II)"
+- common_names: []
+  formula: NiTiO3
+  name: "\u043C\u0435\u0442\u0430\u0442\u0438\u0442\u0430\u043D\u0430\u0442 \u043D\
+    \u0438\u043A\u0435\u043B\u044F(II)"
+- common_names: []
+  formula: Ni(VO3)2
+  name: "\u043C\u0435\u0442\u0430\u0432\u0430\u043D\u0430\u0434\u0430\u0442 \u043D\
+    \u0438\u043A\u0435\u043B\u044F(II)"
+- common_names: []
+  formula: NiWO4
+  name: "\u043E\u0440\u0442\u043E\u0432\u043E\u043B\u044C\u0444\u0440\u0430\u043C\u0430\
+    \u0442 \u043D\u0438\u043A\u0435\u043B\u044F(II)"
+- common_names: []
+  formula: Ni2SiO4
+  name: "\u043E\u0440\u0442\u043E\u0441\u0438\u043B\u0438\u043A\u0430\u0442 \u043D\
+    \u0438\u043A\u0435\u043B\u044F(II)"
+- common_names: []
+  formula: Ni3(PO4)2
+  name: "\u043E\u0440\u0442\u043E\u0444\u043E\u0441\u0444\u0430\u0442 \u043D\u0438\
+    \u043A\u0435\u043B\u044F(II)"
+- common_names: []
+  formula: Ni3Sb2
+  name: "\u0430\u043D\u0442\u0438\u043C\u043E\u043D\u0438\u0434 \u043D\u0438\u043A\
+    \u0435\u043B\u044F(II)"
+- common_names: []
+  formula: O2
+  name: "\u041A\u0438\u0441\u043B\u043E\u0440\u043E\u0434"
+- common_names: []
+  formula: "O2\u2212"
+  name: "\u0438\u043E\u043D \u0441\u0443\u043F\u0435\u0440\u043E\u043A\u0441\u0438\
+    \u0434\u0430"
+- common_names: []
+  formula: "O22\u2212"
+  name: "\u0418\u043E\u043D \u043F\u0435\u0440\u043E\u043A\u0441\u0438\u0434\u0430"
+- common_names: []
+  formula: OF2
+  name: "\u0414\u0438\u0444\u0442\u043E\u0440\u0438\u0434 \u043A\u0438\u0441\u043B\
+    \u043E\u0440\u043E\u0434\u0430"
+- common_names: []
+  formula: O2F2
+  name: "\u0414\u0438\u0444\u0442\u043E\u0440\u0438\u0434 \u0434\u0438\u043A\u0438\
+    \u0441\u043B\u043E\u0440\u043E\u0434\u0430, \u0434\u0438\u043E\u043A\u0441\u0438\
+    \u0434\u0438\u0444\u0442\u043E\u0440\u0438\u0434"
+- common_names: []
+  formula: O3F2
+  name: "\u0414\u0438\u0444\u0442\u043E\u0440\u0438\u0434 \u043E\u0437\u043E\u043D\
+    \u0430, \u0442\u0440\u0438\u043E\u043A\u0441\u0438\u0434\u0438\u0444\u0442\u043E\
+    \u0440\u0438\u0434"
+- common_names: []
+  formula: O4F2
+  name: "\u0422\u0435\u0442\u0440\u0430\u043E\u043A\u0441\u0438\u0434\u0438\u0444\u0442\
+    \u043E\u0440\u0438\u0434"
+- common_names: []
+  formula: O5F2
+  name: "\u041F\u0435\u043D\u0442\u0430\u043E\u043A\u0441\u0438\u0434\u0438\u0444\u0442\
+    \u043E\u0440\u0438\u0434"
+- common_names: []
+  formula: O6F2
+  name: "\u0413\u0435\u043A\u0441\u0430\u043E\u043A\u0441\u0438\u0434\u0438\u0444\u0442\
+    \u043E\u0440\u0438\u0434"
+- common_names: []
+  formula: "OH\u2212"
+  name: "\u0413\u0438\u0434\u0440\u043E\u043A\u0441\u0438\u043B"
+- common_names: []
+  formula: O3
+  name: "\u041E\u0437\u043E\u043D"
+- common_names: []
+  formula: "O3\u2212"
+  name: "\u0418\u043E\u043D \u043E\u0437\u043E\u043D\u0438\u0434\u0430"
+- common_names: []
+  formula: PH3
+  name: phosphine
+- common_names: []
+  formula: POCl3
+  name: phosphoryl chloride
+- common_names: []
+  formula: "PO43\u2212"
+  name: phosphate ion
+- common_names: []
+  formula: P2I4
+  name: phosphorus(II) iodide
+- common_names: []
+  formula: "P2O74\u2212"
+  name: pyrophosphate ion
+- common_names: []
+  formula: P2S3
+  name: phosphorus(III) sulfide
+- common_names: []
+  formula: P2Se3
+  name: phosphorus(III) selenide
+- common_names: []
+  formula: P2Se5
+  name: phosphorus(V) selenide
+- common_names: []
+  formula: P2Te3
+  name: phosphorus(III) telluride
+- common_names: []
+  formula: P3N5
+  name: phosphorus(V) nitride
+- common_names: []
+  formula: P4O10
+  name: tetraphosphorus decaoxide
+- common_names: []
+  formula: "Pb(CH3COO)2\xB73H2O"
+  name: "\u0430\u0446\u0435\u0442\u0430\u0442 \u0441\u0432\u0438\u043D\u0446\u0430\
+    \_\u2014 \u0442\u0440\u0438\u0433\u0438\u0434\u0440\u0430\u0442"
+- common_names: [cerussite]
+  formula: PbCO3
+  name: lead carbonate
+- common_names: []
+  formula: Pb(C2H5)4
+  name: tetraethyllead
+- common_names: []
+  formula: PbC2O4
+  name: lead oxalate
+- common_names: []
+  formula: PbCrO4
+  name: lead chromate
+- common_names: []
+  formula: PbF2
+  name: lead fluoride
+- common_names: []
+  formula: Pb(IO3)2
+  name: lead iodate
+- common_names: []
+  formula: PbI2
+  name: lead(II) iodide
+- common_names: [lead dinitrate, plumbous nitrate]
+  formula: Pb(NO3)2
+  name: lead(II) nitrate
+- common_names: []
+  formula: Pb(N3)2
+  name: lead azide
+- common_names: [litharge]
+  formula: PbO
+  name: lead(II) oxide
+- common_names: []
+  formula: Pb(OH)2
+  name: plumbous hydroxide
+- common_names: [plumbic acid]
+  formula: Pb(OH)4
+  name: plumbic hydroxide
+- common_names: []
+  formula: "Pb(OH)62\u2212"
+  name: plumbate ion
+- common_names: [lead dioxide]
+  formula: PbO2
+  name: lead(IV) oxide
+- common_names: ["\u0433\u0430\u043B\u0435\u043D\u0438\u0442"]
+  formula: PbS
+  name: "\u0441\u0443\u043B\u044C\u0444\u0438\u0434 \u0441\u0432\u0438\u043D\u0446\
+    \u0430"
+- common_names: []
+  formula: PbSO4
+  name: "\u0441\u0443\u043B\u044C\u0444\u0430\u0442 \u0441\u0432\u0438\u043D\u0446\
+    \u0430(II)"
+- common_names: []
+  formula: Pb3(SbO4)2
+  name: lead antimonate
+- common_names: []
+  formula: PtBr2
+  name: platinum(II) bromide
+- common_names: []
+  formula: PtBr4
+  name: platinum(IV) bromide
+- common_names: []
+  formula: PtCl2
+  name: platinum(II) chloride
+- common_names: []
+  formula: PtCl4
+  name: platinum(IV) chloride
+- common_names: []
+  formula: PtI2
+  name: platinum(II) iodide
+- common_names: []
+  formula: PtI4
+  name: platinum(IV) iodide
+- common_names: []
+  formula: '[Pt(NH2CH2CH2NH2)3]Br4'
+  name: tris(ethylenediamine)platinum(IV) bromide
+- common_names: []
+  formula: '[Pt(NH3)2(H2O)2Cl2]Br2'
+  name: diamminediaquadichloroplatinum(VI) bromide
+- common_names: []
+  formula: PtO2
+  name: platinum(IV) oxide
+- common_names: []
+  formula: PtS2
+  name: platinum(IV) sulfide
+- common_names: []
+  formula: "RbAl(SO4)2\xB712H2O"
+  name: rubidium aluminum sulfate - dodecahydrate
+- common_names: []
+  formula: RbBr
+  name: rubidium bromide
+- common_names: []
+  formula: RbC2H3O2
+  name: rubidium acetate
+- common_names: []
+  formula: RbCl
+  name: rubidium chloride
+- common_names: []
+  formula: RbClO4
+  name: rubidium perchlorate
+- common_names: []
+  formula: RbF
+  name: rubidium fluoride
+- common_names: []
+  formula: RbNO3
+  name: rubidium nitrate
+- common_names: []
+  formula: RbO2
+  name: rubidium superoxide
+- common_names: []
+  formula: Rb2C2O4
+  name: rubidium oxalate
+- common_names: []
+  formula: Rb2CrO4
+  name: rubidium chromate
+- common_names: []
+  formula: Rb2PO4
+  name: rubidium orthophosphate
+- common_names: []
+  formula: Rb2SeO3
+  name: rubidium selenite
+- common_names: []
+  formula: Rb2SeO4
+  name: rubidium selenate
+- common_names: []
+  formula: "Rb3C6H5O7\xB7H2O"
+  name: rubidium citrate - monohydrate
+- common_names: []
+  formula: "SCN\u2212"
+  name: thiocyanate
+- common_names: []
+  formula: SF4
+  name: sulfur tetrafluoride
+- common_names: []
+  formula: SF6
+  name: sulfur hexafluoride
+- common_names: []
+  formula: SOF2
+  name: thionyl difluoride
+- common_names: []
+  formula: SO2
+  name: sulfur dioxide
+- common_names: []
+  formula: SO2Cl2
+  name: sulfuryl chloride
+- common_names: []
+  formula: SO2F2
+  name: sulfuryl difluoride
+- common_names: []
+  formula: "SO2OOH\u2212"
+  name: peroxymonosulfurous acid (aqueous)
+- common_names: []
+  formula: SO3
+  name: sulfur trioxide
+- common_names: []
+  formula: "SO32\u2212"
+  name: sulfite ion
+- common_names: []
+  formula: "SO42\u2212"
+  name: sulfate ion
+- common_names: []
+  formula: S2Br2
+  name: sulfur(II) bromide
+- common_names: []
+  formula: "S2O32\u2212"
+  name: thiosulfate ion
+- common_names: []
+  formula: "S2O72\u2212"
+  name: disulfate ion
+- common_names: []
+  formula: SbBr3
+  name: antimony(III) bromide
+- common_names: []
+  formula: SbCl3
+  name: antimony(III) chloride
+- common_names: []
+  formula: SbCl5
+  name: antimony(V) chloride
+- common_names: []
+  formula: SbI3
+  name: antimony(III) iodide
+- common_names: []
+  formula: SbPO4
+  name: antimony(III) phosphate
+- common_names: [kermesite]
+  formula: Sb2OS2
+  name: antimony oxysulfide
+- common_names: []
+  formula: Sb2O3
+  name: antimony(III) oxide
+- common_names: []
+  formula: Sb2O5
+  name: antimony(V) oxide
+- common_names: []
+  formula: Sb2S3
+  name: antimony(III) sulfide
+- common_names: []
+  formula: Sb2Se3
+  name: antimony(III) selenide
+- common_names: []
+  formula: Sb2Se5
+  name: antimony(V) selenide
+- common_names: []
+  formula: Sb2Te3
+  name: antimony(III) telluride
+- common_names: [scandia]
+  formula: Sc2O3
+  name: scandium oxide
+- common_names: []
+  formula: SeBr4
+  name: selenium(IV) bromide
+- common_names: []
+  formula: SeCl
+  name: selenium(I) chloride
+- common_names: []
+  formula: SeCl4
+  name: selenium(IV) chloride
+- common_names: []
+  formula: SeOCl2
+  name: selenium(IV) oxychloride
+- common_names: []
+  formula: SeOF2
+  name: selenyl difluoride
+- common_names: []
+  formula: SeO2
+  name: selenium(IV) oxide
+- common_names: []
+  formula: "SeO42\u2212"
+  name: selenate ion
+- common_names: []
+  formula: SeTe
+  name: selenium(IV) telluride
+- common_names: []
+  formula: SiBr4
+  name: silicon(IV) bromide
+- common_names: []
+  formula: SiC
+  name: "\u043A\u0430\u0440\u0431\u0438\u0434 \u043A\u0440\u0435\u043C\u043D\u0438\
+    \u044F"
+- common_names: []
+  formula: SiCl4
+  name: silicon(IV) chloride
+- common_names: []
+  formula: SiH4
+  name: "\u0441\u0438\u043B\u0430\u043D"
+- common_names: []
+  formula: SiI4
+  name: silicon(IV) iodide
+- common_names: [silica, "\u043A\u0432\u0430\u0440\u0446"]
+  formula: SiO2
+  name: "\u0434\u0438\u043E\u043A\u0441\u0438\u0434 \u043A\u0440\u0435\u043C\u043D\
+    \u0438\u044F"
+- common_names: []
+  formula: "SiO44\u2212"
+  name: silicate ion
+- common_names: []
+  formula: "Si2O76\u2212"
+  name: disilicate ion
+- common_names: []
+  formula: Si3N4
+  name: silicon nitride
+- common_names: []
+  formula: "Si6O1812\u2212"
+  name: cyclosilicate ion
+- common_names: []
+  formula: SnBrCl3
+  name: tin(IV) bromotrichloride
+- common_names: []
+  formula: SnBr2
+  name: tin(II) bromide
+- common_names: []
+  formula: SnBr2Cl2
+  name: tin(IV) dibromodichloride
+- common_names: []
+  formula: SnBr3Cl
+  name: tin(IV) tribromochloride
+- common_names: []
+  formula: SnBr4
+  name: tin(IV) bromide
+- common_names: []
+  formula: SnCl2
+  name: tin(II) chloride
+- common_names: []
+  formula: SnCl2I2
+  name: tin(IV) dichlorodiiodide
+- common_names: []
+  formula: SnCl4
+  name: tin(IV) chloride
+- common_names: []
+  formula: Sn(CrO4)2
+  name: tin(IV) chromate
+- common_names: []
+  formula: SnI4
+  name: tin(IV) iodide
+- common_names: []
+  formula: SnO2
+  name: tin(IV) oxide
+- common_names: []
+  formula: "SnO32\u2212"
+  name: stannate ion
+- common_names: []
+  formula: SnS
+  name: tin(II) sulfide
+- common_names: []
+  formula: SnS2
+  name: tin(IV) sulfide
+- common_names: []
+  formula: "Sn(SO4)2\xB72H2O"
+  name: tin(IV) sulfate - dihydrate
+- common_names: []
+  formula: SnSe
+  name: tin(II) selenide
+- common_names: []
+  formula: SnSe2
+  name: tin(IV) selenide
+- common_names: []
+  formula: SnTe
+  name: tin(II) telluride
+- common_names: []
+  formula: SnTe4
+  name: tin(IV) telluride
+- common_names: []
+  formula: Sn(VO3)2
+  name: tin(II) metavanadate
+- common_names: []
+  formula: Sn3Sb4
+  name: tin(IV) antimonide
+- common_names: []
+  formula: SrBr2
+  name: strontium bromide
+- common_names: []
+  formula: "SrBr2\xB76H2O"
+  name: strontium bromide - hexahydrate
+- common_names: []
+  formula: SrCO3
+  name: strontium carbonate
+- common_names: []
+  formula: SrC2O4
+  name: strontium oxalate
+- common_names: []
+  formula: SrF2
+  name: strontium fluoride
+- common_names: []
+  formula: SrI2
+  name: strontium iodide
+- common_names: []
+  formula: "SrI2\xB76H2O"
+  name: strontium iodide - hexahydrate
+- common_names: []
+  formula: Sr(MnO4)2
+  name: strontium permanganate
+- common_names: []
+  formula: SrMoO4
+  name: strontium orthomolybdate
+- common_names: []
+  formula: Sr(NbO3)2
+  name: strontium metaniobate
+- common_names: []
+  formula: SrO
+  name: strontium oxide
+- common_names: []
+  formula: SrSeO3
+  name: strontium selenite
+- common_names: []
+  formula: SrSeO4
+  name: strontium selenate
+- common_names: []
+  formula: SrTeO3
+  name: strontium tellurite
+- common_names: []
+  formula: SrTeO4
+  name: strontium tellurate
+- common_names: []
+  formula: SrTiO3
+  name: "\u0442\u0438\u0442\u0430\u043D\u0430\u0442 \u0441\u0442\u0440\u043E\u043D\
+    \u0446\u0438\u044F"
+- common_names: [tritiated water]
+  formula: T2O
+  name: "\u043E\u043A\u0441\u0438\u0434 \u0442\u0440\u0438\u0442\u0438\u044F"
+- common_names: []
+  formula: TaBr3
+  name: "\u0431\u0440\u043E\u043C\u0438\u0434 \u0442\u0430\u043D\u0442\u0430\u043B\
+    \u0430 (III)"
+- common_names: []
+  formula: TaBr5
+  name: "\u0431\u0440\u043E\u043C\u0438\u0434 \u0442\u0430\u043D\u0442\u0430\u043B\
+    \u0430 (V)"
+- common_names: []
+  formula: TaCl5
+  name: "\u0425\u043B\u043E\u0440\u0438\u0434 \u0442\u0430\u043D\u0442\u0430\u043B\
+    \u0430(V)"
+- common_names: []
+  formula: TaI5
+  name: "\u0418\u043E\u0434\u0438\u0434 \u0442\u0430\u043D\u0442\u0430\u043D\u0430\
+    (V)"
+- common_names: []
+  formula: "TaO3\u2212"
+  name: tantalate ion
+- common_names: []
+  formula: "TcO4\u2212"
+  name: pertechnetate ion
+- common_names: []
+  formula: TeBr2
+  name: tellurium(II) bromide
+- common_names: []
+  formula: TeBr4
+  name: tellurium(IV) bromide
+- common_names: []
+  formula: TeCl2
+  name: tellurium(II) chloride
+- common_names: []
+  formula: TeCl4
+  name: tellurium(IV) chloride
+- common_names: []
+  formula: TeI2
+  name: tellurium(II) iodide
+- common_names: []
+  formula: TeI4
+  name: tellurium(IV) iodide
+- common_names: []
+  formula: TeO2
+  name: tellurium(IV) oxide
+- common_names: []
+  formula: "TeO4\u2212"
+  name: tellurate ion
+- common_names: []
+  formula: TeY
+  name: yttrium telluride
+- common_names: []
+  formula: Th(CO3)2
+  name: thorium carbonate
+- common_names: []
+  formula: Th(NO3)4
+  name: thorium nitrate
+- common_names: []
+  formula: TiBr4
+  name: titanium(IV) bromide
+- common_names: []
+  formula: TiCl2I2
+  name: titanium(IV) dichlorodiiodide
+- common_names: []
+  formula: TiCl3I
+  name: titanium(IV) trichloroiodide
+- common_names: []
+  formula: TiCl4
+  name: titanium tetrachloride
+- common_names: ["\u0440\u0443\u0442\u0438\u043B"]
+  formula: TiO2
+  name: "\u043E\u043A\u0441\u0438\u0434 \u0442\u0438\u0442\u0430\u043D\u0430 (IV)"
+- common_names: []
+  formula: "TiO32\u2212"
+  name: titanate ion
+- common_names: []
+  formula: TlBr
+  name: thallium(I) bromide
+- common_names: []
+  formula: TlBr3
+  name: thallium(III) bromide
+- common_names: []
+  formula: Tl(CHO2)
+  name: thallium(I) formate
+- common_names: []
+  formula: TlC2H3O2
+  name: thallium(I) acetate
+- common_names: []
+  formula: Tl(C3H3O4)
+  name: thallium(I) malonate
+- common_names: []
+  formula: TlCl
+  name: thallium(I) chloride
+- common_names: []
+  formula: TlCl3
+  name: thallium(III) chloride
+- common_names: []
+  formula: TlF
+  name: thallium(I) fluoride
+- common_names: []
+  formula: TlI
+  name: thallium(I) iodide
+- common_names: []
+  formula: TlIO3
+  name: thallium(I) iodate
+- common_names: []
+  formula: TlI3
+  name: thallium(III) iodide
+- common_names: []
+  formula: TiI4
+  name: titanium(IV) iodide
+- common_names: []
+  formula: "TiO(NO3)2 \xB7 xH2O"
+  name: titanium(IV) oxynitrate - hydrate
+- common_names: []
+  formula: TlNO3
+  name: thallium(I) nitrate
+- common_names: []
+  formula: TlOH
+  name: thallium(I) hydroxide
+- common_names: []
+  formula: TlPF6
+  name: thallium(I) hexafluorophosphate
+- common_names: []
+  formula: TlSCN
+  name: thallium thiocyanate
+- common_names: []
+  formula: Tl2MoO4
+  name: thallium(I) orthomolybdate
+- common_names: []
+  formula: Tl2SeO3
+  name: thallium(I) selenite
+- common_names: []
+  formula: Tl2TeO3
+  name: thallium(I) tellurite
+- common_names: []
+  formula: Tl2WO4
+  name: thallium(I) orthotungstate
+- common_names: []
+  formula: Tl3As
+  name: thallium(I) arsenide
+- common_names: []
+  formula: UF4
+  name: "\u0444\u0442\u043E\u0440\u0438\u0434 \u0443\u0440\u0430\u043D\u0430(IV)"
+- common_names: []
+  formula: UF6
+  name: "\u0444\u0442\u043E\u0440\u0438\u0434 \u0443\u0440\u0430\u043D\u0430(VI)"
+- common_names: []
+  formula: VBr2
+  name: "\u0411\u0440\u043E\u043C\u0438\u0434 \u0432\u0430\u043D\u0430\u0434\u0438\
+    \u044F(II)"
+- common_names: []
+  formula: VBr3
+  name: "\u0411\u0440\u043E\u043C\u0438\u0434 \u0432\u0430\u043D\u0430\u0434\u0438\
+    \u044F(III)"
+- common_names: []
+  formula: VCl2
+  name: "\u0425\u043B\u043E\u0440\u0438\u0434 \u0432\u0430\u043D\u0430\u0434\u0438\
+    \u044F(II)"
+- common_names: []
+  formula: VCl3
+  name: "\u0425\u043B\u043E\u0440\u0438\u0434 \u0432\u0430\u043D\u0430\u0434\u0438\
+    \u044F(III)"
+- common_names: []
+  formula: VSO5
+  name: "\u041E\u043A\u0441\u0438\u0441\u0443\u043B\u044C\u0444\u0430\u0442 \u0432\
+    \u0430\u043D\u0430\u0434\u0438\u044F"
+- common_names: []
+  formula: V2O3
+  name: "\u041E\u043A\u0441\u0438\u0434 \u0432\u0430\u043D\u0430\u0434\u0438\u044F\
+    \ III"
+- common_names: []
+  formula: V2O5
+  name: "\u041F\u0435\u0440\u043E\u043A\u0441\u0438\u0434 \u0432\u0430\u043D\u0430\
+    \u0434\u0438\u044F"
+- common_names: []
+  formula: "V2O74\u2212"
+  name: "\u043F\u0438\u0440\u043E\u0432\u0430\u043D\u0430\u0434\u0430\u0442-\u0438\
+    \u043E\u043D"
+- common_names: []
+  formula: WBr2
+  name: "\u0431\u0440\u043E\u043C\u0438\u0434 \u0432\u043E\u043B\u044C\u0444\u0440\
+    \u0430\u043C\u0430(II)"
+- common_names: []
+  formula: WBr3
+  name: "\u0431\u0440\u043E\u043C\u0438\u0434 \u0432\u043E\u043B\u044C\u0444\u0440\
+    \u0430\u043C\u0430(III)"
+- common_names: []
+  formula: WBr4
+  name: "\u0431\u0440\u043E\u043C\u0438\u0434 \u0432\u043E\u043B\u044C\u0444\u0440\
+    \u0430\u043C\u0430(IV)"
+- common_names: []
+  formula: WBr5
+  name: "\u0431\u0440\u043E\u043C\u0438\u0434 \u0432\u043E\u043B\u044C\u0444\u0440\
+    \u0430\u043C\u0430(V)"
+- common_names: []
+  formula: WBr6
+  name: "\u0431\u0440\u043E\u043C\u0438\u0434 \u0432\u043E\u043B\u044C\u0444\u0440\
+    \u0430\u043C\u0430(VI)"
+- common_names: []
+  formula: W(CO)6
+  name: "\u043A\u0430\u0440\u0431\u043E\u043D\u0438\u043B \u0432\u043E\u043B\u044C\
+    \u0444\u0440\u0430\u043C\u0430(VI)"
+- common_names: []
+  formula: WCl2
+  name: "\u0445\u043B\u043E\u0440\u0438\u0434 \u0432\u043E\u043B\u044C\u0444\u0440\
+    \u0430\u043C\u0430(II)"
+- common_names: []
+  formula: WCl3
+  name: "\u0445\u043B\u043E\u0440\u0438\u0434 \u0432\u043E\u043B\u044C\u0444\u0440\
+    \u0430\u043C\u0430(III)"
+- common_names: []
+  formula: WCl4
+  name: "\u0445\u043B\u043E\u0440\u0438\u0434 \u0432\u043E\u043B\u044C\u0444\u0440\
+    \u0430\u043C\u0430(IV)"
+- common_names: []
+  formula: WCl5
+  name: "\u0445\u043B\u043E\u0440\u0438\u0434 \u0432\u043E\u043B\u044C\u0444\u0440\
+    \u0430\u043C\u0430(V)"
+- common_names: []
+  formula: WCl6
+  name: "\u0445\u043B\u043E\u0440\u0438\u0434 \u0432\u043E\u043B\u044C\u0444\u0440\
+    \u0430\u043C\u0430(VI)"
+- common_names: []
+  formula: WF4
+  name: "\u0444\u0442\u043E\u0440\u0438\u0434 \u0432\u043E\u043B\u044C\u0444\u0440\
+    \u0430\u043C\u0430(IV)"
+- common_names: []
+  formula: WF5
+  name: "\u0444\u0442\u043E\u0440\u0438\u0434 \u0432\u043E\u043B\u044C\u0444\u0440\
+    \u0430\u043C\u0430(V)"
+- common_names: []
+  formula: WF6
+  name: "\u0444\u0442\u043E\u0440\u0438\u0434 \u0432\u043E\u043B\u044C\u0444\u0440\
+    \u0430\u043C\u0430(VI)"
+- common_names: []
+  formula: WI2
+  name: "\u0438\u043E\u0434\u0438\u0434 \u0432\u043E\u043B\u044C\u0444\u0440\u0430\
+    \u043C\u0430(II)"
+- common_names: []
+  formula: WI4
+  name: "\u0438\u043E\u0434\u0438\u0434 \u0432\u043E\u043B\u044C\u0444\u0440\u0430\
+    \u043C\u0430(IV)"
+- common_names: []
+  formula: WOBr3
+  name: "\u0442\u0440\u0438\u0431\u0440\u043E\u043C\u043E\u043E\u043A\u0441\u0438\u0434\
+    \ \u0432\u043E\u043B\u044C\u0444\u0440\u0430\u043C\u0430(V)"
+- common_names: []
+  formula: WOBr4
+  name: "\u0442\u0435\u0442\u0440\u0430\u0431\u0440\u043E\u043C\u043E\u043E\u043A\u0441\
+    \u0438\u0434 \u0432\u043E\u043B\u044C\u0444\u0440\u0430\u043C\u0430(VI)"
+- common_names: []
+  formula: WOCl3
+  name: "\u0442\u0440\u0438\u0445\u043B\u043E\u0440\u043E\u043E\u043A\u0441\u0438\u0434\
+    \ \u0432\u043E\u043B\u044C\u0444\u0440\u0430\u043C\u0430(V)"
+- common_names: []
+  formula: WOCl4
+  name: "\u0442\u0435\u0442\u0440\u0430\u0445\u043B\u043E\u0440\u043E\u043E\u043A\u0441\
+    \u0438\u0434 \u0432\u043E\u043B\u044C\u0444\u0440\u0430\u043C\u0430(VI)"
+- common_names: []
+  formula: WOF2
+  name: tungsten(VI) oxytetrafluoride
+- common_names: []
+  formula: WO2
+  name: "\u043E\u043A\u0441\u0438\u0434 \u0432\u043E\u043B\u044C\u0444\u0440\u0430\
+    \u043C\u0430(IV)"
+- common_names: []
+  formula: WO2Br2
+  name: "\u0434\u0438\u043E\u043A\u0441\u0438\u0434-\u0434\u0438\u0431\u0440\u043E\
+    \u043C\u0438\u0434 \u0432\u043E\u043B\u044C\u0444\u0440\u0430\u043C\u0430(VI)"
+- common_names: []
+  formula: WO2Cl2
+  name: "\u0434\u0438\u043E\u043A\u0441\u0438\u0434-\u0434\u0438\u0445\u043B\u043E\
+    \u0440\u0438\u0434 \u0432\u043E\u043B\u044C\u0444\u0440\u0430\u043C\u0430(VI)"
+- common_names: []
+  formula: WO2I2
+  name: "\u0434\u0438\u043E\u043A\u0441\u0438\u0434-\u0434\u0438\u0438\u043E\u0434\
+    \u0438\u0434 \u0432\u043E\u043B\u044C\u0444\u0440\u0430\u043C\u0430(VI)"
+- common_names: []
+  formula: WO3
+  name: "\u043E\u043A\u0441\u0438\u0434 \u0432\u043E\u043B\u044C\u0444\u0440\u0430\
+    \u043C\u0430(VI)"
+- common_names: []
+  formula: "WO42\u2212"
+  name: "\u0432\u043E\u043B\u044C\u0444\u0440\u0430\u043C\u0430\u0442 \u0438\u043E\
+    \u043D"
+- common_names: []
+  formula: WS2
+  name: "\u0441\u0443\u043B\u044C\u0444\u0438\u0434 \u0432\u043E\u043B\u044C\u0444\
+    \u0440\u0430\u043C\u0430(IV)"
+- common_names: []
+  formula: WS3
+  name: "\u0441\u0443\u043B\u044C\u0444\u0438\u0434 \u0432\u043E\u043B\u044C\u0444\
+    \u0440\u0430\u043C\u0430(VI)"
+- common_names: []
+  formula: WSe2
+  name: "\u0441\u0435\u043B\u0435\u043D\u0438\u0434 \u0432\u043E\u043B\u044C\u0444\
+    \u0440\u0430\u043C\u0430(IV)"
+- common_names: []
+  formula: WTe2
+  name: "\u0442\u0435\u043B\u043B\u0443\u0440\u0438\u0434 \u0432\u043E\u043B\u044C\
+    \u0444\u0440\u0430\u043C\u0430(IV)"
+- common_names: []
+  formula: W2C
+  name: "\u043A\u0430\u0440\u0431\u0438\u0434 \u0432\u043E\u043B\u044C\u0444\u0440\
+    \u0430\u043C\u0430"
+- common_names: []
+  formula: XeF
+  name: "\u0424\u0442\u043E\u0440\u0438\u0434 \u043A\u0441\u0435\u043D\u043E\u043D\
+    \u0430(I)"
+- common_names: []
+  formula: XeF2
+  name: "\u0424\u0442\u043E\u0440\u0438\u0434 \u043A\u0441\u0435\u043D\u043E\u043D\
+    \u0430(II)"
+- common_names: []
+  formula: XeF4
+  name: "\u0424\u0442\u043E\u0440\u0438\u0434 \u043A\u0441\u0435\u043D\u043E\u043D\
+    \u0430(IV)"
+- common_names: []
+  formula: XeF6
+  name: "\u0424\u0442\u043E\u0440\u0438\u0434 \u043A\u0441\u0435\u043D\u043E\u043D\
+    \u0430(VI)"
+- common_names: []
+  formula: XeO3
+  name: "\u0442\u0440\u0438\u043E\u043A\u0441\u0438\u0434 \u043A\u0441\u0435\u043D\
+    \u043E\u043D\u0430"
+- common_names: []
+  formula: XeO4
+  name: "\u0442\u0435\u0442\u0440\u0430\u043E\u043A\u0441\u0438\u0434 \u043A\u0441\
+    \u0435\u043D\u043E\u043D\u0430"
+- common_names: []
+  formula: XeOF4
+  name: "\u041E\u043A\u0441\u0438\u0434-\u0442\u0435\u0442\u0440\u0430\u0444\u0442\
+    \u043E\u0440\u0438\u0434 \u043A\u0441\u0435\u043D\u043E\u043D\u0430"
+- common_names: []
+  formula: XeO2F2
+  name: "\u0434\u0438\u043E\u043A\u0441\u0438\u0434-\u0444\u0442\u043E\u0440\u0438\
+    \u0434 \u043A\u0441\u0435\u043D\u043E\u043D\u0430"
+- common_names: []
+  formula: "XeO64\u2212"
+  name: "\u043F\u0435\u0440\u043A\u0441\u0435\u043D\u0430\u0442 \u0438\u043E\u043D"
+- common_names: []
+  formula: YAs
+  name: "\u0410\u0440\u0441\u0435\u043D\u0438\u0434 \u0438\u0442\u0442\u0440\u0438\
+    \u044F"
+- common_names: []
+  formula: YB6
+  name: "\u0411\u043E\u0440\u0438\u0434 \u0438\u0442\u0442\u0440\u0438\u044F"
+- common_names: []
+  formula: YBr3
+  name: "\u0411\u0440\u043E\u043C\u0438\u0434 \u0438\u0442\u0442\u0440\u0438\u044F"
+- common_names: []
+  formula: YC2
+  name: "\u041A\u0430\u0440\u0431\u0438\u0434 \u0438\u0442\u0442\u0440\u0438\u044F"
+- common_names: []
+  formula: YCl3
+  name: "\u0425\u043B\u043E\u0440\u0438\u0434 \u0438\u0442\u0442\u0440\u0438\u044F"
+- common_names: []
+  formula: YF3
+  name: "\u0424\u0442\u043E\u0440\u0438\u0434 \u0438\u0442\u0442\u0440\u0438\u044F"
+- common_names: []
+  formula: YP
+  name: "\u0424\u043E\u0441\u0444\u0438\u0434 \u0438\u0442\u0442\u0440\u0438\u044F"
+- common_names: []
+  formula: YSb
+  name: yttrium antimonide
+- common_names: []
+  formula: YVO4
+  name: yttrium vanadate
+- common_names: []
+  formula: Y2O3
+  name: "\u041E\u043A\u0441\u0438\u0434 \u0438\u0442\u0442\u0440\u0438\u044F"
+- common_names: []
+  formula: Y2S3
+  name: "\u0421\u0443\u043B\u044C\u0444\u0438\u0434 \u0438\u0442\u0442\u0440\u0438\
+    \u044F"
+- common_names: []
+  formula: YbBr2
+  name: "\u0411\u0440\u043E\u043C\u0438\u0434 \u0438\u0442\u0442\u0435\u0440\u0431\
+    \u0438\u044F(II)"
+- common_names: []
+  formula: YbBr3
+  name: "\u0411\u0440\u043E\u043C\u0438\u0434 \u0438\u0442\u0442\u0435\u0440\u0431\
+    \u0438\u044F(III)"
+- common_names: []
+  formula: YbCl2
+  name: "\u0425\u043B\u043E\u0440\u0438\u0434 \u0438\u0442\u0442\u0435\u0440\u0431\
+    \u0438\u044F(II)"
+- common_names: []
+  formula: YbCl3
+  name: "\u0425\u043B\u043E\u0440\u0438\u0434 \u0438\u0442\u0442\u0435\u0440\u0431\
+    \u0438\u044F(III)"
+- common_names: []
+  formula: "YbCl3\xB76H2O"
+  name: ytterbium(III) chloride hexahydrate
+- common_names: []
+  formula: YbF2
+  name: "\u0424\u0442\u043E\u0440\u0438\u0434 \u0438\u0442\u0442\u0435\u0440\u0431\
+    \u0438\u044F(II)"
+- common_names: []
+  formula: YbF3
+  name: "\u0424\u0442\u043E\u0440\u0438\u0434 \u0438\u0442\u0442\u0435\u0440\u0431\
+    \u0438\u044F(III)"
+- common_names: []
+  formula: YbI2
+  name: "\u0418\u043E\u0434\u0438\u0434 \u0438\u0442\u0442\u0435\u0440\u0431\u0438\
+    \u044F(II)"
+- common_names: []
+  formula: YbI3
+  name: "\u0418\u043E\u0434\u0438\u0434 \u0438\u0442\u0442\u0435\u0440\u0431\u0438\
+    \u044F(III)"
+- common_names: []
+  formula: YbSe
+  name: ytterbium(II) selenide
+- common_names: []
+  formula: YbSi2
+  name: ytterbium(II) silicide
+- common_names: []
+  formula: Yb2O3
+  name: "\u041E\u043A\u0441\u0438\u0434 \u0438\u0442\u0442\u0435\u0440\u0431\u0438\
+    \u044F(III)"
+- common_names: []
+  formula: Yb2S3
+  name: "\u0421\u0443\u043B\u044C\u0444\u0438\u0434 \u0438\u0442\u0442\u0435\u0440\
+    \u0431\u0438\u044F(III)"
+- common_names: []
+  formula: Yb2Se3
+  name: ytterbium(III) selenide
+- common_names: []
+  formula: YbTe
+  name: ytterbium(II) telluride
+- common_names: []
+  formula: Zn(AlO2)2
+  name: "\u0430\u043B\u044E\u043C\u0438\u043D\u0430\u0442 \u0446\u0438\u043D\u043A\
+    \u0430"
+- common_names: []
+  formula: Zn(AsO2)2
+  name: "\u0430\u0440\u0441\u0435\u043D\u0438\u0442 \u0446\u0438\u043D\u043A\u0430"
+- common_names: []
+  formula: ZnBr2
+  name: "\u0431\u0440\u043E\u043C\u0438\u0434 \u0446\u0438\u043D\u043A\u0430"
+- common_names: []
+  formula: Zn(CN)2
+  name: "\u0446\u0438\u0430\u043D\u0438\u0434 \u0446\u0438\u043D\u043A\u0430"
+- common_names: []
+  formula: ZnCO3
+  name: "\u043A\u0430\u0440\u0431\u043E\u043D\u0430\u0442 \u0446\u0438\u043D\u043A\
+    \u0430"
+- common_names: []
+  formula: Zn(C8H15O2)2
+  name: "\u043A\u0430\u043F\u0440\u0438\u043B\u0430\u0442 \u0446\u0438\u043D\u043A\
+    \u0430"
+- common_names: []
+  formula: Zn(ClO3)2
+  name: "\u0445\u043B\u043E\u0440\u0430\u0442 \u0446\u0438\u043D\u043A\u0430"
+- common_names: []
+  formula: ZnCl2
+  name: "\u0445\u043B\u043E\u0440\u0438\u0434 \u0446\u0438\u043D\u043A\u0430"
+- common_names: []
+  formula: ZnCr2O4
+  name: "\u0445\u0440\u043E\u043C\u0438\u0442 \u0446\u0438\u043D\u043A\u0430"
+- common_names: []
+  formula: ZnF2
+  name: "\u0444\u0442\u043E\u0440\u0438\u0434 \u0446\u0438\u043D\u043A\u0430"
+- common_names: []
+  formula: Zn(IO3)2
+  name: "\u0438\u043E\u0434\u0430\u0442 \u0446\u0438\u043D\u043A\u0430"
+- common_names: []
+  formula: ZnI2
+  name: "\u0438\u043E\u0434\u0438\u0434 \u0446\u0438\u043D\u043A\u0430"
+- common_names: []
+  formula: ZnMoO4
+  name: "\u043E\u0440\u0442\u043E\u043C\u043E\u043B\u0438\u0431\u0434\u0430\u0442\
+    \ \u0446\u0438\u043D\u043A\u0430"
+- common_names: []
+  formula: Zn(NO2)2
+  name: "\u043D\u0438\u0442\u0440\u0438\u0442 \u0446\u0438\u043D\u043A\u0430"
+- common_names: []
+  formula: Zn(NO3)2
+  name: "\u043D\u0438\u0442\u0440\u0430\u0442 \u0446\u0438\u043D\u043A\u0430"
+- common_names: []
+  formula: Zn(NbO3)2
+  name: "\u043C\u0435\u0442\u0430\u043D\u0438\u043E\u0431\u0430\u0442 \u0446\u0438\
+    \u043D\u043A\u0430"
+- common_names: []
+  formula: ZnO
+  name: "\u043E\u043A\u0441\u0438\u0434 \u0446\u0438\u043D\u043A\u0430"
+- common_names: []
+  formula: ZnO2
+  name: "\u043F\u0435\u0440\u043E\u043A\u0441\u0438\u0434 \u0446\u0438\u043D\u043A\
+    \u0430"
+- common_names: []
+  formula: Zn(OH)2
+  name: "\u0433\u0438\u0434\u0440\u043E\u043A\u0441\u0438\u0434 \u0446\u0438\u043D\
+    \u043A\u0430"
+- common_names: []
+  formula: "Zn(OH)42\u2212"
+  name: zincate ion
+- common_names: ["\u0441\u0444\u0430\u043B\u0435\u0440\u0438\u0442"]
+  formula: ZnS
+  name: "\u0441\u0443\u043B\u044C\u0444\u0438\u0434 \u0446\u0438\u043D\u043A\u0430"
+- common_names: []
+  formula: Zn(SCN)2
+  name: "\u0442\u0438\u043E\u0446\u0438\u0430\u043D\u0430\u0442 \u0446\u0438\u043D\
+    \u043A\u0430"
+- common_names: []
+  formula: ZnSO4
+  name: "\u0441\u0443\u043B\u044C\u0444\u0430\u0442 \u0446\u0438\u043D\u043A\u0430"
+- common_names: []
+  formula: ZnSb
+  name: "\u0430\u043D\u0442\u0438\u043C\u043E\u043D\u0438\u0434 \u0446\u0438\u043D\
+    \u043A\u0430"
+- common_names: []
+  formula: ZnSe
+  name: "\u0441\u0435\u043B\u0435\u043D\u0438\u0434 \u0446\u0438\u043D\u043A\u0430"
+- common_names: []
+  formula: ZnSeO3
+  name: "\u0441\u0435\u043B\u0435\u043D\u0438\u0442 \u0446\u0438\u043D\u043A\u0430"
+- common_names: []
+  formula: ZnSnO3
+  name: "\u0441\u0442\u0430\u043D\u043D\u0430\u0442 \u0446\u0438\u043D\u043A\u0430"
+- common_names: []
+  formula: Zn(TaO3)2
+  name: "\u043C\u0435\u0442\u0430\u0442\u0430\u043D\u0442\u0430\u043B\u0430\u0442\
+    \ \u0446\u0438\u043D\u043A\u0430"
+- common_names: []
+  formula: ZnTe
+  name: "\u0442\u0435\u043B\u043B\u0443\u0440\u0438\u0434 \u0446\u0438\u043D\u043A\
+    \u0430"
+- common_names: []
+  formula: ZnTeO3
+  name: "\u0442\u0435\u043B\u043B\u0443\u0440\u0438\u0442 \u0446\u0438\u043D\u043A\
+    \u0430"
+- common_names: []
+  formula: ZnTeO4
+  name: "\u0442\u0435\u043B\u043B\u0443\u0440\u0430\u0442 \u0446\u0438\u043D\u043A\
+    \u0430"
+- common_names: []
+  formula: ZnTiO3
+  name: "\u043C\u0435\u0442\u0430\u0442\u0438\u0442\u0430\u043D\u0430\u0442 \u0446\
+    \u0438\u043D\u043A\u0430"
+- common_names: []
+  formula: Zn(VO3)2
+  name: "\u043C\u0435\u0442\u0430\u0432\u0430\u043D\u0430\u0434\u0430\u0442 \u0446\
+    \u0438\u043D\u043A\u0430"
+- common_names: []
+  formula: ZnWO4
+  name: zinc orthotungstate
+- common_names: []
+  formula: ZnZrO3
+  name: "\u043C\u0435\u0442\u0430\u0446\u0438\u0440\u043A\u043E\u043D\u0430\u0442\
+    \ \u0446\u0438\u043D\u043A\u0430"
+- common_names: []
+  formula: Zn2P2O7
+  name: "\u043F\u0438\u0440\u043E\u0444\u043E\u0441\u0444\u0430\u0442 \u0446\u0438\
+    \u043D\u043A\u0430"
+- common_names: []
+  formula: Zn2SiO4
+  name: "\u043E\u0440\u0442\u043E\u0441\u0438\u043B\u0438\u043A\u0430\u0442 \u0446\
+    \u0438\u043D\u043A\u0430"
+- common_names: []
+  formula: Zn3(AsO4)2
+  name: "\u0430\u0440\u0441\u0435\u043D\u0430\u0442 \u0446\u0438\u043D\u043A\u0430"
+- common_names: []
+  formula: Zn3As2
+  name: "\u0430\u0440\u0441\u0435\u043D\u0438\u0434 \u0446\u0438\u043D\u043A\u0430"
+- common_names: []
+  formula: Zn3N2
+  name: "\u043D\u0438\u0442\u0440\u0438\u0434 \u0446\u0438\u043D\u043A\u0430"
+- common_names: []
+  formula: Zn3P2
+  name: "\u0444\u043E\u0441\u0444\u0438\u0434 \u0446\u0438\u043D\u043A\u0430"
+- common_names: []
+  formula: Zn3(PO4)2
+  name: "\u0444\u043E\u0441\u0444\u0430\u0442 \u0446\u0438\u043D\u043A\u0430"
+- common_names: []
+  formula: Zn3Sb2
+  name: "\u0430\u043D\u0442\u0438\u043C\u043E\u043D\u0438\u0434 \u0446\u0438\u043D\
+    \u043A\u0430"
+- common_names: []
+  formula: ZrB2
+  name: "\u0431\u043E\u0440\u0438\u0434 \u0446\u0438\u0440\u043A\u043E\u043D\u0438\
+    \u044F"
+- common_names: []
+  formula: ZrBr4
+  name: "\u0431\u0440\u043E\u043C\u0438\u0434 \u0446\u0438\u0440\u043A\u043E\u043D\
+    \u0438\u044F"
+- common_names: []
+  formula: ZrC
+  name: "\u043A\u0430\u0440\u0431\u0438\u0434 \u0446\u0438\u0440\u043A\u043E\u043D\
+    \u0438\u044F"
+- common_names: []
+  formula: ZrCl4
+  name: "\u0442\u0435\u0442\u0440\u0430\u0445\u043B\u043E\u0440\u0438\u0434 \u0446\
+    \u0438\u0440\u043A\u043E\u043D\u0438\u044F"
+- common_names: []
+  formula: ZrF4
+  name: "\u0444\u0442\u043E\u0440\u0438\u0434 \u0446\u0438\u0440\u043A\u043E\u043D\
+    \u0438\u044F"
+- common_names: []
+  formula: ZrI4
+  name: "\u0438\u043E\u0434\u0438\u0434 \u0446\u0438\u0440\u043A\u043E\u043D\u0438\
+    \u044F"
+- common_names: []
+  formula: ZrN
+  name: "\u043D\u0438\u0442\u0440\u0438\u0434 \u0446\u0438\u0440\u043A\u043E\u043D\
+    \u0438\u044F"
+- common_names: []
+  formula: Zr(OH)4
+  name: "\u0433\u0438\u0434\u0440\u043E\u043A\u0441\u0438\u0434 \u0446\u0438\u0440\
+    \u043A\u043E\u043D\u0438\u044F"
+- common_names: ["\u0431\u0430\u0434\u0434\u0435\u043B\u0435\u0438\u0442"]
+  formula: ZrO2
+  name: "\u0434\u0438\u043E\u043A\u0441\u0438\u0434 \u0446\u0438\u0440\u043A\u043E\
+    \u043D\u0438\u044F"
+- common_names: []
+  formula: "ZrO32\u2212"
+  name: "\u0446\u0438\u0440\u043A\u043E\u043D\u0430\u0442-\u0438\u043E\u043D"
+- common_names: []
+  formula: ZrP2
+  name: "\u0444\u043E\u0441\u0444\u0438\u0434 \u0446\u0438\u0440\u043A\u043E\u043D\
+    \u0438\u044F"
+- common_names: []
+  formula: ZrS2
+  name: "\u0441\u0443\u043B\u044C\u0444\u0438\u0434 \u0446\u0438\u0440\u043A\u043E\
+    \u043D\u0438\u044F"
+- common_names: ["(\u0434\u0438)\u0441\u0438\u043B\u0438\u0446\u0438\u0434 \u0446\u0438\
+      \u0440\u043A\u043E\u043D\u0438\u044F[1]"]
+  formula: ZrSi2
+  name: "\u0441\u0438\u043B\u0438\u0446\u0438\u0434 \u0446\u0438\u0440\u043A\u043E\
+    \u043D\u0438\u044F"
+- common_names: ["\u0446\u0438\u0440\u043A\u043E\u043D"]
+  formula: ZrSiO4
+  name: "\u043E\u0440\u0442\u043E\u0441\u0438\u043B\u0438\u043A\u0430\u0442 \u0446\
+    \u0438\u0440\u043A\u043E\u043D\u0438\u044F"
+- common_names: []
+  formula: Zr3(PO4)4
+  name: "\u0444\u043E\u0441\u0444\u0430\u0442 \u0446\u0438\u0440\u043A\u043E\u043D\
+    \u0438\u044F"
